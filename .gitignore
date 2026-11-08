@@ -1,0 +1,7 @@
+.env
+.vscode/
+.venv/
+__pycache__/
+neo4j/
+data/raw/
+*.log

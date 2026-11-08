@@ -1,0 +1,24 @@
+# Thu thap
+requests
+trafilatura
+beautifulsoup4
+feedparser
+tenacity
+
+# NLP
+underthesea
+spacy>=3.7
+rapidfuzz
+SPARQLWrapper
+
+# LLM qua 9router (OpenAI-compatible)
+openai>=1.40
+pydantic>=2
+
+# Do thi & thong ke
+neo4j>=5.20
+networkx
+pandas
+matplotlib
+tqdm
+python-dotenv
