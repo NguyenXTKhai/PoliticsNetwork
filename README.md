@@ -84,16 +84,7 @@ conda activate politics-network
 python -m spacy download en_core_web_sm
 ```
 
-If `conda` is not recognized in PowerShell, run once and reopen the terminal:
-
-```powershell
-<path-to-miniconda>\Scripts\conda.exe init powershell
-Set-ExecutionPolicy -Scope CurrentUser RemoteSigned   # only if script execution is blocked
-```
-
 To add a package later: `pip install <pkg>` and append it to `requirements.txt`.
-
-**VS Code:** `Ctrl+Shift+P` → *Python: Select Interpreter* → `politics-network`.
 
 **Windows console & Vietnamese text:** run `chcp 65001` and `$env:PYTHONIOENCODING="utf-8"` to avoid garbled output.
 
@@ -113,7 +104,6 @@ Edit `.env`:
 | `LLM_MODEL` | Model or combo name in 9router (e.g. `nlp-extract`) |
 | `GUARDIAN_API_KEY` | Free key from <https://open-platform.theguardian.com/access/> |
 
-> `.env` is git-ignored. Never commit secrets.
 
 ### 5. Start 9router and create an extraction combo
 
@@ -124,7 +114,7 @@ Edit `.env`:
 In the dashboard:
 
 1. Connect at least one provider (Gemini, OpenRouter, ...).
-2. Create a **combo** named `nlp-extract` with an ordered fallback list (e.g. a fast Gemini Flash model first, free OpenRouter models as fallback).
+2. Create a **combo** with an ordered fallback list (e.g. a fast Gemini Flash model first, free OpenRouter models as fallback).
 3. Copy the API key into `.env`.
 
 Tip: send 10–20 sentences per request to stay within free-tier rate limits.
@@ -194,36 +184,3 @@ PoliticsNetwork/
 ├── requirements.txt         # pip dependencies
 └── .env.example             # environment variable template
 ```
-
-### Pipeline (in progress)
-
-| Step | Script | Status |
-|---|---|---|
-| Environment check | `src/check_env.py` | ✅ |
-| Wikidata entity seeding & aliases | `src/seed_wikidata.py` | ⏳ |
-| Crawling (Guardian, baoquocte.vn, VnExpress) | `src/crawl/` | ⏳ |
-| Preprocessing (cleaning, sentence split, NER, entity linking) | `src/preprocess.py`, `src/ner_link.py` | ⏳ |
-| Relation extraction (rules + LLM) | `src/extract_rel.py` | ⏳ |
-| Graph building & Neo4j loading | `src/build_graph.py`, `src/load_neo4j.py` | ⏳ |
-| Network statistics & evaluation | `src/stats.py`, `src/evaluate.py` | ⏳ |
-
----
-
-## Troubleshooting
-
-| Problem | Fix |
-|---|---|
-| `Connection refused` from `cypher-shell` | Neo4j is still starting — wait for `Started.` in `docker logs neo4j-diplomacy` |
-| Wrong Neo4j password | The password is only set on the **first** start. Stop the container, delete `./neo4j/data`, and run `docker compose up -d` again |
-| Port 7474/7687 already in use | Another Neo4j container is running: `docker ps`, then stop it |
-| `[FAIL] 9router` | Make sure `9router` is running, the API key is correct, and `LLM_MODEL` exists in `http://localhost:20128/v1/models` |
-| Garbled Vietnamese in terminal | `chcp 65001` and `$env:PYTHONIOENCODING="utf-8"` |
-
----
-
-## Team
-
-| Member | Responsibilities |
-|---|---|
-| [@NguyenXTKhai](https://github.com/NguyenXTKhai) | _TBD_ |
-| _Member 2_ | _TBD_ |
