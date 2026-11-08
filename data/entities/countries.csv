@@ -1,0 +1,198 @@
+qid,name,name_vi,iso3
+Q252,Indonesia,Indonesia,IDN
+Q965,Burkina Faso,Burkina Faso,BFA
+Q30,United States,Hoa Kỳ,USA
+Q16,Canada,Canada,CAN
+Q142,France,Pháp,FRA
+Q27,Ireland,Ireland,IRL
+Q189,Iceland,Ai-xơ-len,ISL
+Q1028,Morocco,Maroc,MAR
+Q962,Benin,Bénin,BEN
+Q28,Hungary,Hungary,HUN
+Q1042,Seychelles,Seychelles,SYC
+Q1041,Senegal,Sénégal,SEN
+Q244,Barbados,Barbados,BRB
+Q155,Brazil,Brasil,BRA
+Q96,Mexico,México,MEX
+Q242,Belize,Belize,BLZ
+Q29,Spain,Tây Ban Nha,ESP
+Q34,Sweden,Thụy Điển,SWE
+Q43,Turkey,Thổ Nhĩ Kỳ,TUR
+Q1011,Cape Verde,Cabo Verde,CPV
+Q79,Egypt,Ai Cập,EGY
+Q148,People's Republic of China,Trung Quốc,CHN
+Q39,Switzerland,Thụy Sĩ,CHE
+Q36,Poland,Ba Lan,POL
+Q1030,Namibia,Namibia,NAM
+Q1037,Rwanda,Rwanda,RWA
+Q958,South Sudan,Nam Sudan,SSD
+Q211,Latvia,Latvia,LVA
+Q33,Finland,Phần Lan,FIN
+Q229,Cyprus,Síp,CYP
+Q37,Lithuania,Litva,LTU
+Q1033,Nigeria,Nigeria,NGA
+Q40,Austria,Áo,AUT
+Q183,Germany,Đức,DEU
+Q228,Andorra,Andorra,AND
+Q159,Russia,Nga,RUS
+Q232,Kazakhstan,Kazakhstan,KAZ
+Q1000,Gabon,Gabon,GAB
+Q184,Belarus,Belarus,BLR
+Q38,Italy,Ý,ITA
+Q1005,The Gambia,Gambia,GMB
+Q1006,Guinea,Guinée,GIN
+Q31,Belgium,Bỉ,BEL
+Q32,Luxembourg,Luxembourg,LUX
+Q1007,Guinea-Bissau,Guiné-Bissau,GNB
+Q1008,Ivory Coast,Bờ Biển Ngà,CIV
+Q1009,Cameroon,Cameroon,CMR
+Q1014,Liberia,Liberia,LBR
+Q1013,Lesotho,Lesotho,LSO
+Q1016,Libya,Libya,LBY
+Q1019,Madagascar,Madagascar,MDG
+Q1020,Malawi,Malawi,MWI
+Q1039,São Tomé and Príncipe,São Tomé và Príncipe,STP
+Q1025,Mauritania,Mauritanie,MRT
+Q1027,Mauritius,Mauritius,MUS
+Q1029,Mozambique,Mozambique,MOZ
+Q191,Estonia,Estonia,EST
+Q1032,Niger,Niger,NER
+Q963,Botswana,Botswana,BWA
+Q1036,Uganda,Uganda,UGA
+Q222,Albania,Albania,ALB
+Q986,Eritrea,Eritrea,ERI
+Q17,Japan,Nhật Bản,JPN
+Q20,Norway,Na Uy,NOR
+Q227,Azerbaijan,Azerbaijan,AZE
+Q145,United Kingdom,Vương quốc Liên hiệp Anh và Bắc Ireland,GBR
+Q213,Czech Republic,Séc,CZE
+Q241,Cuba,Cuba,CUB
+Q218,Romania,România,ROU
+Q214,Slovakia,Slovakia,SVK
+Q212,Ukraine,Ukraina,UKR
+Q970,Comoros,Comoros,COM
+Q236,Montenegro,Montenegro,MNE
+Q1044,Sierra Leone,Sierra Leone,SLE
+Q219,Bulgaria,Bulgaria,BGR
+Q1045,Somalia,Somalia,SOM
+Q230,Georgia,Gruzia,GEO
+Q1049,Sudan,Sudan,SDN
+Q1050,Eswatini,Eswatini,SWZ
+Q117,Ghana,Ghana,GHA
+Q215,Slovenia,Slovenia,SVN
+Q967,Burundi,Burundi,BDI
+Q115,Ethiopia,Ethiopia,ETH
+Q233,Malta,Malta,MLT
+Q237,Vatican City,Thành Vatican,VAT
+Q974,Democratic Republic of the Congo,Cộng hòa Dân chủ Congo,COD
+Q977,Djibouti,Djibouti,DJI
+Q221,North Macedonia,Bắc Macedonia,MKD
+Q238,San Marino,San Marino,SMR
+Q114,Kenya,Kenya,KEN
+Q971,Republic of the Congo,Cộng hòa Congo,COG
+Q983,Equatorial Guinea,Guinea Xích Đạo,GNQ
+Q224,Croatia,Croatia,HRV
+Q235,Monaco,Monaco,MCO
+Q217,Moldova,Moldova,MDA
+Q225,Bosnia and Herzegovina,Bosna và Hercegovina,BIH
+Q45,Portugal,Bồ Đào Nha,PRT
+Q29999,Kingdom of the Netherlands,Vương quốc Hà Lan,NLD
+Q41,Greece,Hy Lạp,GRC
+Q1246,Kosovo,Kosovo,XKS
+Q77,Uruguay,Uruguay,URY
+Q756617,Kingdom of Denmark,Vương quốc Đan Mạch,
+Q219060,Palestine,Nhà nước Palestine,PSE
+Q685,Solomon Islands,Quần đảo Solomon,SLB
+Q804,Panama,Panama,PAN
+Q739,Colombia,Colombia,COL
+Q858,Syria,Syria,SYR
+Q902,Bangladesh,Bangladesh,BGD
+Q769,Grenada,Grenada,GRD
+Q854,Sri Lanka,Sri Lanka,LKA
+Q683,Samoa,Samoa,WSM
+Q423,North Korea,Cộng hòa Dân chủ Nhân dân Triều Tiên,PRK
+Q929,Central African Republic,Cộng hòa Trung Phi,CAF
+Q398,Bahrain,Bahrain,BHR
+Q826,Maldives,Maldives,MDV
+Q784,Dominica,Dominica,DMA
+Q916,Angola,Angola,AGO
+Q865,Taiwan,Đài Loan,TWN
+Q781,Antigua and Barbuda,Antigua và Barbuda,ATG
+Q298,Chile,Chile,CHL
+Q790,Haiti,Haiti,HTI
+Q948,Tunisia,Tunisia,TUN
+Q414,Argentina,Argentina,ARG
+Q657,Chad,Tchad,TCD
+Q884,South Korea,Hàn Quốc,KOR
+Q347,Liechtenstein,Liechtenstein,LIE
+Q869,Thailand,Thái Lan,THA
+Q709,Marshall Islands,Quần đảo Marshall,MHL
+Q763,Saint Kitts and Nevis,Saint Kitts và Nevis,KNA
+Q408,Australia,Úc,AUS
+Q912,Mali,Mali,MLI
+Q403,Serbia,Serbia,SRB
+Q945,Togo,Togo,TGO
+Q262,Algeria,Algérie,DZA
+Q786,Dominican Republic,Cộng hòa Dominica,DOM
+Q734,Guyana,Guyana,GUY
+Q801,Israel,Israel,ISR
+Q334,Singapore,Singapore,SGP
+Q668,India,Ấn Độ,IND
+Q265,Uzbekistan,Uzbekistan,UZB
+Q419,Peru,Perú,PER
+Q750,Bolivia,Bolivia,BOL
+Q736,Ecuador,Ecuador,ECU
+Q664,New Zealand,New Zealand,NZL
+Q717,Venezuela,Venezuela,VEN
+Q794,Iran,Iran,IRN
+Q711,Mongolia,Mông Cổ,MNG
+Q889,Afghanistan,Afghanistan,AFG
+Q851,Saudi Arabia,Ả Rập Xê Út,SAU
+Q678,Tonga,Tonga,TON
+Q399,Armenia,Armenia,ARM
+Q760,Saint Lucia,Saint Lucia,LCA
+Q796,Iraq,Iraq,IRQ
+Q810,Jordan,Jordan,JOR
+Q813,Kyrgyzstan,Kyrgyzstan,KGZ
+Q819,Laos,Lào,LAO
+Q805,Yemen,Yemen,YEM
+Q921,Brunei,Brunei,BRN
+Q863,Tajikistan,Tajikistan,TJK
+Q874,Turkmenistan,Turkmenistan,TKM
+Q754,Trinidad and Tobago,Trinidad và Tobago,TTO
+Q822,Lebanon,Liban,LBN
+Q954,Zimbabwe,Zimbabwe,ZWE
+Q878,United Arab Emirates,các Tiểu vương quốc Ả Rập Thống nhất,ARE
+Q811,Nicaragua,Nicaragua,NIC
+Q833,Malaysia,Malaysia,MYS
+Q842,Oman,Oman,OMN
+Q783,Honduras,Honduras,HND
+Q774,Guatemala,Guatemala,GTM
+Q691,Papua New Guinea,Papua New Guinea,PNG
+Q695,Palau,Palau,PLW
+Q881,Vietnam,Việt Nam,VNM
+Q710,Kiribati,Kiribati,KIR
+Q730,Suriname,Suriname,SUR
+Q672,Tuvalu,Tuvalu,TUV
+Q702,Federated States of Micronesia,Micronesia,FSM
+Q424,Cambodia,Campuchia,KHM
+Q836,Myanmar,Myanma,MMR
+Q778,The Bahamas,Bahamas,BHS
+Q792,El Salvador,El Salvador,SLV
+Q697,Nauru,Nauru,NRU
+Q843,Pakistan,Pakistan,PAK
+Q712,Fiji,Fiji,FJI
+Q846,Qatar,Qatar,QAT
+Q757,Saint Vincent and the Grenadines,Saint Vincent và Grenadines,VCT
+Q258,South Africa,Nam Phi,ZAF
+Q837,Nepal,Nepal,NPL
+Q800,Costa Rica,Costa Rica,CRI
+Q766,Jamaica,Jamaica,JAM
+Q917,Bhutan,Bhutan,BTN
+Q928,Philippines,Philippines,PHL
+Q817,Kuwait,Kuwait,KWT
+Q574,Timor-Leste,Đông Timor,TLS
+Q953,Zambia,Zambia,ZMB
+Q924,Tanzania,Tanzania,TZA
+Q733,Paraguay,Paraguay,PRY
+Q686,Vanuatu,Vanuatu,VUT
