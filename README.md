@@ -21,6 +21,29 @@ Target: ≥ 2,000 nodes, ≥ 5,000 edges, ≥ 10 relation types, ≥ 90% precisi
 | Graph database | **Neo4j 5.26** + APOC + Graph Data Science (Docker) |
 | Analysis | `networkx`, `pandas`, `matplotlib`, Neo4j GDS |
 
+
+---
+
+## Project structure
+
+```
+PoliticsNetwork/
+├── cypher/
+│   └── 00_schema.cypher     # constraints & indexes
+├── data/
+│   ├── raw/                 # crawled articles (git-ignored)
+│   ├── processed/           # cleaned articles, sentences
+│   ├── entities/            # Wikidata seeds & alias dictionary
+│   └── graph/               # nodes.csv / edges.csv (mounted to Neo4j /import)
+├── src/
+│   ├── check_env.py         # environment check (Neo4j + 9router)
+│   ├── seed_wikidata.py     # step 1: entities, positions, memberships, aliases
+│   └── crawl/               # step 2: guardian.py, vnexpress.py, baoquocte.py, common.py
+├── docker-compose.yml       # Neo4j 5.26 + APOC + GDS
+├── environment.yml          # conda environment
+├── requirements.txt         # pip dependencies
+└── .env.example             # environment variable template
+```
 ---
 
 ## Graph model
@@ -166,21 +189,48 @@ docker compose stop         # stop Neo4j (data is kept)
 
 ---
 
-## Project structure
+## Data pipeline
 
+Run all commands from the project root with the conda env active.
+
+### Step 1 — Seed entities from Wikidata (~2 min)
+
+```powershell
+python src/seed_wikidata.py              # office terms ending in/after 2000
+python src/seed_wikidata.py --since 2010 # narrower
 ```
-PoliticsNetwork/
-├── cypher/
-│   └── 00_schema.cypher     # constraints & indexes
-├── data/
-│   ├── raw/                 # crawled articles (git-ignored)
-│   ├── processed/           # cleaned articles, sentences
-│   ├── entities/            # Wikidata seeds & alias dictionary
-│   └── graph/               # nodes.csv / edges.csv (mounted to Neo4j /import)
-├── src/
-│   └── check_env.py         # environment check (Neo4j + 9router)
-├── docker-compose.yml       # Neo4j 5.26 + APOC + GDS
-├── environment.yml          # conda environment
-├── requirements.txt         # pip dependencies
-└── .env.example             # environment variable template
+
+Writes `data/entities/`: `persons.csv` (~5,200 heads of state/government, foreign ministers, heads of organizations), `countries.csv` (197), `organizations.csv` (~95), `positions.csv` (→ `LEADER_OF`), `memberships.csv` (→ `MEMBER_OF`), and two alias dictionaries:
+
+- `aliases.json` — names longer than 4 characters, matched case-insensitively (`"tập cận bình"` → Xi Jinping)
+- `aliases_cs.json` — short names / acronyms, matched case-sensitively (`"Anh"`, `"Mỹ"`, `"NATO"`, `"LHQ"`), because many collide with ordinary Vietnamese words (`nam`, `anh`, `đức`)
+
+Vietnamese press names are added in `data/entities/manual_aliases.csv` (`alias,enwiki` — English Wikipedia title, resolved to a QID at runtime).
+
+### Step 2 — Crawl news articles
+
+| Source | Command | Method | Volume (since 2024) |
+|---|---|---|---|
+| The Guardian (EN) | `python -m src.crawl.guardian --from 2024-01-01` | Open Platform API, `section=world`, diplomacy query | ~15,100 articles, ~6 min |
+| VnExpress — Thế giới (VI) | `python -m src.crawl.vnexpress --since 2024-01` | Weekly date-range archive (max ~20 pages per query) | ~50 diplomatic articles / week |
+| Báo Thế giới & Việt Nam (VI) | `python -m src.crawl.baoquocte --since 2024-01` | Monthly sitemaps (category pages use `/ajax/`, disallowed by robots.txt) | ~950 diplomatic articles / month |
+
+- Vietnamese URLs are pre-filtered by diplomatic slug keywords (`tong-thong`, `hoi-dam`, `trung-phat`, `vien-tro`, `nato`, ...); add `--all` to disable.
+- Polite crawling: 3 worker threads (`--workers`), ~1 s delay per request, retries with exponential backoff.
+- Crawls are **resumable**: each source is appended to `data/raw/<source>.jsonl` and already-saved URLs are skipped, so just re-run the same command after an interruption.
+- baoquocte.vn currently publishes no monthly sitemaps for 2025.
+- Guardian free key: 500 calls/day × 200 articles/call.
+
+Record format (one JSON object per line):
+
+```json
+{"url": "...", "title": "...", "date": "2026-11-08", "source": "baoquocte", "lang": "vi",
+ "section": "Toàn cảnh", "description": "...", "text": "..."}
 ```
+
+Check progress:
+
+```powershell
+Get-ChildItem data/raw/*.jsonl | ForEach-Object { "$($_.Name): $((Get-Content $_ | Measure-Object -Line).Lines)" }
+```
+
