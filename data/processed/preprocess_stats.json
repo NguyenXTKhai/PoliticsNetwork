@@ -1,0 +1,248 @@
+{
+  "articles": 83232,
+  "duplicate_articles": 346,
+  "sentences": 3723648,
+  "mentions": 2806591,
+  "sent_2ent": 647902,
+  "kept": 259475,
+  "written": 239183,
+  "dup_sentences": 20292,
+  "per_source": {
+    "guardian": {
+      "sentences": 3132664,
+      "mentions": 2075684,
+      "sent_2ent": 463246,
+      "kept": 178435,
+      "articles": 56395
+    },
+    "vnexpress": {
+      "sentences": 174294,
+      "mentions": 269410,
+      "sent_2ent": 74513,
+      "kept": 32104,
+      "articles": 7536
+    },
+    "baoquocte": {
+      "sentences": 416690,
+      "mentions": 461497,
+      "sent_2ent": 110143,
+      "kept": 48936,
+      "articles": 19301
+    }
+  },
+  "distinct_entities": 2499,
+  "distinct_by_type": {
+    "Country": 195,
+    "Organization": 124,
+    "Person": 2180
+  },
+  "mentions_by_method": {
+    "alias": 657059,
+    "role": 13181,
+    "surname": 48847
+  },
+  "triggers": {
+    "MET_WITH": 59752,
+    "SUPPORTED": 54486,
+    "SIGNED_AGREEMENT": 44920,
+    "CONDEMNED": 44647,
+    "VISITED": 24319,
+    "MILITARY_AID": 22637,
+    "ECONOMIC_AID": 17286,
+    "SANCTIONED": 16294,
+    "PHONE_CALL": 4665,
+    "UPGRADED_PARTNERSHIP": 3818,
+    "EXPELLED_DIPLOMAT": 1586
+  },
+  "entity_type_combinations": {
+    "Country-Person": 90486,
+    "Country": 67231,
+    "Country-Organization": 39014,
+    "Country-Organization-Person": 18136,
+    "Person": 11798,
+    "Organization-Person": 10241,
+    "Organization": 2277
+  },
+  "top_entities": [
+    {
+      "qid": "Q30",
+      "name": "United States",
+      "type": "Country",
+      "sentences": 81038
+    },
+    {
+      "qid": "Q212",
+      "name": "Ukraine",
+      "type": "Country",
+      "sentences": 56137
+    },
+    {
+      "qid": "Q159",
+      "name": "Russia",
+      "type": "Country",
+      "sentences": 46970
+    },
+    {
+      "qid": "Q881",
+      "name": "Vietnam",
+      "type": "Country",
+      "sentences": 31943
+    },
+    {
+      "qid": "Q22686",
+      "name": "Donald Trump",
+      "type": "Person",
+      "sentences": 28385
+    },
+    {
+      "qid": "Q801",
+      "name": "Israel",
+      "type": "Country",
+      "sentences": 24154
+    },
+    {
+      "qid": "Q458",
+      "name": "European Union",
+      "type": "Organization",
+      "sentences": 22331
+    },
+    {
+      "qid": "Q794",
+      "name": "Iran",
+      "type": "Country",
+      "sentences": 21778
+    },
+    {
+      "qid": "Q145",
+      "name": "United Kingdom",
+      "type": "Country",
+      "sentences": 21249
+    },
+    {
+      "qid": "Q1065",
+      "name": "United Nations",
+      "type": "Organization",
+      "sentences": 14771
+    },
+    {
+      "qid": "Q7747",
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "sentences": 14128
+    },
+    {
+      "qid": "Q3874799",
+      "name": "Volodymyr Zelenskyy",
+      "type": "Person",
+      "sentences": 12436
+    },
+    {
+      "qid": "Q142",
+      "name": "France",
+      "type": "Country",
+      "sentences": 10442
+    },
+    {
+      "qid": "Q6279",
+      "name": "Joe Biden",
+      "type": "Person",
+      "sentences": 9184
+    },
+    {
+      "qid": "Q148",
+      "name": "People's Republic of China",
+      "type": "Country",
+      "sentences": 8793
+    },
+    {
+      "qid": "Q183",
+      "name": "Germany",
+      "type": "Country",
+      "sentences": 8675
+    },
+    {
+      "qid": "Q38799",
+      "name": "Hamas",
+      "type": "Organization",
+      "sentences": 8239
+    },
+    {
+      "qid": "Q7768",
+      "name": "ASEAN",
+      "type": "Organization",
+      "sentences": 5754
+    },
+    {
+      "qid": "Q43723",
+      "name": "Benjamin Netanyahu",
+      "type": "Person",
+      "sentences": 5280
+    },
+    {
+      "qid": "Q17",
+      "name": "Japan",
+      "type": "Country",
+      "sentences": 5155
+    },
+    {
+      "qid": "Q851",
+      "name": "Saudi Arabia",
+      "type": "Country",
+      "sentences": 5070
+    },
+    {
+      "qid": "Q43",
+      "name": "Turkey",
+      "type": "Country",
+      "sentences": 4988
+    },
+    {
+      "qid": "Q408",
+      "name": "Australia",
+      "type": "Country",
+      "sentences": 4947
+    },
+    {
+      "qid": "Q668",
+      "name": "India",
+      "type": "Country",
+      "sentences": 4865
+    },
+    {
+      "qid": "Q3052772",
+      "name": "Emmanuel Macron",
+      "type": "Person",
+      "sentences": 4775
+    },
+    {
+      "qid": "Q10831196",
+      "name": "Tô Lâm",
+      "type": "Person",
+      "sentences": 4660
+    },
+    {
+      "qid": "Q884",
+      "name": "South Korea",
+      "type": "Country",
+      "sentences": 4635
+    },
+    {
+      "qid": "Q423",
+      "name": "North Korea",
+      "type": "Country",
+      "sentences": 4561
+    },
+    {
+      "qid": "Q858",
+      "name": "Syria",
+      "type": "Country",
+      "sentences": 4265
+    },
+    {
+      "qid": "Q822",
+      "name": "Lebanon",
+      "type": "Country",
+      "sentences": 4221
+    }
+  ]
+}

@@ -12,14 +12,14 @@ Target: ≥ 2,000 nodes, ≥ 5,000 edges, ≥ 10 relation types, ≥ 90% precisi
 
 | Layer | Tools |
 |---|---|
-| Crawling | `requests`, `trafilatura`, `beautifulsoup4`, `feedparser`, Guardian Open Platform API |
+| Crawling | `requests`, `trafilatura`, Guardian Open Platform API |
 | NLP (Vietnamese) | `underthesea` (sentence split, NER) |
-| NLP (English) | `spaCy` (`en_core_web_sm`) |
-| Entity linking | Wikidata (`SPARQLWrapper`) alias dictionary + `rapidfuzz` |
+| NLP (English) | `spaCy` (rule-based sentencizer, no model download needed) |
+| Entity linking | Wikidata SPARQL (`requests`) alias dictionary, exact longest-match |
 | Relation extraction | Keyword rules + LLM via **[9router](https://9router.com/)** (OpenAI-compatible gateway, `openai` SDK) |
 | Agent / orchestration | **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** (optional, pointed at the same 9router endpoint) |
 | Graph database | **Neo4j 5.26** + APOC + Graph Data Science (Docker) |
-| Analysis | `networkx`, `pandas`, `matplotlib`, Neo4j GDS |
+| Analysis | `networkx`, `matplotlib`, Neo4j GDS |
 
 
 ---
@@ -29,16 +29,28 @@ Target: ≥ 2,000 nodes, ≥ 5,000 edges, ≥ 10 relation types, ≥ 90% precisi
 ```
 PoliticsNetwork/
 ├── cypher/
-│   └── 00_schema.cypher     # constraints & indexes
+│   ├── 00_schema.cypher     # constraints & indexes
+│   └── 01_queries.cypher    # example analysis queries (demo)
 ├── data/
-│   ├── raw/                 # crawled articles (git-ignored)
-│   ├── processed/           # cleaned articles, sentences
-│   ├── entities/            # Wikidata seeds & alias dictionary
-│   └── graph/               # nodes.csv / edges.csv (mounted to Neo4j /import)
+│   ├── raw/                 # crawled articles (git-ignored, ~600 MB)
+│   ├── processed/
+│   │   ├── sentences.jsonl        # candidate sentences + linked entities (git-ignored, rebuilt by step 3)
+│   │   ├── entity_links.jsonl.gz  # compact entity links (committed; used by build_graph in a fresh clone)
+│   │   ├── relations.jsonl        # LLM extraction output (committed: not cheaply re-creatable)
+│   │   └── preprocess_stats.json
+│   ├── entities/            # Wikidata seeds & alias dictionary (committed: Wikidata changes over time)
+│   └── graph/               # nodes / edges (.csv, .json) (mounted to Neo4j /import); network.graphml (git-ignored)
+├── reports/                 # stats, evaluation samples + human labels, annotation guide (figures/ git-ignored)
 ├── src/
 │   ├── check_env.py         # environment check (Neo4j + 9router)
 │   ├── seed_wikidata.py     # step 1: entities, positions, memberships, aliases
-│   └── crawl/               # step 2: guardian.py, vnexpress.py, baoquocte.py, common.py
+│   ├── crawl/               # step 2: guardian.py, vnexpress.py, baoquocte.py, common.py
+│   ├── preprocess.py        # step 3: sentence split, entity linking (uses lexicon.py)
+│   ├── extract_rel.py       # step 4: LLM ensemble relation extraction
+│   ├── build_graph.py       # step 5: aggregate edges, QC rules, KB enrichment
+│   ├── load_neo4j.py        # step 5: load graph into Neo4j
+│   ├── stats.py             # step 6: network statistics and figures
+│   └── evaluate.py          # step 7: sampling, scoring (precision, kappa)
 ├── docker-compose.yml       # Neo4j 5.26 + APOC + GDS
 ├── environment.yml          # conda environment
 ├── requirements.txt         # pip dependencies
@@ -104,7 +116,6 @@ cd PoliticsNetwork
 ```powershell
 conda env create -f environment.yml
 conda activate politics-network
-python -m spacy download en_core_web_sm
 ```
 
 To add a package later: `pip install <pkg>` and append it to `requirements.txt`.
@@ -234,3 +245,127 @@ Check progress:
 Get-ChildItem data/raw/*.jsonl | ForEach-Object { "$($_.Name): $((Get-Content $_ | Measure-Object -Line).Lines)" }
 ```
 
+### Step 3 — Preprocessing & entity linking (~1–2 min)
+
+```powershell
+python src/preprocess.py                               # all sources, 4 worker processes
+python src/preprocess.py --sources guardian --limit 200  # quick test
+```
+
+1. **De-duplication** — articles by URL and normalized title, sentences by exact text (wire copies).
+2. **Normalization** — Unicode NFC and a single Vietnamese tone-mark style (`hoà` → `hòa`, `uý` → `úy`) applied to both text and aliases.
+3. **Sentence splitting** — spaCy `sentencizer` (EN), `underthesea.sent_tokenize` (VI); sentences of 30–800 characters.
+4. **Entity linking** (dictionary-based, longest match first):
+   - long aliases case-insensitively, but the matched span must contain a capital letter (proper noun);
+   - short aliases case-sensitively (`Anh`, `Mỹ`, `NATO`);
+   - generic titles are stop-listed (`prime minister`, `security council`, `chính phủ`);
+   - one-word person aliases must be a surname (`Putin`), never a given name (`David`);
+   - **article-level surnames**: after "Emmanuel Macron" appears, "Macron" links to him; in Vietnamese only after an honorific (`ông`, `Thủ tướng`, ...) so that "**Chính** phủ" is not linked to Phạm Minh Chính;
+   - **role mentions** resolved by article date: "Tổng thống Philippines", "the UK prime minister", "Tổng thư ký LHQ" → the office holder whose most recent term started before the article date;
+   - ambiguous aliases → the candidate in office on the article date.
+5. **Filtering** — keep sentences with ≥ 2 distinct entities **and** ≥ 1 diplomatic trigger word from `src/lexicon.py` (11 relation types, VI + EN).
+
+Output `data/processed/sentences.jsonl` (git-ignored, large) + `data/processed/preprocess_stats.json`:
+
+```json
+{"sid": "…-12", "url": "…", "source": "baoquocte", "lang": "vi", "date": "2024-01-29",
+ "sentence": "Tổng thống Thổ Nhĩ Kỳ Tayyip Erdogan ngày 25/1 đã ký phê duyệt nghị định thư xin gia nhập NATO của Thụy Điển.",
+ "entities": [{"qid": "Q43", "name": "Turkey", "type": "Country", "text": "Thổ Nhĩ Kỳ", "start": 11, "end": 21, "via": "alias"}, …],
+ "triggers": ["SIGNED_AGREEMENT"]}
+```
+
+Known data issues handled: fictional office holders in Wikidata (filtered by `P31 = Q5`), open-ended 17th-century terms (resolved by latest term start).
+
+
+### Step 4 — Relation extraction with an LLM ensemble (resumable)
+
+```powershell
+python src/extract_rel.py --workers 4 `
+    --ensemble agnes/agnes-2.5-flash+agnes/agnes-3.0-flash `
+    --ensemble oc/deepseek-v4.1-flash-free+oc/glm-5.3-flash-free
+```
+
+- Sentences are sent in batches of 15 with the candidate entity pairs; the model answers JSON
+  (relation, source, target, confidence, agreement / event name).
+- **Ensemble agreement**: a relation is kept only when *all* models of an ensemble return it
+  (same type, endpoints, direction). **Cascade**: model 2 only re-checks sentences where model 1 found something.
+- **Rule validation**: schema type constraints (e.g. `MILITARY_AID` source must be a Country / Organization),
+  no self-loops, a person is never related to the state he/she represents, confidence ≥ 0.7.
+- Several `--ensemble` options share one queue (one per provider, so rate limits do not add up).
+  A provider that runs out of its daily quota retires and its batches go back to the queue.
+- **Coverage-first order**: sentences that mention entities not yet in the graph are processed first
+  (round-robin over entities); sentences re-linked after a dictionary update are re-extracted.
+- Output `data/processed/relations.jsonl` (append-only; the latest record per sentence wins),
+  call log `data/processed/llm_calls.log`. Re-running continues where it stopped.
+
+### Step 5 — Build the graph and load Neo4j
+
+```powershell
+python src/build_graph.py              # -> data/graph/nodes|edges.(json|csv)
+python src/load_neo4j.py               # wipes and loads; --keep to MERGE
+```
+
+- Diplomatic edges aggregated per (source, target, type): weight = supporting sentences, first/last date,
+  languages, sources, up to 3 evidence sentences with URLs. Post-hoc QC rules (`QC_REQUIRE`) drop
+  relations whose sentence lacks the required cue (e.g. a "summoned the ambassador" EXPELLED_DIPLOMAT).
+- Agreement / Event nodes from the names the LLM extracted (`PARTY_TO`, `ATTENDED`).
+- Structural edges from Wikidata between graph nodes: `LEADER_OF`, `AMBASSADOR_OF`, `MEMBER_OF`.
+- **KB enrichment** (`--kb-min-mentions 3`, 0 = off): persons linked by full name in ≥ 3 news sentences
+  who hold a Wikidata position at a graph node are added with that edge (`origin = "kb"`, others `"news"`).
+
+### Step 6 — Network statistics
+
+```powershell
+python src/stats.py    # -> reports/stats.json, stats.md, figures/*.png, data/graph/network.graphml (Gephi)
+```
+
+Density, degree, components, clustering, assortativity, sampled shortest paths, PageRank (diplomatic edges),
+betweenness, Louvain communities and modularity.
+
+### Step 7 — Precision evaluation (manual)
+
+```powershell
+python src/evaluate.py sample --n 300       # stratified by relation type -> reports/eval_sample.csv
+python src/evaluate.py sample-kb --n 60     # KB-enriched nodes          -> reports/eval_kb_sample.csv
+# two annotators fill label_a / label_b following reports/ANNOTATION_GUIDE.md, then:
+python src/evaluate.py score
+python src/evaluate.py score --file reports/eval_kb_sample.csv
+```
+
+Precision with a Wilson 95% interval, Cohen's kappa, and breakdowns per relation type, language and ensemble.
+
+> **Do not re-run `sample` / `sample-kb`** once labels exist: they overwrite `eval_sample.csv` /
+> `eval_kb_sample.csv` (the human labels). Kappa is computed from the original blind labels in
+> `reports/eval_subset_B.csv` (annotator B); `label_b` in `eval_sample.csv` holds the adjudicated values.
+
+Example Cypher queries for the demo: `cypher/01_queries.cypher`.
+
+## Reproducing the reported results (fresh clone)
+
+The repository freezes every non-deterministic input, so the graph and all numbers can be rebuilt on another
+machine **without crawling and without any LLM / API call**:
+
+| Committed file | Freezes |
+|---|---|
+| `data/entities/` | Wikidata snapshot (+ manual label fixes) |
+| `data/processed/relations.jsonl` | LLM extraction output |
+| `data/processed/entity_links.jsonl.gz` | entity links per sentence (compact copy of the git-ignored `sentences.jsonl`) |
+| `reports/eval_*.csv` | human annotation labels |
+
+```powershell
+conda env create -f environment.yml; conda activate politics-network
+copy .env.example .env                   # set NEO4J_PASSWORD (LLM / Guardian keys are not needed)
+docker compose up -d                     # Neo4j
+python src/build_graph.py                # -> data/graph/ (2130 nodes, 11644 edges, 16 types; identical files)
+python src/load_neo4j.py
+python src/stats.py                      # -> reports/stats.*, reports/figures/, data/graph/network.graphml
+python src/evaluate.py score; python src/evaluate.py score --file reports/eval_kb_sample.csv
+```
+
+What a clone can **not** do without extra data: re-run `preprocess.py` / `extract_rel.py` (they need the
+crawled articles `data/raw/` and full sentences, ~800 MB, not in git; re-crawl with step 2, which may return a
+slightly different article set) or `evaluate.py sample-kb` (needs sentence text). `preprocess.py` refuses to
+run without `data/raw/`, so it cannot overwrite the committed files by accident.
+
+Do **not** re-run `seed_wikidata.py` (it would fetch a newer Wikidata snapshot, so entity ids,
+positions and aliases may differ) or `extract_rel.py` from scratch unless you intend to change the results.

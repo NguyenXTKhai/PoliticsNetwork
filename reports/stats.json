@@ -1,0 +1,518 @@
+{
+  "nodes": 2130,
+  "edges": 11644,
+  "node_types": {
+    "Person": 1238,
+    "Agreement": 355,
+    "Event": 275,
+    "Country": 182,
+    "Organization": 80
+  },
+  "edge_types": {
+    "MET_WITH": 2021,
+    "MEMBER_OF": 1895,
+    "LEADER_OF": 1604,
+    "CONDEMNED": 993,
+    "VISITED": 918,
+    "PARTY_TO": 803,
+    "ATTENDED": 792,
+    "SUPPORTED": 721,
+    "PHONE_CALL": 546,
+    "SIGNED_AGREEMENT": 497,
+    "SANCTIONED": 226,
+    "ECONOMIC_AID": 211,
+    "AMBASSADOR_OF": 111,
+    "MILITARY_AID": 108,
+    "UPGRADED_PARTNERSHIP": 101,
+    "EXPELLED_DIPLOMAT": 97
+  },
+  "relation_types": 16,
+  "diplomatic_edges": 6439,
+  "diplomatic_mentions": 10105,
+  "density_directed": 0.002238,
+  "avg_degree": 9.14,
+  "connected_components": 1,
+  "giant_component_nodes": 2130,
+  "giant_component_share": 1.0,
+  "avg_clustering": 0.5087,
+  "transitivity": 0.0973,
+  "degree_assortativity": -0.2376,
+  "avg_shortest_path_sampled": 3.047,
+  "diameter_sampled_lower_bound": 6,
+  "louvain_communities": 10,
+  "modularity": 0.3985,
+  "top_degree": [
+    {
+      "id": "Q30",
+      "name": "United States",
+      "type": "Country",
+      "value": 399
+    },
+    {
+      "id": "Q881",
+      "name": "Vietnam",
+      "type": "Country",
+      "value": 314
+    },
+    {
+      "id": "Q159",
+      "name": "Russia",
+      "type": "Country",
+      "value": 252
+    },
+    {
+      "id": "Q801",
+      "name": "Israel",
+      "type": "Country",
+      "value": 238
+    },
+    {
+      "id": "Q212",
+      "name": "Ukraine",
+      "type": "Country",
+      "value": 235
+    },
+    {
+      "id": "Q3874799",
+      "name": "Volodymyr Zelenskyy",
+      "type": "Person",
+      "value": 212
+    },
+    {
+      "id": "Q1065",
+      "name": "United Nations",
+      "type": "Organization",
+      "value": 211
+    },
+    {
+      "id": "Q145",
+      "name": "United Kingdom",
+      "type": "Country",
+      "value": 211
+    },
+    {
+      "id": "Q7817",
+      "name": "World Health Organization",
+      "type": "Organization",
+      "value": 191
+    },
+    {
+      "id": "Q22686",
+      "name": "Donald Trump",
+      "type": "Person",
+      "value": 188
+    },
+    {
+      "id": "Q7747",
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "value": 184
+    },
+    {
+      "id": "Q458",
+      "name": "European Union",
+      "type": "Organization",
+      "value": 182
+    },
+    {
+      "id": "Q7809",
+      "name": "UNESCO",
+      "type": "Organization",
+      "value": 178
+    },
+    {
+      "id": "Q376150",
+      "name": "International Telecommunication Union",
+      "type": "Organization",
+      "value": 175
+    },
+    {
+      "id": "Q191384",
+      "name": "International Bank for Reconstruction and Development",
+      "type": "Organization",
+      "value": 172
+    }
+  ],
+  "top_weighted_degree": [
+    {
+      "id": "Q30",
+      "name": "United States",
+      "type": "Country",
+      "value": 1057
+    },
+    {
+      "id": "Q801",
+      "name": "Israel",
+      "type": "Country",
+      "value": 1018
+    },
+    {
+      "id": "Q881",
+      "name": "Vietnam",
+      "type": "Country",
+      "value": 689
+    },
+    {
+      "id": "Q38799",
+      "name": "Hamas",
+      "type": "Organization",
+      "value": 659
+    },
+    {
+      "id": "Q159",
+      "name": "Russia",
+      "type": "Country",
+      "value": 620
+    },
+    {
+      "id": "Q212",
+      "name": "Ukraine",
+      "type": "Country",
+      "value": 588
+    },
+    {
+      "id": "Q22686",
+      "name": "Donald Trump",
+      "type": "Person",
+      "value": 519
+    },
+    {
+      "id": "Q7747",
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "value": 494
+    },
+    {
+      "id": "Q3874799",
+      "name": "Volodymyr Zelenskyy",
+      "type": "Person",
+      "value": 490
+    },
+    {
+      "id": "Q145",
+      "name": "United Kingdom",
+      "type": "Country",
+      "value": 430
+    },
+    {
+      "id": "Q10831196",
+      "name": "Tô Lâm",
+      "type": "Person",
+      "value": 353
+    },
+    {
+      "id": "Q794",
+      "name": "Iran",
+      "type": "Country",
+      "value": 352
+    },
+    {
+      "id": "Q6279",
+      "name": "Joe Biden",
+      "type": "Person",
+      "value": 342
+    },
+    {
+      "id": "Q458",
+      "name": "European Union",
+      "type": "Organization",
+      "value": 333
+    },
+    {
+      "id": "Q3052772",
+      "name": "Emmanuel Macron",
+      "type": "Person",
+      "value": 286
+    }
+  ],
+  "top_pagerank": [
+    {
+      "id": "Q881",
+      "name": "Vietnam",
+      "type": "Country",
+      "value": 0.04748
+    },
+    {
+      "id": "Q801",
+      "name": "Israel",
+      "type": "Country",
+      "value": 0.03466
+    },
+    {
+      "id": "Q30",
+      "name": "United States",
+      "type": "Country",
+      "value": 0.02819
+    },
+    {
+      "id": "Q159",
+      "name": "Russia",
+      "type": "Country",
+      "value": 0.02489
+    },
+    {
+      "id": "Q212",
+      "name": "Ukraine",
+      "type": "Country",
+      "value": 0.02298
+    },
+    {
+      "id": "Q794",
+      "name": "Iran",
+      "type": "Country",
+      "value": 0.02036
+    },
+    {
+      "id": "Q7747",
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "value": 0.01504
+    },
+    {
+      "id": "Q458",
+      "name": "European Union",
+      "type": "Organization",
+      "value": 0.01051
+    },
+    {
+      "id": "Q145",
+      "name": "United Kingdom",
+      "type": "Country",
+      "value": 0.00914
+    },
+    {
+      "id": "Q851",
+      "name": "Saudi Arabia",
+      "type": "Country",
+      "value": 0.0082
+    },
+    {
+      "id": "Q38799",
+      "name": "Hamas",
+      "type": "Organization",
+      "value": 0.00809
+    },
+    {
+      "id": "Q148",
+      "name": "People's Republic of China",
+      "type": "Country",
+      "value": 0.008
+    },
+    {
+      "id": "Q142",
+      "name": "France",
+      "type": "Country",
+      "value": 0.008
+    },
+    {
+      "id": "Q22686",
+      "name": "Donald Trump",
+      "type": "Person",
+      "value": 0.00799
+    },
+    {
+      "id": "Q3874799",
+      "name": "Volodymyr Zelenskyy",
+      "type": "Person",
+      "value": 0.0076
+    }
+  ],
+  "top_betweenness": [
+    {
+      "id": "Q30",
+      "name": "United States",
+      "type": "Country",
+      "value": 0.14442
+    },
+    {
+      "id": "Q881",
+      "name": "Vietnam",
+      "type": "Country",
+      "value": 0.12172
+    },
+    {
+      "id": "Q159",
+      "name": "Russia",
+      "type": "Country",
+      "value": 0.07412
+    },
+    {
+      "id": "Q801",
+      "name": "Israel",
+      "type": "Country",
+      "value": 0.07227
+    },
+    {
+      "id": "Q145",
+      "name": "United Kingdom",
+      "type": "Country",
+      "value": 0.06349
+    },
+    {
+      "id": "Q212",
+      "name": "Ukraine",
+      "type": "Country",
+      "value": 0.05954
+    },
+    {
+      "id": "Q3874799",
+      "name": "Volodymyr Zelenskyy",
+      "type": "Person",
+      "value": 0.05148
+    },
+    {
+      "id": "Q7747",
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "value": 0.05062
+    },
+    {
+      "id": "Q22686",
+      "name": "Donald Trump",
+      "type": "Person",
+      "value": 0.04568
+    },
+    {
+      "id": "Q458",
+      "name": "European Union",
+      "type": "Organization",
+      "value": 0.04492
+    },
+    {
+      "id": "Q1065",
+      "name": "United Nations",
+      "type": "Organization",
+      "value": 0.03441
+    },
+    {
+      "id": "Q10831196",
+      "name": "Tô Lâm",
+      "type": "Person",
+      "value": 0.03392
+    },
+    {
+      "id": "Q408",
+      "name": "Australia",
+      "type": "Country",
+      "value": 0.03232
+    },
+    {
+      "id": "Q10806940",
+      "name": "Phạm Minh Chính",
+      "type": "Person",
+      "value": 0.02988
+    },
+    {
+      "id": "Q148",
+      "name": "People's Republic of China",
+      "type": "Country",
+      "value": 0.02863
+    }
+  ],
+  "top_communities": [
+    {
+      "size": 443,
+      "members": [
+        "Vietnam",
+        "Tô Lâm",
+        "People's Republic of China",
+        "Phạm Minh Chính",
+        "India",
+        "Thailand",
+        "Lương Cường",
+        "Bùi Thanh Sơn"
+      ]
+    },
+    {
+      "size": 383,
+      "members": [
+        "Russia",
+        "Ukraine",
+        "European Union",
+        "France",
+        "Germany",
+        "Canada",
+        "Italy",
+        "North Korea"
+      ]
+    },
+    {
+      "size": 307,
+      "members": [
+        "United States",
+        "Israel",
+        "Hamas",
+        "Iran",
+        "Turkey",
+        "Saudi Arabia",
+        "Hezbollah",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "size": 296,
+      "members": [
+        "United Nations",
+        "World Health Organization",
+        "UNESCO",
+        "International Telecommunication Union",
+        "International Bank for Reconstruction and Development",
+        "World Trade Organization",
+        "Brazil",
+        "African Development Bank"
+      ]
+    },
+    {
+      "size": 281,
+      "members": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Volodymyr Zelenskyy",
+        "Joe Biden",
+        "Emmanuel Macron",
+        "Benjamin Netanyahu",
+        "Xi Jinping",
+        "Ursula von der Leyen"
+      ]
+    },
+    {
+      "size": 157,
+      "members": [
+        "Australia",
+        "Japan",
+        "South Korea",
+        "New Zealand",
+        "ASEAN",
+        "Anthony Albanese",
+        "Scott Morrison",
+        "Fumio Kishida"
+      ]
+    },
+    {
+      "size": 124,
+      "members": [
+        "Antony Blinken",
+        "Sergey Lavrov",
+        "Wang Yi",
+        "Marco Rubio",
+        "Dmytro Kuleba",
+        "Abbas Araghchi",
+        "Mahmoud Abbas",
+        "Mike Pompeo"
+      ]
+    },
+    {
+      "size": 87,
+      "members": [
+        "United Kingdom",
+        "Myanmar",
+        "Mauritius",
+        "Bangladesh",
+        "Aung San Suu Kyi",
+        "Dominic Raab",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership",
+        "Michel Barnier"
+      ]
+    }
+  ]
+}

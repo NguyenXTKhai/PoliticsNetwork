@@ -49,6 +49,16 @@ CORE_ORGS = [
     "Gulf Cooperation Council", "Organization of American States",
     "Quadrilateral Security Dialogue", "Commonwealth of Nations",
     "Collective Security Treaty Organization", "Mekong–Lancang Cooperation",
+    # UN bodies / courts / agencies and non-state actors that are frequent diplomatic actors
+    "International Court of Justice", "United Nations Human Rights Council", "UNHCR", "UNRWA", "UNICEF",
+    "UNESCO", "World Food Programme", "Food and Agriculture Organization", "International Committee of the Red Cross",
+    "Interpol", "Asian Development Bank", "Asian Infrastructure Investment Bank", "New Development Bank",
+    "European Parliament", "European Council", "Eurasian Economic Union", "Mekong River Commission",
+    "Organisation for the Prohibition of Chemical Weapons", "Organisation of Islamic Cooperation",
+    "Hamas", "Hezbollah", "Houthis", "Taliban", "Wagner Group", "Palestine Liberation Organization",
+    "Palestinian Authority", "Amnesty International", "Human Rights Watch", "Médecins Sans Frontières",
+    "Comprehensive and Progressive Agreement for Trans-Pacific Partnership",
+    "Regional Comprehensive Economic Partnership", "ASEAN Regional Forum", "East Asia Summit",
 ]
 MIN_ALIAS_LEN = 2  # shorter aliases are dropped
 SHORT_ALIAS = 4    # aliases up to this length go to the case-sensitive dictionary
@@ -154,7 +164,7 @@ def q_heads(since: int) -> list[dict]:
         res = sparql(f"""
         SELECT ?person ?target ?pos ?start ?end WHERE {{
           ?target wdt:P31 wd:Q3624078 ; wdt:{prop} ?pos .
-          ?person p:P39 ?st . ?st ps:P39 ?pos .
+          ?person p:P39 ?st . ?st ps:P39 ?pos . ?person wdt:P31 wd:Q5 .  # real humans only (Wikidata also has fictional office holders)
           OPTIONAL {{ ?st pq:P580 ?start }} OPTIONAL {{ ?st pq:P582 ?end }}
           FILTER(!BOUND(?end) || YEAR(?end) >= {since})
         }}""")
@@ -167,17 +177,54 @@ def q_foreign_ministers(since: int) -> list[dict]:
     SELECT ?person ?target ?pos ?start ?end WHERE {{
       ?pos wdt:P279 wd:Q7330070 ; wdt:P1001 ?target .
       ?target wdt:P31 wd:Q3624078 .
-      ?person p:P39 ?st . ?st ps:P39 ?pos .
+      ?person p:P39 ?st . ?st ps:P39 ?pos . ?person wdt:P31 wd:Q5 .  # real humans only (Wikidata also has fictional office holders)
+      OPTIONAL {{ ?st pq:P580 ?start }} OPTIONAL {{ ?st pq:P582 ?end }}
+      FILTER(!BOUND(?end) || YEAR(?end) >= {since})
+    }}""")
+
+
+def q_class_holders(cls: str, since: int) -> list[dict]:
+    """Holders of national offices that are a direct subclass of `cls`
+    (Q83307 minister -> 'Minister of Defence of X', 'Minister of Finance of X', ...;
+     Q42178 vice president)."""
+    return sparql(f"""
+    SELECT ?person ?target ?pos ?start ?end WHERE {{
+      ?pos wdt:P279 wd:{cls} ; wdt:P1001 ?target .
+      ?target wdt:P31 wd:Q3624078 .
+      ?person p:P39 ?st . ?st ps:P39 ?pos . ?person wdt:P31 wd:Q5 .
+      OPTIONAL {{ ?st pq:P580 ?start }} OPTIONAL {{ ?st pq:P582 ?end }}
+      FILTER(!BOUND(?end) || YEAR(?end) >= {since})
+    }}""")
+
+
+def q_ambassadors(since: int) -> list[dict]:
+    """Ambassadors: holders of positions that are (transitive) subclasses of ambassador (Q121998);
+    target = the sending country (P1001 of the position)."""
+    return sparql(f"""
+    SELECT ?person ?target ?pos ?start ?end WHERE {{
+      ?pos wdt:P279+ wd:Q121998 ; wdt:P1001 ?target . ?target wdt:P31 wd:Q3624078 .
+      ?person p:P39 ?st . ?st ps:P39 ?pos . ?person wdt:P31 wd:Q5 .
+      OPTIONAL {{ ?st pq:P580 ?start }} OPTIONAL {{ ?st pq:P582 ?end }}
+      FILTER(!BOUND(?end) || YEAR(?end) >= {since})
+    }}""")
+
+
+def q_speakers(since: int) -> list[dict]:
+    """Presiding officers of national legislatures (country P194 legislature -> P2388 office)."""
+    return sparql(f"""
+    SELECT ?person ?target ?pos ?start ?end WHERE {{
+      ?target wdt:P31 wd:Q3624078 ; wdt:P194 ?leg . ?leg wdt:P2388 ?pos .
+      ?person p:P39 ?st . ?st ps:P39 ?pos . ?person wdt:P31 wd:Q5 .
       OPTIONAL {{ ?st pq:P580 ?start }} OPTIONAL {{ ?st pq:P582 ?end }}
       FILTER(!BOUND(?end) || YEAR(?end) >= {since})
     }}""")
 
 
 def q_orgs() -> list[dict]:
-    """Intergovernmental organizations with >= 3 sovereign-state members."""
+    """International organizations with >= 3 sovereign-state members."""
     return sparql("""
     SELECT ?qid (COUNT(DISTINCT ?m) AS ?members) WHERE {
-      ?qid wdt:P31/wdt:P279* wd:Q245065 .
+      ?qid wdt:P31/wdt:P279* wd:Q484652 .
       ?m wdt:P463 ?qid ; wdt:P31 wd:Q3624078 .
     } GROUP BY ?qid HAVING(COUNT(DISTINCT ?m) >= 3)""")
 
@@ -198,16 +245,27 @@ def q_org_heads(org_qids: list[str], since: int) -> list[dict]:
     SELECT ?person ?target ?pos ?start ?end WHERE {{
       VALUES ?target {{ {values} }}
       ?target wdt:P2388 ?pos .
-      ?person p:P39 ?st . ?st ps:P39 ?pos .
+      ?person p:P39 ?st . ?st ps:P39 ?pos . ?person wdt:P31 wd:Q5 .  # real humans only (Wikidata also has fictional office holders)
       OPTIONAL {{ ?st pq:P580 ?start }} OPTIONAL {{ ?st pq:P582 ?end }}
       FILTER(!BOUND(?end) || YEAR(?end) >= {since})
     }}""")
 
 
 # ---------------------------------------------------------------- main
+LABEL_FIX = {
+    "Q318493": "Najib Mikati",          # label vandalised as "Mohamed Agha"
+    "Q98053664": "Mark Phillips",       # Guyanese PM, label vandalised as "Hugo Chávez"
+    "Q131248": "Lee Kuan Yew",
+    "Q57308": "Abdelaziz Bouteflika",
+}
+BAD_ALIAS = {"Q98053664": ["Hugo Chávez", "Hugo Chavez", "Chávez"], "Q318493": ["Mohamed Agha"]}
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--since", type=int, default=2000, help="keep office terms ending in/after this year")
+    ap.add_argument("--minister-since", type=int, default=2008,
+                    help="same, for other cabinet ministers and vice presidents (much larger set)")
     args = ap.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
 
@@ -220,6 +278,16 @@ def main() -> None:
 
     print("[3/6] Foreign ministers")
     positions += [dict(r, role="foreign_minister") for r in q_foreign_ministers(args.since)]
+    fm_keys = {(p["person"], p["pos"]) for p in positions}
+    ministers = [dict(r, role="minister") for r in q_class_holders("Q83307", args.minister_since)
+                 if (r["person"], r["pos"]) not in fm_keys]
+    vps = [dict(r, role="vice_president") for r in q_class_holders("Q42178", args.minister_since)]
+    print(f"  + {len(ministers)} other minister terms, {len(vps)} vice-president terms (since {args.minister_since})")
+    positions += ministers + vps
+    ambassadors = [dict(r, role="ambassador") for r in q_ambassadors(args.minister_since)]
+    speakers = [dict(r, role="parliament_speaker") for r in q_speakers(args.minister_since)]
+    print(f"  + {len(ambassadors)} ambassador terms, {len(speakers)} legislature-speaker terms")
+    positions += ambassadors + speakers
 
     print("[4/6] International organizations")
     orgs = {r["qid"]: {"qid": r["qid"], "members": r["members"]} for r in q_orgs()}
@@ -236,13 +304,19 @@ def main() -> None:
     print(f"  {len(persons)} distinct persons, {len(positions)} position statements")
 
     print("[5/6] Labels & aliases (en/vi)")
-    all_ids = sorted(set(countries) | set(orgs) | persons)
+    pos_ids = {p["pos"] for p in positions}
+    all_ids = sorted(set(countries) | set(orgs) | persons | pos_ids)
     meta: dict[str, dict] = {}
     for i in range(0, len(all_ids), 50):
         meta.update(get_entities(all_ids[i : i + 50]))
         if i // 50 % 20 == 0:
             print(f"  {min(i + 50, len(all_ids))}/{len(all_ids)}")
         time.sleep(0.2)
+
+    # vandalised / unusual English labels found during evaluation (the alias table must not inherit them)
+    for qid, name in LABEL_FIX.items():
+        if qid in meta:
+            meta[qid].setdefault("labels", {})["en"] = {"language": "en", "value": name}
 
     def label(qid: str, lang: str) -> str:
         labels = meta.get(qid, {}).get("labels", {})
@@ -257,6 +331,8 @@ def main() -> None:
     aliases: dict[str, set[str]] = defaultdict(set)
     aliases_cs: dict[str, set[str]] = defaultdict(set)
     for qid, ent in meta.items():
+        if qid in pos_ids and qid not in persons:  # office items are not graph nodes
+            continue
         names = [v["value"] for v in ent.get("labels", {}).values()]
         names += [a["value"] for lst in ent.get("aliases", {}).values() for a in lst]
         for n in names:
@@ -280,6 +356,10 @@ def main() -> None:
                 aliases[key] = {qid}  # manual wins
             else:
                 aliases_cs[unicodedata.normalize("NFC", r["alias"].strip())] = {qid}
+
+    for qid, bad in BAD_ALIAS.items():
+        for n in bad:
+            aliases.get(norm(n), set()).discard(qid)
 
     print("[6/6] Writing files")
     write_csv(
@@ -307,11 +387,16 @@ def main() -> None:
     )
     seen, pos_rows = set(), []
     for p in positions:
-        key = (p["person"], p["target"], p["role"], year(p.get("start")))
+        title = label(p["pos"], "en")
+        role = p["role"]
+        if role == "minister" and re.search(r"defen[cs]e|armed forces|military", title, re.I):
+            role = "defence_minister"
+        key = (p["person"], p["target"], role, year(p.get("start")))
         if key not in seen:
             seen.add(key)
-            pos_rows.append({**p, "start": year(p.get("start")), "end": year(p.get("end"))})
-    write_csv(OUT / "positions.csv", pos_rows, ["person", "target", "role", "pos", "start", "end"])
+            pos_rows.append({**p, "role": role, "title": title, "title_vi": label(p["pos"], "vi"),
+                             "start": year(p.get("start")), "end": year(p.get("end"))})
+    write_csv(OUT / "positions.csv", pos_rows, ["person", "target", "role", "title", "title_vi", "pos", "start", "end"])
     write_csv(OUT / "memberships.csv", memberships, ["country", "org"])
     for name, d in (("aliases.json", aliases), ("aliases_cs.json", aliases_cs)):
         with (OUT / name).open("w", encoding="utf-8") as f:

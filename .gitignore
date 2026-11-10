@@ -1,7 +1,40 @@
+# Secrets / local environment
 .env
 .vscode/
 .venv/
 __pycache__/
+*.pyc
+
+# Neo4j database files (rebuilt with: docker compose up -d && python src/load_neo4j.py)
 neo4j/
+
+# Crawled articles (~600 MB; re-crawl with src/crawl/*)
 data/raw/
+
+# Logs
 *.log
+
+# Large derived data: sentences.jsonl (~200 MB, > GitHub 100 MB limit) is rebuilt from data/raw with
+# src/preprocess.py; sentences_prev_entities.json is only resume state for extract_rel.py.
+# relations.jsonl is KEPT: it is the LLM extraction output (days of rate-limited API calls, not cheaply re-creatable).
+data/processed/*.jsonl
+!data/processed/relations.jsonl
+data/processed/sentences_prev_entities.json
+
+# LaTeX report (kept on Overleaf, not in git): the report folder and its generator script
+report/
+src/export_report.py
+*.tex
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.out
+*.xdv
+
+# Regenerable from the committed data/graph/*.json with: python src/stats.py
+reports/figures/
+data/graph/network.graphml
