@@ -5,13 +5,6 @@ channels:
 dependencies:
   - python=3.12
   - pip
-  # Khoa hoc du lieu (lay tu conda-forge cho on dinh tren Windows)
-  - numpy
-  - networkx
-  - scipy
-  - matplotlib
-  - tqdm
-  - spacy>=3.7
-  # Phan con lai cai bang pip
+  # all packages (pinned) come from requirements.txt, so conda and pip installs are identical
   - pip:
       - -r requirements.txt

@@ -36,5 +36,4 @@ src/export_report.py
 *.xdv
 
 # Regenerable from the committed data/graph/*.json with: python src/stats.py
-reports/figures/
 data/graph/network.graphml
