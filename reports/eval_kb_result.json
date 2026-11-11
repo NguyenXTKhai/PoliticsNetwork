@@ -1,0 +1,479 @@
+{
+  "annotated": 60,
+  "double_annotated": 0,
+  "precision": 0.9667,
+  "precision_ci95": [
+    0.8864,
+    0.9908
+  ],
+  "per_relation": {
+    "AMBASSADOR_OF (South African Ambassador to the United States)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "AMBASSADOR_OF (United States Ambassador to Armenia)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "AMBASSADOR_OF (United States Ambassador to the Netherlands)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "AMBASSADOR_OF (United States Ambassador to the United Nations)": {
+      "n": 2,
+      "precision": 1.0,
+      "ci95": [
+        0.3424,
+        1.0
+      ]
+    },
+    "AMBASSADOR_OF (ambassador of Ireland to the United States)": {
+      "n": 1,
+      "precision": 0.0,
+      "ci95": [
+        0.0,
+        0.7935
+      ]
+    },
+    "AMBASSADOR_OF (ambassador of Russia to Canada)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "AMBASSADOR_OF (ambassador of the United States to Greece)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "AMBASSADOR_OF (ambassador of the United States to Israel)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Chief of the Government Staff)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Commissioner-General for United Nations Relief and Works Agency for Palestine Refugees in the Near East)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Coordinating Minister for Economic Affairs of Indonesia)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Deputy President of South Africa)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Director-General of the World Health Organization)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Foreign Affairs Minister of Iran)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Foreign Minister of Norway)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Managing Director of the International Monetary Fund)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister for Indigenous Australians)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister for International Development Cooperation)": {
+      "n": 2,
+      "precision": 1.0,
+      "ci95": [
+        0.3424,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister for Social Services)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister for Women and Equalities)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister for the Arts)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister for the Cabinet Office)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister in Charge of Building National Resilience)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Energy)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Foreign Affairs and Expatriates)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Foreign Affairs of Hungary)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Foreign Affairs of Slovenia)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Foreign Affairs)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Home Affairs of Vietnam)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Housing, Infrastructure, and Communities)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Information and Culture)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Petroleum of Iran)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Sport, Arts and Recreation)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of State for Foreign Trade)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Minister of Territorial Development)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of Burundi)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of Laos)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of Myanmar)": {
+      "n": 2,
+      "precision": 1.0,
+      "ci95": [
+        0.3424,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of Pakistan)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of Peru)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of South Korea)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of Yemen)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of the Bundestag)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (President of the World Bank Group)": {
+      "n": 1,
+      "precision": 0.0,
+      "ci95": [
+        0.0,
+        0.7935
+      ]
+    },
+    "LEADER_OF (Prime Minister of Belgium)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Prime Minister of Israel)": {
+      "n": 3,
+      "precision": 1.0,
+      "ci95": [
+        0.4385,
+        1.0
+      ]
+    },
+    "LEADER_OF (Prime Minister of Italy)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Prime Minister of New Zealand)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Prime Minister of the Bahamas)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Prince of Monaco)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Social Equality Minister of Israel)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Speaker of the Parliament of Singapore)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Vice President of Afghanistan)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Vice President of Turkey)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    },
+    "LEADER_OF (Vice Prime Minister of Sweden)": {
+      "n": 1,
+      "precision": 1.0,
+      "ci95": [
+        0.2065,
+        1.0
+      ]
+    }
+  },
+  "per_lang": {
+    "en": {
+      "n": 45,
+      "precision": 0.9778,
+      "ci95": [
+        0.8843,
+        0.9961
+      ]
+    },
+    "vi": {
+      "n": 15,
+      "precision": 0.9333,
+      "ci95": [
+        0.7018,
+        0.9881
+      ]
+    }
+  },
+  "per_ensemble": {
+    "wikidata": {
+      "n": 60,
+      "precision": 0.9667,
+      "ci95": [
+        0.8864,
+        0.9908
+      ]
+    }
+  }
+}

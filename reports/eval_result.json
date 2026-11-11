@@ -1,0 +1,140 @@
+{
+  "annotated": 314,
+  "double_annotated": 108,
+  "precision": 0.9268,
+  "precision_ci95": [
+    0.8925,
+    0.9507
+  ],
+  "precision_weighted": 0.9337,
+  "precision_weighted_ci95": [
+    0.9076,
+    0.9598
+  ],
+  "revised_b_labels": 15,
+  "cohen_kappa": 0.2614,
+  "agreement": 0.8333,
+  "disagreements": 18,
+  "disagreements_resolved_correct": 10,
+  "subset_precision_a": 0.8704,
+  "subset_precision_b": 0.8704,
+  "subset_precision_gold": 0.8796,
+  "per_relation": {
+    "CONDEMNED": {
+      "n": 38,
+      "precision": 1.0,
+      "ci95": [
+        0.9082,
+        1.0
+      ]
+    },
+    "ECONOMIC_AID": {
+      "n": 10,
+      "precision": 0.7,
+      "ci95": [
+        0.3968,
+        0.8922
+      ]
+    },
+    "EXPELLED_DIPLOMAT": {
+      "n": 10,
+      "precision": 0.7,
+      "ci95": [
+        0.3968,
+        0.8922
+      ]
+    },
+    "MET_WITH": {
+      "n": 95,
+      "precision": 0.9263,
+      "ci95": [
+        0.8556,
+        0.9639
+      ]
+    },
+    "MILITARY_AID": {
+      "n": 10,
+      "precision": 0.9,
+      "ci95": [
+        0.5958,
+        0.9821
+      ]
+    },
+    "PHONE_CALL": {
+      "n": 35,
+      "precision": 1.0,
+      "ci95": [
+        0.9011,
+        1.0
+      ]
+    },
+    "SANCTIONED": {
+      "n": 12,
+      "precision": 0.8333,
+      "ci95": [
+        0.552,
+        0.953
+      ]
+    },
+    "SIGNED_AGREEMENT": {
+      "n": 22,
+      "precision": 0.9091,
+      "ci95": [
+        0.7218,
+        0.9747
+      ]
+    },
+    "SUPPORTED": {
+      "n": 27,
+      "precision": 0.9259,
+      "ci95": [
+        0.7663,
+        0.9794
+      ]
+    },
+    "UPGRADED_PARTNERSHIP": {
+      "n": 10,
+      "precision": 1.0,
+      "ci95": [
+        0.7225,
+        1.0
+      ]
+    },
+    "VISITED": {
+      "n": 45,
+      "precision": 0.9333,
+      "ci95": [
+        0.8214,
+        0.9771
+      ]
+    }
+  },
+  "per_lang": {
+    "en": {
+      "n": 195,
+      "precision": 0.9231,
+      "ci95": [
+        0.877,
+        0.9528
+      ]
+    },
+    "vi": {
+      "n": 119,
+      "precision": 0.9328,
+      "ci95": [
+        0.8729,
+        0.9655
+      ]
+    }
+  },
+  "per_ensemble": {
+    "agnes-2.5-flash+agnes-3.0-flash": {
+      "n": 314,
+      "precision": 0.9268,
+      "ci95": [
+        0.8925,
+        0.9507
+      ]
+    }
+  }
+}

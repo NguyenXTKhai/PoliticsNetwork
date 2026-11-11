@@ -1,0 +1,2131 @@
+id,label,name,name_vi,description,iso3,degree,origin
+Q1000,Country,Gabon,Gabon,,GAB,15,news
+Q1004037,Person,Frederik X of Denmark,Frederik X của Đan Mạch,King of Denmark since 2024,,4,news
+Q1005,Country,The Gambia,Gambia,,GMB,17,news
+Q1006,Country,Guinea,Guinée,,GIN,16,news
+Q1007,Country,Guinea-Bissau,Guiné-Bissau,,GNB,16,news
+Q1008,Country,Ivory Coast,Bờ Biển Ngà,,CIV,22,news
+Q1009,Country,Cameroon,Cameroon,,CMR,17,news
+Q1014,Country,Liberia,Liberia,,LBR,13,news
+Q101410,Person,François Fillon,François Fillon,prime minister of France (2007-2012),,3,news
+Q101444618,Person,Irek Faizullin,Irek Faizullin,Russian politician,,2,news
+Q101547,Person,Thabo Mbeki,Thabo Mbeki,President of South Africa from 1999 to 2008,,2,kb
+Q1016,Country,Libya,Libya,,LBY,30,news
+Q101628330,Person,Tone Kajzer,Tone Kajzer,Slovene diplomat and politician,,1,kb
+Q1019016,Person,Bärbel Bas,Bärbel Bas,"German politician, former President of the Bundestag",,2,news
+Q1020,Country,Malawi,Malawi,,MWI,14,news
+Q102139,Person,Margrethe II of Denmark,Margrethe II của Đan Mạch,Queen of Denmark from 1972 to 2024 (born 1940),,2,news
+Q1025,Country,Mauritania,Mauritanie,,MRT,20,news
+Q1027,Country,Mauritius,Mauritius,,MUS,35,news
+Q1028,Country,Morocco,Maroc,,MAR,27,news
+Q10287,Person,Manuel Valls,Manuel Valls,French and Spanish politician,,4,news
+Q1029,Country,Mozambique,Mozambique,,MOZ,18,news
+Q10296812,Person,Mohammad Javad Zarif,Mohammad Javad Zarif,former Vice President for Strategic Affairs of Iran,,30,news
+Q1030,Country,Namibia,Namibia,,NAM,16,news
+Q10304982,Person,Jair Bolsonaro,Jair Bolsonaro,38th President of the Federative Republic of Brazil (2019–2023),,22,news
+Q1032,Country,Niger,Niger,,NER,24,news
+Q1033,Country,Nigeria,Nigeria,,NGA,35,news
+Q10346767,Person,Paulo Rangel,Paulo Rangel,Portuguese politician of the 3rd republic,,3,news
+Q10347660,Person,Pedro Nuno Santos,Pedro Nuno Santos,Portuguese politician (born 1977),,2,news
+Q1036,Country,Uganda,Uganda,,UGA,20,news
+Q1037,Country,Rwanda,Rwanda,,RWA,35,news
+Q10371678,Person,Simone Tebet,Simone Tebet,"Brazilian lawyer, professor, writer, and politician",,1,kb
+Q103838608,Person,Pedro Castillo,Pedro Castillo,President of Peru from 2021 to 2022,,1,kb
+Q1041,Country,Senegal,Sénégal,,SEN,26,news
+Q1044,Country,Sierra Leone,Sierra Leone,,SLE,18,news
+Q1045,Country,Somalia,Somalia,,SOM,20,news
+Q1045401,Organization,Community of Latin American and Caribbean States,CELAC,,,6,news
+Q104630859,Person,Oana Țoiu,Oana Țoiu,Romanian politician,,2,news
+Q104742891,Person,Michael Collins,Michael Collins,Irish diplomat,,2,kb
+Q1049,Country,Sudan,Sudan,,SDN,45,news
+Q104904363,Person,Bounthong Chitmany,Bounthong Chitmany,Laotian politician,,2,news
+Q104914585,Person,Sonexay Siphandone,Sonexay Siphandone,Laotian politician,,12,news
+Q1050,Country,Eswatini,Eswatini,,SWZ,13,news
+Q105193792,Person,Natalia Gavrilița,Natalia Gavrilița,Moldovan economist and politician,,2,news
+Q1053159,Person,Celso Amorim,Celso Amorim,Brazilian diplomat (born 1942),,2,news
+Q105319610,Person,Mohamed al-Menfi,Mohamed al-Menfi,Libyan politician,,2,news
+Q105423567,Person,Mariam Chabi Talata,Mariam Chabi Talata,Vice President of Benin,,2,news
+Q105581659,Person,Amichai Chikli,Amichai Chikli,Minister of Diaspora Affairs of Israel,,3,news
+Q1058,Person,Narendra Modi,Narendra Modi,Prime Minister of India since 2014,,58,news
+Q106049108,Person,Abdulla bin Touq Al Marri,Abdulla bin Touq Al Marri,"Secretary-General, Federal Cabinet - United Arab Emirates Federal Cabinet",,2,news
+Q1060949,Person,Muhyiddin Yassin,Muhyiddin Yassin,Prime Minister of Malaysia from 2020 to 2021,,3,kb
+Q106474688,Person,Dina Boluarte,Dina Boluarte,"Peruvian lawyer and politician, president of Peru from 2022 to 2025",,9,news
+Q10648,Person,Gordon Brown,Gordon Brown,Prime Minister of the United Kingdom from 2007 to 2010,,4,news
+Q106493049,Person,Thongsavanh Phomvihane,Thongsavanh Phomvihane,Laotian politician,,2,news
+Q1065,Organization,United Nations,Liên Hợp Quốc,,,251,news
+Q106528743,Person,Shalva Papuashvili,Shalva Papuashvili,Georgian politician,,1,kb
+Q10665,Person,Kim Jong-il,Kim Jong Il,Supreme Leader of North Korea from 1994 to 2011,,6,news
+Q106904946,Person,Crispin Mbadu Phanzu,Crispin Mbadu Phanzu,politician from the DRC,,1,kb
+Q106928258,Person,Kiril Petkov,Kiril Petkov,"Bulgarian politician, economist and entrepreneur",,2,news
+Q10707,Person,Robert Mugabe,Robert Mugabe,2nd President of Zimbabwe from 1987 to 2017,,5,news
+Q1071031,Person,Paolo Gentiloni,Paolo Gentiloni,Italian politician (born 1954),,6,news
+Q107254030,Person,Bernardo Arévalo de León,Bernardo Arévalo de León,President of Guatemala since 2024,,2,news
+Q107451258,Person,Ariel Henry,Ariel Henry,Haitian politician and neurosurgeon (born 1949),,7,news
+Q107670236,Person,Batmunkh Battsetseg,Batmunkh Battsetseg,Mongolian politician,,3,news
+Q1077015,Person,Chris Bowen,Chris Bowen,Australian politician,,4,kb
+Q10799078,Person,Nguyễn Dy Niên,Nguyễn Dy Niên,,,1,kb
+Q10799296,Person,Nguyễn Mạnh Cầm,Nguyễn Mạnh Cầm,Vietnamese diplomat and politician,,1,kb
+Q10799491,Person,Nguyễn Thanh Nghị,Nguyễn Thanh Nghị,Vietnamese politician (born 1976),,6,news
+Q10799955,Person,Nguyễn Văn Nên,Nguyễn Văn Nên,Vietnamese politician,,4,news
+Q10800073,Person,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,former President of Vietnam,,4,news
+Q10806892,Person,Phạm Bình Minh,Phạm Bình Minh,former Deputy Prime Minister of Vietnam,,2,news
+Q10806940,Person,Phạm Minh Chính,Phạm Minh Chính,Vietnamese politician,,159,news
+Q10819,Person,Mariano Rajoy,Mariano Rajoy,Spanish politician (born 1955),,4,news
+Q10819807,Person,Andrej Babiš,Andrej Babiš,"Czech politician and businessman, Prime Minister of the Czech Republic",,8,news
+Q10831196,Person,Tô Lâm,Tô Lâm,General Secretary of the Communist Party of Vietnam and leader of Vietnam since 2024,,180,news
+Q108332006,Person,Javad Owji,Javad Owji,Iranian politician,,1,kb
+Q10833302,Person,Võ Văn Thưởng,Võ Văn Thưởng,President of Vietnam (2023–2024),,8,news
+Q108418519,Person,Mamadi Doumbouya,Mamadi Doumbouya,Guinean military officer and politician (1980-),,2,news
+Q108454869,Person,José Raúl Mulino,José Raúl Mulino,39th President of Panama,,8,news
+Q108504531,Person,Abdallah Bou Habib,Abdallah Bou Habib,Lebanese politician (1941–2025),,5,news
+Q108508021,Person,Ali Hamiyeh,Ali Hamiyeh,Lebanese politician,,1,kb
+Q10855898,Person,Kim Jin-pyo,Kim Jin-pyo,South Korean politician (1947 - ),,1,kb
+Q10857432,Person,Pavlo Klimkin,Pavlo Klimkin,Ukrainian diplomat and politician,,1,kb
+Q108856371,Person,Kristrún Mjöll Frostadóttir,Kristrún Mjöll Frostadóttir,Icelandic politician,,1,kb
+Q109012733,Person,Wiliame Katonivere,Wiliame Katonivere,6th President of Fiji (2021-2024),,1,news
+Q109385659,Person,Raffaella Petrini,Raffaella Petrini,Italian Vatican religious,,2,news
+Q109489862,Person,Oleg Stepanov,Oleg Stepanov,,,2,news
+Q109656595,Person,Bakhtiyor Saidov,Bakhtiyor Saidov,Uzbek diplomat and politician (born 1981),,5,news
+Q109781648,Person,Russ J Kun,Russ Kun,Nauruan politician,,5,news
+Q110089977,Person,Teodora Genchovska,Teodora Genchovska,Bulgarian politician,,2,news
+Q110313525,Person,Andrey Gyurov,Andrey Gyurov,Bulgarian politician (born 1975),,2,news
+Q11043304,Person,Naledi Pandor,Naledi Pandor,South African politician,,5,news
+Q110520817,Person,Rodrigo Paz,Rodrigo Paz,President of Bolivia,,1,kb
+Q111077006,Person,Eduardo Enrique Reina,Eduardo Enrique Reina,Honduran politician (born 1968),,3,news
+Q111256064,Person,Oleksandr Kamyshin,Oleksandr Kamyshin,CEO of Ukrainian Railways,,1,kb
+Q1115631,Organization,Indian Ocean Commission,Indian Ocean Commission,,,3,news
+Q11163124,Person,Nicușor Dan,Nicușor Dan,President of Romania since 2025,,5,news
+Q111772343,Person,Balendra Shah,Balen Shah,Nepalese rapper and politician; Prime Minister of Nepal since 2026,,2,news
+Q112075625,Person,Daniel Noboa,Daniel Noboa,President of Ecuador since 2023,,3,news
+Q1124,Person,Bill Clinton,Bill Clinton,42nd President of the United States (1993–2001),,9,news
+Q11256,Person,Fidel Castro,Fidel Castro,"Cuban politician, author and revolutionary (1926–2016)",,6,news
+Q112679881,Person,Dickon Mitchell,Dickon Mitchell,Grenadian politician (1978-),,4,news
+Q11270093,Person,Chung Sye-kyun,Chung Sye-kyun,Prime Minister of South Korea from 2020 to 2021,,2,kb
+Q112703041,Person,Adylbek Kasymaliev,Adylbek Kasymaliev,"Kyrgyz politician, Prime Minister of Kyrgyzstan since 2024",,4,news
+Q112992858,Person,Denis Alipov,Denis Alipov,Russian Diplomat,,1,kb
+Q114,Country,Kenya,Kenya,,KEN,25,news
+Q114107123,Person,Mohamed Salem Ould Merzoug,Mohamed Salem Ould Merzoug,Mauritanian politician,,2,news
+Q1141271,Person,Yoshimasa Hayashi,Hayashi Yoshimasa,Japanese politician (born 1961),,7,news
+Q114436132,Person,René Mesa Villafaña,René Mesa Villafaña,Cuban politician,,2,news
+Q114436521,Person,Lázaro Alberto Álvarez Casas,Lázaro Alberto Álvarez Casas,Cuban politician,,3,news
+Q114451201,Person,Boviengkham Vongdara,Boviengkham Vongdara,politician in Laos,,2,news
+Q114451208,Person,Phet Phomphiphak,Phet Phomphiphak,politician in Laos,,3,news
+Q114593888,Person,Yun Jong-ho,Yun Jong-ho,North Korean politician,,2,news
+Q114705152,Person,Manuel Tovar Rivera,Manuel Tovar Rivera,Costa Rican politician,,1,kb
+Q1148669,Person,Cyril Ramaphosa,Cyril Ramaphosa,President of South Africa since 2018,,21,news
+Q115,Country,Ethiopia,Ethiopia,,ETH,23,news
+Q115005935,Person,Amichai Eliyahu,Amichai Eliyahu,Minister of Heritage of Israel,,2,news
+Q11509,Person,Xanana Gusmão,Xanana Gusmão,Prime Minister and former President of East Timor,,9,news
+Q115237652,Person,Lee Chang-dae,Lee Chang-dae,North Korean politician,,2,news
+Q11523819,Organization,Regional Comprehensive Economic Partnership,Hiệp định Đối tác Kinh tế Toàn diện Khu vực,,,2,news
+Q115604300,Person,Andris Kulbergs,Andris Kulbergs,Prime Minister of Latvia since 2026,,2,news
+Q115881,Person,Karin Keller-Sutter,Karin Keller-Sutter,Swiss politician,,5,news
+Q115902929,Person,Dennis Francis,Dennis Francis,Trinidad and Tobago diplomat (born 1956),,4,news
+Q11607,Person,Jon Meade Huntsman Jr.,Jon Meade Huntsman Jr.,"American politician, businessman and diplomat (born 1960)",,1,kb
+Q1161024,Person,Taro Kono,Kōno Tarō,Japanese politician (born 1963),,4,news
+Q116293030,Person,Mohamed Muizzu,Mohamed Muizzu,8th President of the Maldives since 2023,,6,news
+Q116298669,Person,Mohsin Raza Naqvi,Mohsin Raza Naqvi,Pakistani politician and media mogul (born 1978),,2,news
+Q116619471,Person,Khamphao Ernthavanh,Khamphao Ernthavanh,Lao diplomat and politician,,4,news
+Q11665,Person,José Ramos-Horta,José Ramos-Horta,"2nd and 5th President of East Timor, Nobel Prize laureate",,9,news
+Q11668,Person,Nikki Haley,Nikki Haley,American politician and diplomat (born 1972),,9,news
+Q11685764,Person,Andrej Plenković,Andrej Plenković,Prime Minister of Croatia since 2016,,4,news
+Q117,Country,Ghana,Ghana,,GHA,20,news
+Q117084293,Person,Konstantinos Kompos,Konstantinos Kompos,"Cypriot jurist, academician, politician",,2,news
+Q11716283,Person,Margus Tsahkna,Margus Tsahkna,Estonian politician (born 1977),,8,news
+Q117254,Person,Ignazio Cassis,Ignazio Cassis,99th President of the Swiss Confederation,,8,news
+Q11764394,Person,Luís Montenegro,Luís Montenegro,"Portuguese politician (1973–), the 199th prime minister of Portugal (2024–)",,3,news
+Q11767500,Person,Marcin Bosacki,Marcin Bosacki,Polish diplomat and politician,,1,kb
+Q11769926,Person,Mariya Gabriel,Mariya Gabriel,"Bulgarian politician, ex-EU Commissioner for Innovation, Research, Culture, Education and Youth",,1,kb
+Q11771436,Person,Mateusz Morawiecki,Mateusz Morawiecki,17th Prime Minister of the Republic of Poland,,19,news
+Q118213697,Person,Srettha Thavisin,Srettha Thavisin,Prime Minister of Thailand from 2023 to 2024,,3,news
+Q118442472,Person,Phạm Quang Hiệu,Phạm Quang Hiệu,Vietnamese diplomat,,2,news
+Q11860,Person,Silvio Berlusconi,Silvio Berlusconi,Italian media tycoon and politician (1936–2023),,4,news
+Q11869065,Person,Kaja Kallas,Kaja Kallas,Estonian politician and former prime minister of Estonia (born 1977),,15,news
+Q118725,Person,Hafez al-Assad,Hafez al-Assad,President of Syria from 1971 to 2000,,1,kb
+Q119564684,Person,Panpree Phahitthanukorn,Panpree Phahitthanukorn,Thai politician,,8,news
+Q120007169,Person,Petr Macinka,Petr Macinka,Czech manager and politician (*1978),,4,news
+Q12001809,Person,Věra Jourová,Věra Jourová,"Czech politician, businesswoman, jurist and university teacher (born 1964)",,2,news
+Q120763467,Person,Attaullah Tarar,Attaullah Tarar,Pakistani politician,,1,kb
+Q120884908,Person,Arsenio Antonio Dominguez Velasco,Arsenio Antonio Dominguez Velasco,10th Secretary-General of the International Maritime Organization,,1,news
+Q120917,Person,Viola Amherd,Viola Amherd,Swiss politician,,5,news
+Q12100764,Person,Geoffrey R. Pyatt,Geoffrey R. Pyatt,American diplomat,,3,kb
+Q121160,Person,Guy Parmelin,Guy Parmelin,Swiss politician,,6,news
+Q12176661,Person,Yván Gil Pinto,Yván Gil Pinto,Venezuelan politician,,2,news
+Q12213376,Person,Rashad al-Alimi,Rashad al-Alimi,Chairman of the Presidential Leadership Council of Yemen since 2022,,2,kb
+Q122285,Person,Carla Del Ponte,Carla Del Ponte,International jurist,,2,news
+Q12240503,Person,Mohammad Reza Raouf Sheibani,Mohammad Reza Sheibani,Iranian diplomat,,4,kb
+Q12241106,Person,Mohamed Ould Ghazouani,Mohamed Ould Ghazouani,Mauritanian retired general and politician; President of Mauritania (2019–present),,3,news
+Q12243161,Person,Mishal Al-Ahmad Al-Jaber Al-Sabah,Mishal Al-Ahmad Al-Jaber Al-Sabah,Emir of Kuwait since 2023,,3,news
+Q122465,Person,Yoshihide Suga,Suga Yoshihide,Prime Minister of Japan from 2020 to 2021,,4,news
+Q12247916,Person,Nabil Abu Rudeineh,Nabil Abu Rudeineh,Palestinian politician,,2,news
+Q12247944,Person,Nabil Fahmi,Nabil Fahmi,Egyptian diplomat,,1,kb
+Q12250314,Person,Haitham bin Tarik Al Said,Haitham bin Tariq Al Said,Sultan of Oman since 2020 (born 1955),,2,news
+Q1227076,Person,Diosdado Cabello,Diosdado Cabello,"Venezuelan politician, military officer",,7,news
+Q12272416,Person,Assen Vassilev,Assen Vassilev,Bulgarian financier and politician,,1,kb
+Q12277168,Person,Gordana Siljanovska-Davkova,Gordana Siljanovska-Davkova,President of North Macedonia (2024-),,2,news
+Q12279576,Person,Ekaterina Zaharieva,Екатерина Захариева,European Commissioner and former Deputy PM and minister in Bulgaria,,3,news
+Q12281144,Person,Ivan Popov,Ivan Popov,Bulgarian politician (1907-2000),,1,kb
+Q12288374,Person,Nikola Dimitrov,Nikola Dimitrov,Macedonian diplomat and politician,,4,news
+Q1231345,Person,Paul Kagame,Paul Kagame,President of Rwanda since 2000 (born 1957),,9,news
+Q123145304,Person,Wautabouna Ouattara,Wautabouna Ouattara,Ivorian university teacher,,1,kb
+Q123163193,Person,Diana Mondino,Diana Mondino,Argentine politician (born 1958),,8,news
+Q12358575,Person,Alar Karis,Alar Karis,Estonian molecular geneticist and President of Estonia (born 1958),,4,news
+Q123759,Organization,Organization of American States,Tổ chức các quốc gia châu Mỹ,,,34,news
+Q1239291,Person,Alexander Downer,Alexander Downer,Australian politician (born 1951),,3,news
+Q123939,Person,Alain Berset,Alain Berset,Swiss politicians,,8,news
+Q12409090,Person,Mike Herzog,Michael Herzog,Israeli military officer and diplomat,,1,kb
+Q124172768,Person,Celinda Sosa,Celinda Sosa,Bolivian politician,,2,news
+Q124382437,Person,Bassirou Diomaye Faye,Bassirou Diomaye Faye,President of Senegal since 2024,,2,news
+Q124436646,Person,Olzhas Bektenov,Olzhas Bektenov,Prime Minister of the Republic of Kazakhstan (born 1980),,2,news
+Q124488292,Person,Péter Magyar,Péter Magyar,"Hungarian lawyer and politician, Prime Minister of Hungary since 2026",,16,news
+Q1246,Country,Kosovo,Kosovo,,XKS,14,news
+Q124610268,Person,Hossein Akbari,Hossein Akbari,Iranian diplomat,,3,news
+Q12471140,Person,Airlangga Hartarto,Airlangga Hartarto,Indonesian politician and businessman,,2,kb
+Q1247437,Person,Olivia Grange,Olivia Grange,Jamaican politician,,2,news
+Q1249804,Person,Antal Rogán,Antal Rogán,Hungarian politician,,2,news
+Q1253,Person,Ban Ki-moon,Ban Ki-moon,8th Secretary-General of the United Nations,,4,news
+Q1254,Person,Kofi Annan,Kofi Annan,7th Secretary-General of the United Nations (1938-2018),,1,kb
+Q125726173,Person,Maris Sangiampongsa,Maris Sangiampongsa,Thai politician,,3,news
+Q125731,Person,Ehud Barak,Ehud Barak,10th Prime Minister of Israel,,1,kb
+Q12587400,Person,Kim Min-seok,Kim Min-seok,South Korean politician,,1,kb
+Q12594422,Person,Ri Yong-ho,Ri Yong-ho (nhà ngoại giao),North Korean politician and diplomat,,3,news
+Q12612463,Person,Lee Jae Myung,Lee Jae-myung,President of South Korea since 2025,,17,news
+Q12655545,Person,Gintautas Paluckas,Gintautas Paluckas,Lithuanian politician (born 1979),,3,news
+Q1271675,Person,Paschal Donohoe,Paschal Donohoe,Irish politician,,1,kb
+Q1276563,Person,William J. Burns,William J. Burns,American diplomat (born 1956),,7,news
+Q12795878,Person,Marjan Šarec,Marjan Šarec,9th Prime Minister of Slovenia,,3,news
+Q12797332,Person,Nataša Pirc Musar,Nataša Pirc Musar,President of Slovenia since 2022,,1,kb
+Q127998,Person,Mahmoud Abbas,Mahmoud Abbas,president of the Palestinian Authority since 2005,,29,news
+Q1280058,Person,Ebrahim Rasool,Ebrahim Rasool,politician and diplomat from South Africa,,3,news
+Q12850075,Person,Ali Asadov,Ali Asadov,Prime Minister of the Republic of Azerbaijan,,2,news
+Q12881818,Person,Nikos Kotzias,Nikos Kotzias,Greek politician and academic,,4,news
+Q1292951,Person,Ivan Bartoš,Ivan Bartoš,"Czech computer specialist, activist and politician",,2,news
+Q12963,Person,François Bayrou,François Bayrou,former Prime Minister of France (2024–2025),,4,news
+Q12978,Person,Guy Verhofstadt,Guy Verhofstadt,Prime Minister of Belgium from 1999 to 2008,,1,kb
+Q13018661,Person,Phumtham Wechayachai,Phumtham Wechayachai,Acting Prime Minister of Thailand from 14 to 16 August 2024 and from July to September 2025,,5,news
+Q13024351,Person,Hun Manet,Hun Manet,Prime Minister of Cambodia since 2023,,19,news
+Q130246236,Person,Svitlana Hrynchuk,Svitlana Hrynchuk,Ukrainian politician (born 1985),,1,kb
+Q13026319,Person,Paetongtarn Shinawatra,Paetongtarn Shinawatra,Businesswoman and former Prime Minister of Thailand,,7,news
+Q130284207,Person,Hassan bin Abdulla Al-Ghanim,Hassan bin Abdulla Al-Ghanim,Qatari politician (born 1955),,2,news
+Q13047644,Person,Vjosa Osmani,Vjosa Osmani,"Former president of Kosovo (2020–2021, 2021–2026)",,3,news
+Q130852,Person,Junichiro Koizumi,Koizumi Junichirō,Prime Minister of Japan from 2001 to 2006,,5,news
+Q131140314,Person,Alix Didier Fils-Aimé,Alix Didier Fils-Aimé,Prime Minister of Haiti since 2024,,2,news
+Q131248,Person,Lee Kuan Yew,Lý Quang Diệu,1st Prime Minister of the Republic of Singapore (1923–2015),,1,kb
+Q131302504,Person,Kęstutis Budrys,Kęstutis Budrys,Lithuanian politician (born 1980),,2,news
+Q131522602,Person,Asaad al-Shaibani,Asaad al-Shaibani,"Syrian politician, Minister of Foreign Affairs and Expatriates",,5,news
+Q1316,Person,Saddam Hussein,Saddam Hussein,"Iraqi politician and revolutionary, president of Iraq from 1979 to 2003",,2,news
+Q132345,Person,Shinzō Abe,Abe Shinzō,Prime Minister of Japan from 2006–2007 and 2012–2020 (1954–2022),,22,news
+Q132551,Organization,Office of the United Nations High Commissioner for Refugees,Cao ủy Liên Hợp Quốc về người tị nạn,,,7,news
+Q132596,Person,Tarō Asō,Asō Tarō,Prime Minister of Japan from 2008 to 2009,,2,kb
+Q133009,Person,Gro Harlem Brundtland,Gro Harlem Brundtland,29th Prime Minister of Norway,,1,kb
+Q133040,Person,Alberto Fujimori,Alberto Fujimori,President of Peru from 1990 to 2000,,2,news
+Q133308,Person,Mohamed ElBaradei,Mohamed ElBaradei,"Egyptian law scholar and diplomat, 4th Director General of the International Atomic Energy Agency, and Nobel Peace Prize recipient",,2,kb
+Q133540883,Person,Sifi Ghrieb,Sifi Ghrieb,Algerian politician,,2,news
+Q1335527,Person,Shigeru Ishiba,Ishiba Shigeru,President of the Liberal Democratic Party from 2024 to 2025 and Prime Minister of Japan from 2024 to 2025,,17,news
+Q134068,Person,Nawaz Sharif,Nawaz Sharif,former prime minister of Pakistan,,8,news
+Q13407948,Person,Dorin Recean,Dorin Recean,Moldovan academic and politician,,4,news
+Q134102,Organization,Organisation internationale de la Francophonie,Cộng đồng Pháp ngữ,,,45,news
+Q13560902,Person,Kimberly Guilfoyle,Kimberly Guilfoyle,American attorney and political campaign advisor (born 1969),,3,news
+Q135641013,Person,Brian Burch,Brian Burch,American Catholic activist and diplomat,,2,news
+Q13570003,Person,Kadri Simson,Kadri Simson,Estonian politician (born 1977),,2,news
+Q13581225,Person,Luigi Di Maio,Luigi Di Maio,Italian politician (born 1986),,8,news
+Q1360841,Person,Salil Shetty,Salil Shetty,human rights campaigner,,2,news
+Q1369810,Person,Esteban Lazo Hernández,Esteban Lazo Hernández,Cuban politician,,6,news
+Q137204778,Person,Abelardo de la Espriella,Abelardo de la Espriella,43ᵗʰ President of Colombia since 2026,,3,news
+Q1378416,Person,Samuel Žbogar,Samuel Žbogar,Slovenian diplomat,,1,kb
+Q137866666,Person,Anita Orbán,Anita Orbán,Hungarian politician and manager,,1,kb
+Q138048,Person,Park Geun-hye,Park Geun-hye,President of South Korea from 2013 to 2017,,3,news
+Q138648292,Person,Iain Frew,Iain Frew,British diplomat,,3,news
+Q139324,Person,Trần Đức Lương,Trần Đức Lương,Vietnamese politician,,3,news
+Q139573306,Person,Ali Falih Al-Zaidi,Ali al-Zaidi,Iraqi Prime Minister since 2026,,1,news
+Q1396120,Person,Yair Lapid,Yair Lapid,"Leader of the Opposition in the Knesset (Israeli Parliament), Former Prime Minister of Israel in 2022 and Chairman of the Yesh Atid Party",,10,news
+Q1396178,Person,Winston Peters,Winston Peters,New Zealand politician (born 1945),,21,news
+Q1396586,Person,Marcelo Ebrard,Marcelo Ebrard,Mexican politician,,3,news
+Q1399218,Person,Hanno Pevkur,Hanno Pevkur,Estonian politician (born 1977),,2,news
+Q142,Country,France,Pháp,,FRA,185,news
+Q14342,Person,Lee Myung-bak,Lee Myung-bak,President of South Korea from 2008 to 2013,,2,news
+Q14345,Person,Roh Moo-hyun,Roh Moo-hyun,16th President of the Republic of Korea (1946–2009),,1,kb
+Q1449483,Person,Tony Burke,Tony Burke,Australian politician (born 1969),,4,news
+Q145,Country,United Kingdom,Vương quốc Liên hiệp Anh và Bắc Ireland,,GBR,309,news
+Q145193,Person,Zalmay Khalilzad,Zalmay Khalilzad,Afghan-American diplomat (born 1951),,2,news
+Q1459658,Person,Viktor Yanukovych,Viktor Fedorovych Yanukovych,President of Ukraine from 2010 to 2014,,3,news
+Q1459699,Person,Viktor Yushchenko,Viktor Andriyovych Yushchenko,3rd President of Ukraine,,2,kb
+Q148,Country,People's Republic of China,Trung Quốc,,CHN,194,news
+Q1491004,Person,Sara Duterte,Sara Duterte,Vice President of the Philippines since 2022,,2,news
+Q14946900,Person,Anwar Mohammed Gargash,Anwar Mohammed Gargash,Emirati politician and Minister of State of Foreign Affairs,,2,kb
+Q1502209,Person,Robert Kaliňák,Robert Kaliňák,"Slovak politician, Minister of the Interior of Slovakia (*1971)",,2,kb
+Q15029,Person,Hu Jintao,Hồ Cẩm Đào,former General Secretary of the Chinese Communist Party,,3,news
+Q15031,Person,Xi Jinping,Tập Cận Bình,General Secretary of the Chinese Communist Party since 2012 (born 1953),,114,news
+Q15048,Person,Elio Di Rupo,Elio Di Rupo,Belgian politician (born 1951),,2,news
+Q15054353,Person,Mélanie Joly,Mélanie Joly,Canadian Minister of Foreign Affairs,,8,news
+Q15062987,Person,Shahindokht Molaverdi,Shahindokht Molaverdi,Iranian politician,,2,news
+Q15071069,Person,Maia Sandu,Maia Sandu,President of Moldova since 2020,,11,news
+Q15081116,Person,Delcy Rodriguez,Delcy Rodríguez,Acting President of Venezuela since 2026,,13,news
+Q150851,Person,Colin Powell,Colin Powell,American general and diplomat (1937–2021),,1,kb
+Q151944,Person,Leonel Fernández,Leonel Fernández,former president of the Dominican Republic,,2,news
+Q15196319,Person,David Parker,David Parker,New Zealand politician,,1,kb
+Q152381,Person,Mohamed Nasheed,Mohamed Nasheed,"Maldivian politician, 4th president of the second republic of Maldives",,3,news
+Q153149,Person,Lennart Meri,Lennart Meri,"Estonian writer, filmmaker and politician; President of Estonia in 1992–2001 (1929-2006)",,1,kb
+Q15382355,Person,Hery Rajaonarimampianina,Hery Rajaonarimampianina,5th President of Madagascar from 2014 to 2018,,1,news
+Q1538702,Person,Gotabaya Rajapaksa,Gotabhaya Rajapaksa,President of Sri Lanka from 2019 to 2022,,4,news
+Q154104,Person,Sam Nujoma,Sam Nujoma,President of Namibia from 1990 to 2005 (1929–2025),,2,news
+Q15429937,Person,Rosemary DiCarlo,Rosemary DiCarlo,American diplomat,,4,news
+Q1543207,Person,Grant Robertson,Grant Robertson,Labour Party politician in New Zealand,,3,kb
+Q1543422,Person,Shah Mahmood Qureshi,Shah Mahmood Qureshi,Pakistani politician,,4,news
+Q154550,Person,Bertie Ahern,Bertie Ahern,11th Taoiseach of Ireland from 1997 to 2008,,3,news
+Q154952,Person,William Alexander of the Netherlands,"Willem-Alexander, Hoàng tử xứ Orange",King of the Netherlands (born 1967),,2,news
+Q155,Country,Brazil,Brasil,,BRA,85,news
+Q155004,Person,Philippe of Belgium,"Thái tử Philippe, Công tước của Brabant",King of the Belgians since 2013,,6,news
+Q155164,Person,Imran Khan,Imran Khan,Prime Minister of Pakistan from 2018 to 2022,,7,news
+Q156540,Person,Anniken Huitfeldt,Anniken Huitfeldt,Norwegian politician,,3,kb
+Q157,Person,François Hollande,François Hollande,President of France from 2012 to 2017 (born 1954),,12,news
+Q15711259,Person,Konrad Mizzi,Konrad Mizzi,Maltese politician,,3,news
+Q157451,Person,Heydar Aliyev,Heydar Alirza oglu Aliyev,3rd President of the Republic of Azerbaijan (1923–2003),,1,kb
+Q15787318,Person,Beate Meinl-Reisinger,Beate Meinl-Reisinger,Austrian jurist and politician (born 1978),,2,news
+Q1580316,Person,António José Seguro,António José Seguro,President of Portugal,,3,news
+Q15842341,Person,Ricardo Cabrisas,Ricardo Cabrisas,Cuban politician,,4,news
+Q15849,Person,José Manuel Durão Barroso,José Manuel Durão Barroso,Portuguese politician (born 1956),,6,news
+Q158813,Person,Mike Huckabee,Mike Huckabee,Governor of Arkansas from 1996 to 2007,,3,news
+Q159,Country,Russia,Nga,,RUS,386,news
+Q16,Country,Canada,Canada,,CAN,107,news
+Q16019,Person,Wolfgang Schäuble,Wolfgang Schäuble,German politician and statesman (1942–2023),,3,news
+Q1602354,Person,Helge Braun,Helge Braun,German politician,,1,kb
+Q160318,Person,Norodom Sihanouk,Norodom Sihanouk,Cambodian monarch and politician (1922–2012),,2,news
+Q16051359,Person,Kazem Gharibabadi,Kazem Gharibabadi,Iranian diplomat and writer,,1,kb
+Q16058009,Person,Abul Hassan Mahmood Ali,Abul Hassan Mahmood Ali,Bangladeshi politician,,3,news
+Q16090188,Person,Park Jin,Park Jin,South Korean politician,,1,kb
+Q16090635,Person,Yoon Suk Yeol,Yoon Suk-yeol,President of South Korea from 2022 to 2025,,41,news
+Q16120878,Person,Kais Saied,Kais Saied,"Tunisian politician, academic and jurist",,5,news
+Q16139138,Person,Sorawong Thienthong,Sorawong Thienthong,Thai politician,,1,kb
+Q16139290,Person,Julapun Amornvivat,Julapun Amornvivat,Thai politician,,1,kb
+Q16139501,Person,Pany Yathotou,Pany Yathotou,Laotian politician,,3,news
+Q16139757,Person,Anutin Charnvirakul,Anutin Charnvirakul,32nd Prime Minister of Thailand,,10,news
+Q16146159,Person,Nasry Asfura,Nasry Asfura,Honduran politician and businessman (born 1958),,2,news
+Q16149892,Person,Luis Arce,Luis Arce,Bolivian politician and president of Bolivia from 2020 to 2025,,6,news
+Q16150274,Person,Sar Kheng,Sar Kheng,Cambodian Minister of the Interior,,3,news
+Q16151955,Person,Ahmad Al Abdullah Al Sabah,Ahmad Al Abdullah Al Sabah,Prime Minister of Kuwait since 2024,,5,news
+Q16157242,Person,Hồ Đức Phớc,Hồ Đức Phớc,Vietnamese politician,,4,news
+Q16186720,Person,Subrahmanyam Jaishankar,Subrahmanyam Jaishankar,External Affairs Minister of India,,21,news
+Q16191011,Person,Marise Payne,Marise Payne,Australian politician,,8,news
+Q16192933,Person,Mohammad Shtayyeh,Mohammad Shtayyeh,former Prime Minister of the Palestinian Authority Government under Abbas and Fattah,,5,news
+Q16193885,Person,Samia Suluhu Hassan,Samia Suluhu,President of Tanzania since 2021,,2,kb
+Q16195119,Person,Kevin Hogan,Kevin Hogan,Australian politician,,2,kb
+Q16196017,Person,Tedros Adhanom Ghebreyesus,Tedros Adhanom,"Ethiopian and politician, Director-General of the World Health Organization",,13,news
+Q16196728,Person,Angus Taylor,Angus Taylor,Australian politician,,3,kb
+Q16201039,Person,Arancha González Laya,Arancha González Laya,"former Minister of Foreign Affairs, European Union and Cooperation of Spain",,1,kb
+Q16202391,Person,Matthew Canavan,Matthew Canavan,Australian politician,,2,news
+Q16206405,Person,Mahamat Déby,Mahamat Déby,military leader of Chad since 2021,,2,news
+Q16207702,Person,Nelson Chamisa,Nelson Chamisa,President Citizen Coalition for Change,,1,kb
+Q16211070,Person,Ahmed Hussen,Ahmed Hussen,"Canadian lawyer, political activist and politician",,2,kb
+Q16215886,Person,Desmond Lee,Desmond Lee,Singaporean politician and lawyer (born 1976),,1,kb
+Q16218414,Person,Pat Conroy,Pat Conroy,Australian politician,,3,news
+Q16222127,Person,Tim Watts,Tim Watts,Australian politician,,2,news
+Q16269662,Person,Emmanuel Ramazani Shadary,Emmanuel Ramazani Shadary,Congolese politician,,3,news
+Q16297876,Person,Gabriel Boric,Gabriel Boric,president of Chile from 2022 to 2026,,4,news
+Q16366137,Person,Jeyhun Bayramov,Jeyhun Bayramov,Minister of Foreign Affairs of the Republic of Azerbaijan,,3,news
+Q16373886,Person,Sahiba Gafarova,Sahiba Gafarova,Speaker of the National Assembly of the Republic of Azerbaijan,,1,kb
+Q16374811,Person,Tahir Budaqov,Tahir Budaqov,Azerbaijani politician,,1,kb
+Q16407368,Person,Matti Maasikas,Matti Maasikas,Estonian diplomat (born 1967),,1,kb
+Q164373,Person,Thaksin Shinawatra,Thaksin Shinawatra,Prime Minister of Thailand form 2001 to 2006,,1,kb
+Q16472414,Person,Simonas Kairys,Simonas Kairys,Lithuanian politician,,1,kb
+Q1652493,Person,Sushma Swaraj,Sushma Swaraj,Indian politician,,2,news
+Q1654639,Person,Takeshi Iwaya,Iwaya Takeshi,Japanese politician,,9,news
+Q1655453,Person,Toshimitsu Motegi,Motegi Toshimitsu,Japanese politician (born 1955),,2,news
+Q16581287,Person,Jeanine Áñez,Jeanine Áñez,Bolivian politician and Former President of Bolivia (2019–2020),,1,kb
+Q16594097,Person,Luis Abinader,Luis Abinader,President of the Dominican Republic since 2020,,2,news
+Q166546,Organization,European Free Trade Association,Hiệp hội Mậu dịch tự do châu Âu,,,7,news
+Q16664506,Person,Alexander Kozlov,Alexander Alexandrovich Kozlov,Russian politician,,2,news
+Q16669148,Person,Patrice Talon,Patrice Talon,President of Benin between 2016 and 2026,,2,news
+Q1670096,Person,Simon Coveney,Simon Coveney,Irish Fine Gael politician (b. 1972),,5,news
+Q16713168,Person,Vadym Prystaiko,Vadym Prystaiko,Ukrainian diplomat,,3,news
+Q16731317,Person,Philippe Lazzarini,Philippe Lazzarini,UN official (born 1964),,5,news
+Q16732958,Person,Muhammad Hasan Mahmud,Muhammad Hasan Mahmud,Bangladeshi politician ‍and Parliamentarian,,4,news
+Q16733931,Person,Ismail Ould Cheikh Ahmed,Ismail Ould Cheikh Ahmed,United Nations official,,1,kb
+Q16735152,Person,Linda Reynolds,Linda Reynolds,Australian politician,,3,news
+Q16855164,Person,Umaro Sissoco Embaló,Umaro Sissoco Embaló,President of Guinea-Bissau from 2020 to 2025,,4,news
+Q16866539,Person,Simon Khaya-Moyo,Simon Khaya-Moyo,Zimbabwean politician,,2,news
+Q16972528,Person,Chris Philp,Chris Philp,British politician (born 1976),,1,kb
+Q16986436,Person,Sanna Marin,Sanna Marin,Prime Minister of Finland from 2019 to 2023,,5,news
+Q17,Country,Japan,Nhật Bản,,JPN,141,news
+Q17045790,Person,Hulusi Akar,Hulûsi Akar,Turkish military officer and politician (born 1952),,3,news
+Q170481,Organization,Asia-Pacific Economic Cooperation,Diễn đàn Hợp tác Kinh tế châu Á - Thái Bình Dương,,,23,news
+Q1705028,Person,Sanae Takaichi,Takaichi Sanae,"Japanese politician, Prime Minister of Japan since 2025",,16,news
+Q170899,Person,Néstor Kirchner,Néstor Kirchner,President of Argentina from 2003 to 2007,,1,kb
+Q1711532,Person,Juha Sipilä,Juha Sipilä,44th Prime Minister of Finland,,1,kb
+Q17117413,Person,Miro Cerar,Miro Cerar,Slovenian lawyer and politician,,3,news
+Q17118365,Person,Gabrielius Landsbergis,Gabrielius Landsbergis,Lithuanian politician (born 1982),,4,news
+Q17148626,Person,Sultan Al Jaber,Sultan Al Jaber,COP28 President-Designate,,4,news
+Q17164274,Person,Xie Feng,Tạ Phong,Chinese diplomat,,2,news
+Q17177542,Person,Gaston Browne,Gaston Browne,Prime Minister of Antigua and Barbuda since 2014,,1,kb
+Q17266735,Person,Christos Stylianides,Christos Stylianides,Greek Cypriot politician,,2,news
+Q1726930,Person,Christophe Castaner,Christophe Castaner,French lawyer and politician,,2,news
+Q17279118,Person,Agnès Callamard,Agnès Callamard,French human rights activist,,2,news
+Q1728820,Person,Leo Varadkar,Leo Varadkar,"Taoiseach from 2017 to 2020, and from 2022 to 2024.",,15,news
+Q1729478,Person,Karin Kneissl,Karin Kneissl,"Austrian diplomat, journalist and politician",,2,news
+Q17303605,Person,Gillian Bird,Gillian Bird,Australian public servant and diplomat,,1,kb
+Q17330556,Person,Peter Pellegrini,Peter Pellegrini,President of Slovakia,,7,news
+Q17382244,Person,Elina Valtonen,Elina Valtonen,Finnish politician (born 1981),,3,news
+Q17384292,Person,Ville Tavio,Ville Tavio,Finnish politician,,1,kb
+Q17402717,Person,David Perdue,Sonny Perdue,"American politician, businessman, and diplomat (born 1949)",,3,news
+Q17410,Person,Zhou Enlai,Chu Ân Lai,1st Premier of the People's Republic of China,,1,kb
+Q174438,Person,Madeleine Albright,Madeleine K. Albright,United States Secretary of State from 1997 to 2001,,2,news
+Q17478000,Person,Iván Duque,Iván Duque,33rd President of Colombia 2018–2022,,3,news
+Q1758245,Person,Stefano Sannino,Stefano Sannino,Italian diplomat and civil servant,,2,news
+Q1764511,Organization,G7,G7,,,33,news
+Q17704749,Person,Karol Nawrocki,Karol Nawrocki,"Polish politician and historian, President of the Republic of Poland since 2025",,5,news
+Q17712353,Person,Nayib Bukele,Nayib Bukele,President of El Salvador since 2019,,6,news
+Q1780398,Person,Ulf Kristersson,Ulf Kristersson,Prime Minister of Sweden since 2022,,12,news
+Q1789192,Person,Kristen Michal,Kristen Michal,Estonian politician (born 1975),,7,news
+Q17905,Person,Martin Schulz,Martin Schulz,German politician,,5,news
+Q179242,Person,Laurent Gbagbo,Laurent Gbagbo,4th President of Ivory Coast,,1,kb
+Q17991320,Person,Hossein Amir-Abdollahian,Hossein Amir-Abdollahian,Iranian politician and diplomat,,23,news
+Q17995110,Person,Jimmy Morales,Jimmy Morales,Comedian and former President of Guatemala,,3,news
+Q180383,Person,Helen Clark,Helen Clark,Prime Minister of New Zealand from 1999 to 2008,,3,news
+Q180589,Person,Boris Johnson,Boris Johnson,Prime Minister of the United Kingdom from 2019 to 2022,,84,news
+Q180795,Person,Mohammad Khatami,Mohammad Khatami,President of Iran from 1997 to 2005,,2,news
+Q18098260,Person,Peeni Henare,Peeni Henare,New Zealand politician,,5,news
+Q18111,Person,Li Keqiang,Lý Khắc Cường,Premier of the People's Republic of China from 2013 to 2023,,1,kb
+Q181182,Person,Hasan Nasrallah,Hasan Nasrallah,Leader of Hezbollah (1960-2024),,2,news
+Q18135060,Person,Christian Kern,Christian Kern,Austrian politician and businessman,,1,kb
+Q1813692,Person,Mathias Cormann,Mathias Cormann,Australian politician,,5,news
+Q181383,Person,Mahathir Mohamad,Mahathir Mohamad,"Prime Minister of Malaysia (1981–2003, 2018–2020)",,3,news
+Q181574,Organization,North American Free Trade Agreement,Hiệp định Thương mại Tự do Bắc Mỹ,,,4,news
+Q182000,Organization,UN Trade and Development,Hội nghị Liên Hiệp Quốc về Thương mại và Phát triển,,,5,news
+Q18202362,Person,Maria Malmer Stenergard,Maria Malmer Stenergard,Sweden's Foreign secretary,,2,news
+Q182397,Person,Lars Løkke Rasmussen,Lars Løkke Rasmussen,25th Prime Minister of Denmark,,5,news
+Q18243775,Person,Ann Linde,Ann Linde,Swedish politician,,3,news
+Q183,Country,Germany,Đức,,DEU,131,news
+Q18342668,Person,Retno Marsudi,Retno Marsudi,"Indonesian ambassador, minister",,7,news
+Q18342893,Person,Gibran Rakabuming Raka,Gibran Rakabuming Raka,14th vice-president of Indonesia (since 2024),,1,kb
+Q184,Country,Belarus,Belarus,,BLR,48,news
+Q18421248,Person,Siti Nurbaya Bakar,Siti Nurbaya Bakar,Indonesian politician,,2,news
+Q18434995,Person,Sophie Wilmès,Sophie Wilmès,Belgian politician,,4,news
+Q18459548,Person,Lương Cường,Lương Cường,President of Vietnam from 2024 to 2026,,51,news
+Q18538164,Person,Ilie Bolojan,Ilie Bolojan,Romanian politician (born in 1969),,2,kb
+Q1855372,Person,Tamim bin Hamad Al Thani,Tamim bin Hamad Al Thani,Emir of Qatar since 2013,,11,news
+Q18600209,Person,Aivaras Abromavičius,Aivaras Abromavičius,politician,,2,news
+Q18613657,Person,Alexander Darchiev,Alexander Darchiev,Russian diplomat,,1,kb
+Q18618891,Person,Mokgweetsi Masisi,Mokgweetsi Masisi,former President of Botswana,,2,kb
+Q18633046,Person,Wolfgang Schmidt,Wolfgang Schmidt,German politician (1970-),,2,news
+Q18645045,Person,Robert Golob,Robert Golob,Slovenian businessman and politician (born 1967),,3,news
+Q187052,Organization,Human Rights Watch,Tổ chức Theo dõi Nhân quyền,,,12,news
+Q18708068,Person,Mauro Vieira,Mauro Vieira,Brazilian diplomat,,6,news
+Q187413,Person,Álvaro Uribe Vélez,Álvaro Uribe,39.º President of Colombia from 2002 to 2010,,3,news
+Q188122,Person,Juan Pablo Duarte,Juan Pablo Duarte,Presidente y libertador of the Dominican Republic (1813-1876),,1,kb
+Q1888110,Person,Mamadou Tangara,Mamadou Tangara,Gambian diplomat and politician,,2,news
+Q188822,Organization,Asian Development Bank,Ngân hàng Phát triển châu Á,,,65,news
+Q189,Country,Iceland,Ai-xơ-len,,ISL,21,news
+Q19003460,Person,Sorin Grindeanu,Sorin Grindeanu,65th Prime Minister of Romania (2017),,5,news
+Q190572,Person,Vicente Fox,Vicente Fox,62th president of Mexico,,2,news
+Q191,Country,Estonia,Estonia,,EST,42,news
+Q191045,Person,Felipe VI of Spain,Felipe,King of Spain since 2014,,2,news
+Q191060,Person,Manuel Zelaya,Manuel Zelaya,Honduran politician and businessman (born 1952),,1,kb
+Q191384,Organization,International Bank for Reconstruction and Development,Ngân hàng Tái thiết và Phát triển Quốc tế,,,173,news
+Q192,Person,David Cameron,David Cameron,Prime Minister of the United Kingdom from 2010 to 2016,,57,news
+Q19216,Person,Ma Ying-jeou,Mã Anh Cửu,12th and 13th President of Republic of China(Taiwan),,2,news
+Q192533,Person,Mark Carney,Mark Carney,24th prime minister of Canada since 2025,,29,news
+Q192778,Person,Rafiq Hariri,Rafiq Hariri,"Prime Minister of Lebanon (1992–1998, 2000–2004)",,1,kb
+Q1932603,Person,Miguel Díaz-Canel,Miguel Díaz-Canel,First Secretary of the Communist Party of Cuba and top leader of Cuba since 2021,,11,news
+Q193272,Organization,Economic Community of West African States,Cộng đồng Kinh tế Tây Phi,,,16,news
+Q1936326,Person,Mindaugas Sinkevičius,Mindaugas Sinkevičius,Lithuanian jurist and politician,,2,news
+Q193968,Person,Mohammed Omar,Mohammed Omar,Afghan cleric who founded the Taliban (1960–2013),,3,kb
+Q19428856,Person,Jane Philpott,Jane Philpott,"Canadian physician, academic administrator",,2,kb
+Q1951896,Person,Mohammed Bin Zayed Al Nahyan,Mohammed bin Zayed Al Nahyan,President of the United Arab Emirates,,22,news
+Q19519696,Person,Vladimir Padrino López,Vladimir Padrino López,Venezuelan general,,3,news
+Q19561129,Person,Lai Mohammed,Lai Mohammed,Nigerian lawyer and politician,,1,kb
+Q195725,Person,William Ruto,William Ruto,President of Kenya since 2022,,5,news
+Q19581,Person,Rafael Correa,Rafael Correa,President of Ecuador (2007 - 2017) y Prófugo de la Justicia,,2,news
+Q196070,Person,Uhuru Kenyatta,Uhuru Kenyatta,4th President of Republic of Kenya (2013–2022),,2,news
+Q19634024,Person,Eli Cohen,Eli Cohen,"Israeli politician, Minister of Energy of Israel",,9,news
+Q19636157,Person,Yaşar Güler,Yaşar Güler,Minister of National Defense of the Republic of Turkey,,2,news
+Q19771,Organization,G20,G20,,,22,news
+Q19878,Person,Muammar Gaddafi,Muammar al-Gaddafi,Military officer and former Brotherly Leader and Guide of the Revolution of Libya (1969-2011),,3,news
+Q19901232,Person,Droupadi Murmu,Droupadi Murmu,President of India since 2026,,4,news
+Q19920980,Person,Linda Thomas-Greenfield,Linda Thomas-Greenfield,American diplomat (born 1952),,6,news
+Q19941071,Person,Chung Eui-yong,Chung Eui-yong,Foreign Minister of South Korea,,4,news
+Q19946921,Person,Yamandú Orsi,Yamandú Orsi,43rd President of Uruguay,,2,news
+Q19957590,Person,Oliver Dowden,Oliver Dowden,British politician (born 1978),,3,news
+Q20,Country,Norway,Na Uy,,NOR,54,news
+Q20020731,Person,Élisabeth Borne,Élisabeth Borne,Prime Minister of France from 2022 to 2024,,2,kb
+Q20025979,Person,Nguyễn Mạnh Hùng,Nguyễn Mạnh Hùng,President and Chief Executive Officer - Viettel Group,,1,kb
+Q20055561,Person,Rishi Sunak,Rishi Sunak,Prime Minister of the United Kingdom from 2022 to 2024,,62,news
+Q20066227,Person,Iryna Vereshchuk,Iryna Vereshchuk,Ukrainian politician,,2,news
+Q20070130,Person,Ruslan Stefanchuk,Ruslan Stefanchuk,Ukrainian politician and lawyer,,5,news
+Q200881,Person,Kassym-Jomart Tokayev,Kassym-Jomart Tokayev,President of Kazakhstan since 2019,,18,news
+Q20089181,Person,Sébastien Lecornu,Sébastien Lecornu,Prime Minister of France since 2025,,13,news
+Q20090884,Person,Hilda Heine,Hilda Heine,Marshallese politician,,2,news
+Q2023146,Person,Omar Touray,Omar Touray,Gambian diplomat and politician,,2,news
+Q20423278,Person,Mohammad Mustafa,Mohammad Mustafa,Prime Minister of the Palestinian National Authority,,8,news
+Q204344,Organization,World Food Programme,Chương trình Lương thực Thế giới,,,2,news
+Q204487,Person,Zine El Abidine Ben Ali,Zine El Abidine Ben Ali,Tunisian politician,,1,kb
+Q20513503,Person,Alen Simonyan,Alen Simonyan,"Armenian television presenter, actor, producer and politician (born 1980)",,5,news
+Q20557144,Person,Vakhtang Gomelauri,Vakhtang Gomelauri,"Georgian former interior minister, former head of the State Security Service and former deputy prime minister; sanctioned over serious human rights abuses",,2,news
+Q20558348,Person,Don Pramudwinai,Don Pramudwinai,Thai politician,,2,news
+Q205650,Organization,United Nations Human Rights Council,Hội đồng Nhân quyền Liên Hợp Quốc,,,1,news
+Q205995,Organization,Caribbean Community,Cộng đồng Caribe,,,20,news
+Q206,Person,Stephen Harper,Stephen Harper,22nd prime minister of Canada from 2006 to 2015,,1,kb
+Q20631311,Person,Anne Aly,Anne Aly,Australian politician and academic,,2,kb
+Q20648913,Person,Nick Thomas-Symonds,Nick Thomas-Symonds,British politician,,1,kb
+Q207,Person,George W. Bush,George W. Bush,43rd President of the United States (2001–2009),,3,news
+Q2080040,Person,Petr Pavel,Petr Pavel,"Czech general and statesman, 4th president of the Czech Republic (born 1961)",,7,news
+Q20850503,Person,Yevgeny Prigozhin,Yevgeny Viktorovich Prigozhin,"Russian mercenary leader, oligarch, restaurateur, former owner of Wagner PVC (1961–2023)",,10,news
+Q2096387,Person,Shehbaz Sharif,Shehbaz Sharif,Prime Minister of Pakistan (2022–2023; 2024–present),,17,news
+Q21001,Person,Moon Jae-in,Moon Jae-in,12th President of the Republic of Korea,,9,news
+Q2105,Person,Jacques Chirac,Jacques Chirac,President of France from 1995 to 2007,,2,kb
+Q21062160,Person,Lassina Zerbo,Lassina Zerbo,"former Prime Minister of Burkina Faso, geophysicist, Executive Secretary of the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO)",,1,kb
+Q21066082,Person,Andrew Hastie,Andrew Hastie,Australian politician,,1,kb
+Q2107268,Person,Prabowo Subianto,Prabowo Subianto,President of the Republic of Indonesia,,20,news
+Q2108126,Person,Prayut Chanocha,Prayut Chan-ocha,Prime Minister of Thailand from 2014 to 2023,,1,kb
+Q21089561,Person,Fayez al-Sarraj,Fayez al-Sarraj,Architect and former Prime Minister of Libya,,6,news
+Q211,Country,Latvia,Latvia,,LVA,39,news
+Q2112764,Person,Nikos Anastasiades,Nicos Anastasiades,"Cypriot politician, 7th President of the Republic of Cyprus (2013–2023)",,3,news
+Q21159815,Person,François-Philippe Champagne,François-Philippe Champagne,"Canadian politician, jurist and lawyer",,3,news
+Q21179176,Person,Marcel Ciolacu,Marcel Ciolacu,Romanian politician,,3,news
+Q212,Country,Ukraine,Ukraina,,UKR,362,news
+Q2121094,Person,Vladimir Medinsky,Владимир Ростиславович Мединский,Russian politician,,5,news
+Q21294765,Person,Jovenel Moïse,Jovenel Moïse,former President of Haiti,,1,kb
+Q213,Country,Czech Republic,Séc,,CZE,45,news
+Q21335996,Person,Catherine McKenna,Catherine McKenna,Canadian politician,,1,kb
+Q2134696,Person,Alejandro Giammattei,Alejandro Giammattei,former president of Guatemala,,6,news
+Q214,Country,Slovakia,Slovakia,,SVK,41,news
+Q2148674,Person,Ricardo Hausmann,Ricardo Hausmann,Venezuelan economist (born 1956),,1,kb
+Q215,Country,Slovenia,Slovenia,,SVN,32,news
+Q215569,Person,Alain Juppé,Alain Juppé,92nd Prime Minister of France (born 1945),,3,news
+Q21592171,Person,Kemi Badenoch,Kemi Badenoch,British politician and Leader of the Opposition to the British Government (2024–present) and Leader of the Conservative Party since 2024 (born 1980),,2,news
+Q21642492,Person,Sean Fraser,Sean Fraser,Canadian politician (born 1984),,2,news
+Q216594,Person,Ed Miliband,Ed Miliband,British politician (born 1969),,5,news
+Q217,Country,Moldova,Moldova,,MDA,30,news
+Q217070,Person,Laurent Fabius,Laurent Fabius,87th Prime Minister of France (born 1946),,2,news
+Q217096,Person,Naruhito,Hoàng thái tử Naruhito,Emperor of Japan (born 1960),,2,news
+Q217172,Organization,Cooperation Council for the Arab States of the Persian Gulf,Hội đồng Hợp tác vùng Vịnh,,,9,news
+Q217566,Person,Anerood Jugnauth,Anerood Jugnauth,Mauritian politician (1930–2021),,3,news
+Q21794010,Person,Amir Ohana,Amir Ohana,"Israeli politician, former Minister of National Security of Israel (2020–2021) and Speaker of the Knesset since 2022",,3,news
+Q218,Country,Romania,România,,ROU,40,news
+Q219,Country,Bulgaria,Bulgaria,,BGR,51,news
+Q219060,Country,Palestine,Nhà nước Palestine,,PSE,31,news
+Q21932292,Person,"Richard M. Mills, Jr.","Richard M. Mills, Jr.",Ambassador of the United States,,2,kb
+Q21995345,Person,Katalin Novák,Katalin Novák,President of Hungary from 2022 to 2024,,3,news
+Q22054939,Person,Aidarus al-Zoubaidi,Aïdarus al-Zoubaïdi,Yemeni politician (born 1967),,3,news
+Q220579,Person,Zoran Zaev,Zoran Zaev,former prime minister of North Macedonia,,4,news
+Q221,Country,North Macedonia,Bắc Macedonia,,MKD,20,news
+Q22100202,Person,Pei Jinjia,Bùi Kim Giai,Chinese politician,,2,news
+Q2213434,Person,Cui Tiankai,Thôi Thiên Khải,Chinese diplomat,,2,news
+Q222,Country,Albania,Albania,,ALB,28,news
+Q222031,Person,Aleksandar Vučić,Aleksandar Vučić,5th President of the Republic of Serbia,,21,news
+Q222905,Person,Jarosław Gowin,Jarosław Gowin,Polish politician,,2,kb
+Q22316,Person,John Kerry,John Kerry,American politician and diplomat (born 1943),,19,news
+Q22338116,Person,Dick Schoof,Dick Schoof,"civil servant and former Prime Minister of the Netherlands, 2024-2026",,5,news
+Q224,Country,Croatia,Croatia,,HRV,17,news
+Q225,Country,Bosnia and Herzegovina,Bosna và Hercegovina,,BIH,10,news
+Q2262885,Person,Sebastian Kurz,Sebastian Kurz,"Chancellor of Austria (2017–2019, 2020–2021)",,4,news
+Q22683089,Person,Audrey Azoulay,Audrey Azoulay,French politician (1972-),,6,news
+Q22686,Person,Donald Trump,Donald Trump,President of the United States (2017–2021; since 2025),,291,news
+Q22695687,Person,Santiago Peña,Santiago Peña,52th President of Paraguay (2023–2026),,4,news
+Q22696254,Person,Charlot Salwai,Charlot Salwai,11th Prime Minister of Vanuatu,,1,kb
+Q227,Country,Azerbaijan,Azerbaijan,,AZE,47,news
+Q228,Country,Andorra,Andorra,,AND,13,news
+Q229,Country,Cyprus,Síp,,CYP,26,news
+Q22949078,Person,Ahmed Awad Ibn Auf,Ahmed Awad Ibn Auf,Sudanese military officer,,3,news
+Q230,Country,Georgia,Gruzia,,GEO,25,news
+Q23010079,Person,Mohsen Paknejad,Mohsen Paknejad,Iranian politician and executive director,,1,kb
+Q2301106,Person,Tzachi Hanegbi,Tzachi Hanegbi,Israeli politician,,2,news
+Q23020336,Person,Mohammed bin Abdulrahman Al Thani,Mohammed bin Abdulrahman Al Thani,Prime Minister and the Minister of Foreign Affairs of Qatar,,16,news
+Q230303,Person,Caroline Kennedy,Caroline Kennedy,American author and diplomat (born 1957),,1,kb
+Q23034406,Person,Henry Van Thio,Henry Van Thio,Burmese politician,,1,kb
+Q23034482,Person,Taneti Maamau,Taneti Maamau,Kiribati politician,,2,kb
+Q230850,Person,Irina Bokova,Irina Bokova,Bulgarian diplomat,,1,kb
+Q232,Country,Kazakhstan,Kazakhstan,,KAZ,40,news
+Q2329960,Person,Denis Manturov,Denis Manturov,Russian politician,,1,kb
+Q233,Country,Malta,Malta,,MLT,22,news
+Q23304224,Person,Harsh Vardhan Shringla,Harsh Vardhan Shringla,Indian diplomat (born 1962),,2,kb
+Q233289,Person,Atal Bihari Vajpayee,Atal Bihari Vajpayee,Prime Minister of India in 1996 and from 1998 to 2004,,2,news
+Q233499,Person,Yoshirō Mori,Mori Yoshirō,Prime Minister of Japan from 2000 to 2001,,2,news
+Q233984,Person,Tsai Ing-wen,Thái Anh Văn,14th and 15th President of Republic of China (Taiwan),,7,news
+Q234182,Person,Harriet Harman,Harriet Harman,British politician (born 1950),,1,kb
+Q235,Country,Monaco,Monaco,,MCO,12,news
+Q235137,Person,Keiko Fujimori,Keiko Fujimori,67th President of Peru,,1,kb
+Q23530,Person,Dmitry Medvedev,Dmitry Anatolyevich Medvedev,"President of Russia from 2008 to 2012, Prime Minister of Russia (2012-2020) and Deputy Chairman of the Security Council of Russia since 2020",,14,news
+Q236,Country,Montenegro,Montenegro,,MNE,12,news
+Q237,Country,Vatican City,Thành Vatican,,VAT,22,news
+Q237522,Person,Margot Wallström,Margot Wallström,Swedish politician,,2,kb
+Q23771428,Person,Prak Sokhon,Prak Sokhonn,Cambodian politician,,4,news
+Q238,Country,San Marino,San Marino,,SMR,11,news
+Q23842116,Person,Sushila Karki,Sushila Karki,interim prime minister of Nepal since 2025,,2,news
+Q23883476,Person,Laura Farnsworth Dogu,Laura Farnsworth Dogu,American diplomat,,2,news
+Q23888396,Person,Mary Catherine Phee,Mary Catherine Phee,American diplomat,,1,kb
+Q2391857,Person,David Sassoli,David Sassoli,President of the European Parliament from 2019 to 2022,,3,news
+Q24025631,Person,Dmytro Kuleba,Dmytro Kuleba,Ukrainian diplomat and politician (born 1981),,58,news
+Q24045706,Person,Guðni Jóhannesson,Guðni Th. Jóhannesson,President of Iceland (2016-2024),,2,news
+Q241,Country,Cuba,Cuba,,CUB,28,news
+Q242,Country,Belize,Belize,,BLZ,18,news
+Q24248226,Person,Luvsannamsrain Oyun-Erdene,Luvsannamsrain Oyun-Erdene,"32nd Prime Minister of Mongolia, leader of the governing political party",,2,news
+Q24254499,Person,Lê Minh Hưng,Lê Minh Hưng,Vietnamese politician (1970-),,44,news
+Q24259941,Person,Thani Ahmed Alzeyoudi,Thani Ahmed Alzeyoudi,Minister of United Arab Emirates government,,2,kb
+Q24325682,Person,Olivier Richard,Olivier Richard,French diplomat,,2,news
+Q243630,Organization,BRICS,BRICS,,,18,news
+Q244,Country,Barbados,Barbados,,BRB,14,news
+Q244323,Organization,Visegrád Group,Nhóm Visegrád,,,6,news
+Q244338,Person,Bilawal Zardari,Bilawal Bhutto Zardari,Pakistani politician,,3,news
+Q24579,Person,Omurbek Babanov,Omurbek Babanov,Kyrgyz politician,,2,news
+Q24692,Person,Almazbek Atambaev,Almazbek Atambayev,4th President of the Republic of Kyrgyzstan,,3,news
+Q247424,Person,Nikos Dendias,Nikos Dendias,Greek politician,,4,news
+Q249206,Person,Mevlüt Çavuşoğlu,Mevlüt Çavuşoğlu,Turkish statesman (born 1968),,13,news
+Q2494,Person,Benedict XVI,Giáo hoàng Biển Đức XVI,265 th pope of the Catholic Church (2005–2013),,1,kb
+Q24953723,Person,Nguyễn Hồng Diên,Nguyễn Hồng Diên,Vietnamese politician,,5,news
+Q24957799,Person,Võ Thị Ánh Xuân,Võ Thị Ánh Xuân,Vietnamese politician,,37,news
+Q24958645,Person,Phạm Thị Thanh Trà,Phạm Thị Thanh Trà,Vietnamese politician,,1,kb
+Q25035961,Person,Kim Tok-hun,Kim Tok-hun,Vice President of the State Affairs of North Korea since 2021,,4,news
+Q252,Country,Indonesia,Indonesia,,IDN,71,news
+Q2530,Person,Gerhard Schröder,Gerhard Schröder,Chancellor of West Germany (1998–2005),,4,news
+Q2538,Person,Joachim Gauck,Joachim Gauck,"German Protestant pastor and politician, Federal President of Germnay 2012–2017 (born 1940)",,1,kb
+Q25417952,Person,Nguyễn Văn Hùng,Nguyễn Văn Hùng,Vietnamese politician,,1,kb
+Q25438189,Person,Tymofiy Mylovanov,Tymofiy Mylovanov,Ukrainian economist,,1,kb
+Q25597826,Person,Sadyr Japarov,Sadyr Japarov,Kyrgyz politician and the president of Kyrgyzstan,,8,news
+Q257835,Person,Irene Khan,Irene Khan,Bangladeshi academic,,2,news
+Q258,Country,South Africa,Nam Phi,,ZAF,62,news
+Q2581825,Person,Michael Oren,Michael Oren,"Israeli historian, military officer and diplomat (born 1955)",,1,kb
+Q259361,Person,Nadhim Zahawi,Nadhim Zahawi,British politician,,2,news
+Q2595973,Person,Vương Đình Huệ,Vương Đình Huệ,Vietnamese politician,,20,news
+Q25999464,Person,Saleumxay Kommasith,Saleumxay Kommasith,Prime Minister of Laos,,5,news
+Q26036628,Person,Nasser Bourita,Nasser Bourita,Moroccan minister of foreign affairs,,2,news
+Q260400,Person,Garry Conille,Garry Conille,Prime Minister of Haiti in 2024,,2,kb
+Q260546,Person,Steve Barclay,Stephen Barclay,British politician,,3,news
+Q262,Country,Algeria,Algérie,,DZA,34,news
+Q26257557,Person,Rumen Radev,Rumen Radev,Prime Minister of Bulgaria since 2026,,12,news
+Q26273268,Person,Zuzana Čaputová,Zuzana Čaputová,"Slovak lawyer, environmental activist and politician",,4,news
+Q2642828,Person,Alberto Fernández,Alberto Fernández,president of Argentina from 2019 to 2023,,4,news
+Q2646711,Person,Ali Lamine Zeine,Ali Lamine Zeine,Nigerien politician,,3,news
+Q264766,Person,Theresa May,Theresa May,Prime Minister of the United Kingdom from 2016 to 2019,,49,news
+Q265,Country,Uzbekistan,Uzbekistan,,UZB,25,news
+Q265277,Person,Kristalina Georgieva,Kristalina Georgieva,Bulgarian economist and CEO,,5,news
+Q2657043,Person,Ibrahim Iskandar of Johor,Ibrahim Ismail của Johor,17th and current Yang di-Pertuan Agong of Malaysia & Sultan of Johor,,3,news
+Q2663804,Person,Gilad Erdan,Gilad Erdan,Israeli politician and diplomat,,4,news
+Q26683,Organization,Palestine Liberation Organization,Tổ chức Giải phóng Palestine,,,6,news
+Q26703072,Person,Surangel Whipps Jr.,Surangel Whipps Jr.,President of Palau since 2021,,3,news
+Q26703296,Person,Asaduzzaman Khan,Asaduzzaman Khan,Bangladeshi politician,,1,kb
+Q2670985,Person,Aryeh Dery,Aryeh Deri,Israeli politician (born 1959),,1,kb
+Q267320,Person,Espen Barth Eide,Espen Barth Eide,Norwegian politician,,3,news
+Q268584,Person,Dominic Raab,Dominic Raab,British politician (born 1974),,10,news
+Q269697,Person,Liam Byrne,Liam Byrne,British politician (born 1970),,2,news
+Q269909,Person,Andy Burnham,Andy Burnham,British politician,,11,news
+Q27,Country,Ireland,Ireland,,IRL,60,news
+Q27043179,Person,Raman Halowchanka,Roman Golovchenko,"Belarusian diplomat, politician & banker",,3,news
+Q27058418,Person,Khurelsukh Ukhnaa,Ukhnaagiin Khürelsükh,6th President of Mongolia,,6,news
+Q27122158,Person,Anton Alikhanov,Anton Alikhanov,Russian politician,,2,news
+Q272201,Person,Liz Truss,Liz Truss,Prime Minister of the United Kingdom in 2022,,29,news
+Q272416,Person,Salome Zourabichvili,Salome Zourabichvili,"Georgian politician and former French diplomat, fifth President of Georgia (2018–2024)",,7,news
+Q272670,Person,David Miliband,David Miliband,British politician (born 1965),,5,news
+Q27329764,Person,Évariste Ndayishimiye,Évariste Ndayishimiye,president of Burundi,,2,news
+Q273396,Person,Catherine Colonna,Catherine Colonna,French diplomat and politician,,6,news
+Q2737847,Person,Gebran Bassil,Gebran Bassil,Lebanese politician,,3,news
+Q2740012,Person,Stefan Löfven,Stefan Löfven,"Swedish politician, Prime Minister of Sweden between 2014–2021",,4,news
+Q274009,Person,Kirsty Coventry,Kirsty Coventry,"Zimbabwean swimmer, politician, and sports administrator",,2,kb
+Q2757,Person,Lech Kaczyński,Lech Kaczyński,"Polish politician, democratic oppositionist, ministry of justice, president of Poland (1949–2010)",,1,kb
+Q276275,Person,Yōko Kamikawa,Kamikawa Yōko,Japanese politician,,5,news
+Q276283,Person,Martín Torrijos,Martín Torrijos,President of Panama,,2,news
+Q27654948,Person,Abdalla Hamdok,Abdalla Hamdok,Sudanese public administrator and former prime minister,,4,news
+Q27662545,Person,Hissein Brahim Sem Taha,Hissein Brahim Sem Taha,Secretary-General of Organization of Islamic Cooperation,,2,news
+Q27885302,Person,Irakli Kobakhidze,Irakli Kobakhidze,Prime Minister of Georgia since 2024,,6,news
+Q27917049,Person,Adama Barrow,Adama Barrow,3rd President of the Gambia,,2,news
+Q28,Country,Hungary,Hungary,,HUN,63,news
+Q28018207,Person,David M. Friedman,David M. Friedman,United States Ambassador to Israel (2017–2021),,1,kb
+Q2821166,Person,Abdelmadjid Tebboune,Abdelmadjid Tebboune,president of the People's Democratic Republic of Algeria since 2019,,8,news
+Q2821367,Person,Abdoulaye Diop,Abdoulaye Diop,Malian diplomat,,2,news
+Q283201,Person,Ali Akbar Salehi,Ali Akbar Salehi,Iranian politician,,1,kb
+Q28336737,Person,Ayman al-Ṣafadī,Ayman al-Ṣafadī,Jordanian politician,,11,news
+Q28536878,Person,Nikolai Denkov,Nikolai Denkov,Bulgarian physical chemist and politician,,3,news
+Q28599854,Person,Tamás Sulyok,Tamás Sulyok,"Hungarian lawyer, president of Hungary (2024–2026), member of the Hungarian Constitutional Court (2014–2024)",,6,news
+Q28650390,Person,João Lourenço,João Lourenço,President of Angola since 2017,,9,news
+Q28655382,Person,Chen Shih-chung,Chen Shih-chung,Taiwanese politician and dentist,,2,news
+Q2866,Person,Alexander Lukashenka,Aliaksandr Ryhoravič Lukašenka,President of the Republic of Belarus,,28,news
+Q28681100,Person,Maxim Reshetnikov,Maxim Reshetnikov,Russian politician,,1,kb
+Q28701441,Person,Andrii Sybiha‎,Andrii Sybiha‎,Minister of Foreign Affairs of Ukraine,,16,news
+Q287100,Person,Nangolo Mbumba,Nangolo Mbumba,President of Namibia from 2024 to 2025,,4,news
+Q28715049,Person,Khaled al-Anani,Khaled al-Anani,"Director-General of UNESCO, Egyptian politician and Egyptologist",,4,news
+Q28860866,Person,Rob Jetten,Rob Jetten,prime minister of the Netherlands,,2,news
+Q28871485,Person,Kelly Craft,Kelly Craft,American businesswoman and diplomat (born 1962),,1,kb
+Q28925129,Person,Enrique Manalo,Enrique Manalo,Filipino diplomat,,1,kb
+Q289350,Person,Ngozi Okonjo-Iweala,Ngozi Okonjo-Iweala,director-General of the World Trade Organization,,7,news
+Q28950289,Person,Nicolae Ciucă,Nicolae Ciucă,70th Prime Minister of Romania (2021-2023),,2,news
+Q2898783,Person,Daniel B. Shapiro,Daniel B. Shapiro,American diplomat,,3,news
+Q29,Country,Spain,Tây Ban Nha,,ESP,77,news
+Q29032,Person,Miloš Zeman,Miloš Zeman,"Czech politician, president of the Czech Republic from 2013 to 2023",,6,news
+Q29032770,Person,Félix Tshisekedi,Félix Tshisekedi,president of the Democratic Republic of the Congo,,5,news
+Q29033962,Person,Joseph Aoun,Joseph Aoun,President of the Republic of Lebanon since 2025,,15,news
+Q291057,Person,Yvette Cooper,Yvette Cooper,British politician (born 1969),,11,news
+Q291644,Person,Erna Solberg,Erna Solberg,Prime Minister of Norway from 2013 to 2021,,2,news
+Q29207,Person,Sauli Niinistö,Sauli Niinistö,Finnish politician and the 12th President of Finland (2012-2024),,12,news
+Q2942097,Person,Catherine Vautrin,Catherine Vautrin,French politician,,2,news
+Q294278,Organization,"Organisation of African, Caribbean and Pacific States",Các nước ACP,,,65,news
+Q294460,Person,Mario Draghi,Mario Draghi,"Italian economist, academic, banker and politician; former prime minister of Italy",,13,news
+Q2947184,Person,Cevdet Yılmaz,Cevdet Yılmaz,Vice President of Turkey,,2,news
+Q29512374,Person,Husam Zomlot,Husam Zomlot,Palestinian diplomat,,2,kb
+Q29512679,Person,Omar Razzaz,Omar Razzaz,Jordanian politician,,1,kb
+Q29587228,Person,Erlan Qoshanov,Erlan Qoshanov,Kazakh politician (born 1962),,2,news
+Q296741,Person,Enrique Peña Nieto,Enrique Peña Nieto,64th President of Mexico,,4,news
+Q296771,Person,Saad Harirị,Saad Hariri,Saudi Lebanese and france politician,,2,news
+Q298,Country,Chile,Chile,,CHL,37,news
+Q299574,Person,Anwar Ibrahim,Anwar Ibrahim,Prime Minister of Malaysia since 2022,,20,news
+Q29999,Country,Kingdom of the Netherlands,Vương quốc Hà Lan,,NLD,42,news
+Q30,Country,United States,Hoa Kỳ,,USA,612,news
+Q30091555,Person,Henrik Frandsen,Henrik Frandsen,Danish politician,,3,news
+Q30111243,Person,Marija Pejčinović Burić,Marija Pejčinović Burić,politician of Croatia,,3,news
+Q30130489,Person,Roland Lescure,Roland Lescure,French politician,,1,kb
+Q30174665,Person,Darren Jones,Darren Jones,British politician (born 1986),,2,kb
+Q301804,Person,Shigeru Yoshida,Yoshida Shigeru,Prime minister of Japan (1878–1967),,3,news
+Q30339198,Person,Jean-Noël Barrot,Jean-Noël Barrot,Foreign minister of the Republic of France since 2024,,13,news
+Q30339350,Person,Gabriel Attal,Gabriel Attal,Prime Minister of France in 2024,,4,news
+Q30339422,Person,Yaël Braun-Pivet,Yaël Braun-Pivet,French politician (born 1970),,1,kb
+Q3034382,Person,Rosario Murillo,Rosario Murillo,Nicaraguan politician and poet; co-president of Nicaragua since 2025,,5,news
+Q3034854,Person,Dominic LeBlanc,Dominic LeBlanc,Canadian politician (born 1967),,2,kb
+Q304095,Person,Michael Fallon,Michael Fallon,British politician (born 1952),,5,news
+Q3042087,Organization,Houthis,Houthis,,,24,news
+Q30436217,Person,Choe Son-hui,Choe Son-hui,North Korean bureaucrat and politician,,5,news
+Q3047551,Person,Edgars Rinkēvičs,Edgars Rinkēvičs,President of Latvia since 2023 (born 1973),,6,news
+Q3052772,Person,Emmanuel Macron,Emmanuel Macron,President of France and Co-Prince of Andorra since 2017,,178,news
+Q306,Person,Sebastián Piñera,Sebastián Piñera,Chilean entrepreneur and politician (1949–2024),,3,news
+Q3069485,Person,Fernando Haddad,Fernando Haddad,"Brazilian politician, 51st mayor of São Paulo (2013–2017) and former Brazilian Finance Minister",,3,news
+Q3071898,Person,Filippo Grandi,Filippo Grandi,Italian diplomat,,4,news
+Q307871,Person,Abdel Fattah el-Sisi,Abdel Fattah el-Sisi,President of Egypt since 2014,,25,news
+Q30921853,Person,Bùi Thanh Sơn,Bùi Thanh Sơn,Vietnamese politician and diplomat (born 1962),,57,news
+Q30921991,Person,Đỗ Đức Duy,Đỗ Đức Duy,Vietnamese politician,,1,kb
+Q3099714,Person,Justin Trudeau,Justin Trudeau,23rd prime minister of Canada from 2015 to 2025,,44,news
+Q31,Country,Belgium,Bỉ,,BEL,41,news
+Q311214,Person,Robin Cook,Robin Cook,British Labour Party politician (1946-2005),,1,kb
+Q311278,Person,Jack Straw,Jack Straw,British politician (born 1946),,1,kb
+Q3112958,Person,Tobias Billström,Tobias Billström,Swedish politician (born 1973),,3,news
+Q311440,Person,António Guterres,António Guterres,Secretary-General of the United Nations since 2017,,53,news
+Q31196321,Person,Ararat Mirzoyan,Ararat Mirzoyan,Armenian politician,,3,news
+Q312015,Person,Alexis Tsipras,Alexis Tsipras,Prime Minister of Greece (2015; 2015–2019),,7,news
+Q3123610,Person,Gérald Darmanin,Gérald Darmanin,French politician,,4,news
+Q3125551,Person,Hadja Lahbib,Hadja Lahbib,Belgian politician,,4,news
+Q312668,Person,Carlos Mesa,Carlos Mesa,Vice President of Bolivia from 2002 to 2003 and President of Bolivia from 2003 to 2005,,3,news
+Q312901,Person,Josep Borrell,Josep Borrell,Catalan-Spanish diplomat and politician (born 1947),,29,news
+Q313297,Person,Jim Yong Kim,Jim Yong Kim,"South Korean-American physician and anthropologist, 12th President of the World Bank",,1,kb
+Q313300,Person,Goh Chok Tong,Ngô Tác Đống,2nd Prime Minister of Singapore from 1990 to 2004,,3,news
+Q313539,Person,Beji Caid Essebsi,Beji Caid Essebsi,Tunisian politician,,2,kb
+Q3155254,Person,Ishaq Dar,Ishaq Dar,Deputy Prime Minister of the Islamic Republic of Pakistan,,6,news
+Q315972,Person,Yukiya Amano,Yukiya Amano,Director General/International Atomic Energy Agency (1947-2019),,2,news
+Q316901,Person,Edi Rama,Edi Rama,Prime Minister of Albania since 2013 (born 1964),,5,news
+Q3171170,Person,Jean Castex,Jean Castex,Prime Minister of France from 2020 to 2022,,2,news
+Q317219,Person,Abdul Ghani Baradar,Abdul Ghani Baradar,co-founder and political leader of the Afghan Taliban,,6,news
+Q317485,Person,Pekka Haavisto,Pekka Haavisto,Finnish politician and minister for foreign affairs,,3,news
+Q317556,Person,Abdullah Abdullah,Abdullah Abdullah,Afghan politician,,4,news
+Q3176299,Person,Kolinda Grabar-Kitarović,Kolinda Grabar-Kitarović,Croatian politician and diplomat,,2,kb
+Q317797,Person,Gulbuddin Hekmatyar,Gulbuddin Hekmatyar,"Afghan politician, mujahid and drug trafficker (born 1949)",,2,news
+Q318458,Person,Nguyễn Phú Trọng,Nguyễn Phú Trọng,General Secretary of the Communist Party of Vietnam (top leader) from 2011 to 2024,,25,news
+Q318493,Person,Najib Mikati,Najib Mikati,"President of Lebanon (2022–2025), Prime Minister of Lebanon (2005; 2011–2014; 2021–2025)",,18,news
+Q318508,Person,Andrés Manuel López Obrador,Andrés Manuel López Obrador,Mexican politician. President of Mexico from 2018 to 2024,,10,news
+Q318693,Organization,Collective Security Treaty Organization,Tổ chức Hiệp ước An ninh Tập thể,,,7,news
+Q319153,Person,Hassan Sheikh Mohamud,Hassan Sheikh Mohamud,Somali  removal of president,,2,news
+Q319497,Person,Sergey Sobyanin,Sergei Semyonovich Sobyanin,Mayor of Moscow since 2010,,4,news
+Q32,Country,Luxembourg,Luxembourg,,LUX,34,news
+Q320,Person,Michelle Bachelet,Michelle Bachelet,president of Chile from (2006–2010; 2014–2018),,5,news
+Q320863,Organization,World Bank Group,Nhóm Ngân hàng Thế giới,,,10,news
+Q324546,Person,Marco Rubio,Marco Rubio,72nd United States Secretary of State since 2025,,73,news
+Q3246667,Person,Abdul Hamid,Mohammad Abdul Hamid,president of Bangladesh in 2013-2023,,1,kb
+Q329,Person,Nicolas Sarkozy,Nicolas Sarkozy,23rd president of the French Republic from 2007 to 2012,,9,news
+Q3295308,Person,Jorge Rodríguez,Jorge Rodríguez,Venezuelan politician,,3,kb
+Q33,Country,Finland,Phần Lan,,FIN,64,news
+Q3302670,Person,Maxime Prévot,Maxime Prévot,Belgian politician,,2,news
+Q330640,Person,Enele Sopoaga,Enele Sopoaga,Tuvaluan politician and diplomat,,4,kb
+Q33106395,Person,Sihasak Phuangketkeow,Sihasak Phuangketkeow,Thai diplomat,,2,news
+Q331401,Person,Rex Tillerson,Rex Tillerson,69th United States Secretary of State,,10,news
+Q331702,Person,Abdul Rashid Dostum,Abdul Rashid Dostum,Afghan politician,,1,kb
+Q33172434,Person,Clément Beaune,Clément Beaune,French official and politician,,4,news
+Q3318231,Person,Joko Widodo,Joko Widodo,7th President of the Republic of Indonesia,,11,news
+Q3318398,Person,Mohamed Bazoum,Mohamed Bazoum,President of Niger from 2021 to 2023,,3,news
+Q332987,Person,Philip Hammond,Philip Hammond,British politician (born 1955),,10,news
+Q333012,Person,Justine Greening,Justine Greening,British politician (born 1969),,1,kb
+Q3331362,Person,Myint Swe,Myint Swe,Army officer and former Acting President of Myanmar (1951–2025),,2,kb
+Q333261,Person,Andrew Mitchell,Andrew Mitchell,British politician (born 1956),,4,news
+Q3332699,Person,Olivier Véran,Olivier Véran,French neurologist and politician,,4,news
+Q333533,Person,Jeremy Hunt,Jeremy Hunt,British politician,,23,news
+Q333937,Person,Michael Gove,Michael Gove,British politician (born 1967),,4,news
+Q334,Country,Singapore,Singapore,,SGP,61,news
+Q334261,Person,Maria Miller,Maria Miller,British politician,,1,kb
+Q335697,Person,Anthony Albanese,Anthony Albanese,31st prime minister of Australia,,50,news
+Q336363,Person,Ali Larijani,Ali Larijani,Iranian politician and military officer (1958–2026),,7,news
+Q336599,Person,Bart De Wever,Bart De Wever,Prime Minister at Government of Belgium,,9,news
+Q3369176,Person,Patrick Achi,Patrick Achi,Prime Minister of Ivory Coast,,2,news
+Q3377548,Person,Petr Fiala,Petr Fiala,Czech politician and politologist,,13,news
+Q3386636,Person,Pierre Poilievre,Pierre Poilievre,Canadian politician,,4,news
+Q34,Country,Sweden,Thụy Điển,,SWE,77,news
+Q3401447,Person,Pravind Jugnauth,Pravind Jugnauth,Prime Minister of Mauritius from 2017–2024,,3,kb
+Q340195,Organization,African Development Bank,Ngân hàng Phát triển châu Phi,,,74,news
+Q3407316,Person,Prokopis Pavlopoulos,Prokopis Pavlopoulos,"Greek politician, former president of the Hellenic Republic",,2,news
+Q34105,Person,Hosni Mubarak,Hosni Mubarak,President of Egypt from 1981 to 2011,,2,news
+Q34211,Person,Yasser Arafat,Yasser Arafat,Palestinian political leader (1929-2004) and Former President of the Palestinian National Authority (1994-2004),,3,news
+Q3430759,Person,Richard Ferrand,Richard Ferrand,French politician (born 1962),,1,kb
+Q34448,Person,Mahmoud Ahmadinejad,Mahmud Ahmadinezhad,6th President of the Islamic Republic of Iran from 2005 to 2013,,5,news
+Q345625,Person,Linas Linkevičius,Linas Linkevičius,Lithuanian politician (born 1961),,4,news
+Q3462649,Person,Min Aung Hlaing,Min Aung Hlaing,11th President of Myanmar,,8,news
+Q347,Country,Liechtenstein,Liechtenstein,,LIE,14,news
+Q3479675,Person,Sergio Massa,Sergio Massa,Argentine politician and lawyer (born 1972),,1,kb
+Q348043,Person,Egils Levits,Egils Levits,"Latvian judge, jurist and politician (born 1955)",,2,news
+Q348144,Person,Hassan Rouhani,Hassan Rouhani,President of Iran from 2013 to 2021,,19,news
+Q348577,Person,Tony Abbott,Tony Abbott,Prime Minister of Australia from 2013 to 2015,,4,news
+Q3510872,Person,Bola Tinubu,Bola Tinubu,12th Governor of Lagos (1999–2007) and President of Nigeria since 2023,,3,news
+Q3518218,Person,Teo Chee Hean,Trương Chí Hiền,Singaporean politician,,3,news
+Q3529190,Person,Chamal Rajapaksa,Chamal Rajapaksa,Sri Lankan politician,,2,news
+Q3536605,Person,Douglas Devananda,Douglas Devananda,Sri Lankan politician,,1,kb
+Q3561087,Person,Andrew Little,Andrew Little,New Zealand politician,,3,news
+Q356666,Person,Han Duck-soo,Han Duck-soo,"Acting President of South Korea (2024; 2025), Prime Minister of South Korea (2006; 2007–2008; 2022–2025)",,5,news
+Q357116,Person,Adil Abdul-Mahdi,Adil Abdul-Mahdi,Iraqi politician,,3,news
+Q3574658,Person,Zaki Nusseibeh,Zaki Nusseibeh,"Presidential advisor and interpreter, Palestinian journalist",,1,kb
+Q357538,Person,Juan Ramón de la Fuente,Juan Ramón de la Fuente,former Mexican Secretary of Health and Rector of the National Autonomous University of Mexico,,1,kb
+Q3579995,Person,Édouard Philippe,Édouard Philippe,Prime Minister of France from 2017 to 2020,,3,news
+Q359480,Person,Fumio Kishida,Kishida Fumio,Prime Minister of Japan from 2021 to 2024,,28,news
+Q36,Country,Poland,Ba Lan,,POL,72,news
+Q3606816,Person,Jacinda Ardern,Jacinda Ardern,Prime Minister of New Zealand (2017–2023),,19,news
+Q361567,Person,Muhammadu Buhari,Muhammadu Buhari,former President of Nigeria from 1983 to 1985 and 2015 to 2025 (1942–2025),,4,news
+Q36233,Person,Václav Havel,Václav Havel,"Czech statesman, playwright, and former dissident, the last president of Czechoslovakia and the first president of the Czech Republic (1936–2011)",,1,kb
+Q363392,Person,Michel Aoun,Michel Aoun,13th President of Lebanon from 2016 to 2022,,2,news
+Q365190,Person,Adolfo Tito Yllana,Adolfo Tito Yllana,Filipino Roman Catholic archbishop,,2,news
+Q36597284,Organization,Wagner Group,Nhóm Wagner,,,10,news
+Q366456,Person,Stéphane Dion,Stéphane Dion,Canadian politician,,2,news
+Q36740,Person,Aung San Suu Kyi,Aung San Suu Kyi,former State Counsellor of Myanmar and Leader of the National League for Democracy,,14,news
+Q367825,Person,Salman bin Abdulaziz Al Saud,Salman của Ả Rập Saudi,King of Saudi Arabia since 2015,,11,news
+Q369958,Person,Karu Jayasuriya,Karu Jayasuriya,Sri Lankan politician,,2,news
+Q37,Country,Lithuania,Litva,,LTU,42,news
+Q3700793,Person,Muhammad Shia' al-Sudani,Mohammed Shia' Al Sudani,Prime Minister of Iraq from 2022 to 2026,,5,news
+Q37181,Person,Luiz Inácio Lula da Silva,Luiz Inácio Lula da Silva,president of Brazil from 2003 to 2011 and since 2023,,23,news
+Q3736499,Person,Krišjānis Kariņš,Krišjānis Kariņš,Latvian politician (born 1964),,3,news
+Q3741557,Person,Federica Mogherini,Federica Mogherini,"Italian politician, former High Representative of the Union for Foreign Affairs",,4,news
+Q374481,Person,Manouchehr Mottaki,Manouchehr Mottaki,Iranian politician and diplomat (born 1953),,2,news
+Q37470,Organization,United Nations Security Council,Hội đồng Bảo an Liên Hợp Quốc,,,13,news
+Q376150,Organization,International Telecommunication Union,Liên minh Viễn thông Quốc tế,,,175,news
+Q3764667,Person,Muppavarapu Venkaiah Naidu,Muppavarapu Venkaiah Naidu,Vice President of India from 2017 to 2022,,3,news
+Q3776268,Person,Luis Almagro,Luis Almagro,"Uruguayan lawyer, diplomat, and politician",,4,news
+Q378027,Person,Igor Ivanov,Igor Sergeevich Ivanov,Russian diplomat,,2,news
+Q37860840,Person,Robert Abela,Robert Abela,Maltese politician,,1,kb
+Q379197,Person,Heng Samrin,Heng Samrin,Cambodian politician,,2,news
+Q37979,Person,Akihito,Akihito,Emperor of Japan from 1989 to 2019,,2,news
+Q3798833,Person,Nanaia Mahuta,Nanaia Mahuta,New Zealand politician,,6,news
+Q38,Country,Italy,Ý,,ITA,113,news
+Q380063,Person,Johann Schneider-Ammann,Johann Schneider-Ammann,"businessman, politician and member of the Swiss Federal Council (2010-2018)",,3,news
+Q381002,Person,Francisco Flores,Francisco Flores,President of El Salvador (1959-2016),,1,kb
+Q381220,Person,Huang Hua,Hoàng Hoa,"Chinese revolutionary, politician and diplomat (1913–2010)",,2,kb
+Q38130,Organization,League of Nations,Hội Quốc Liên,,,4,news
+Q381334,Person,Constantine Chiwenga,Constantine Chiwenga,Zimbabwean general,,2,news
+Q3820056,Person,José Luis Ábalos,José Luis Ábalos,Member of Spanish Congress,,1,kb
+Q3847080,Person,Lai Ching-te,Lại Thanh Đức,President of Taiwan (ROC) since 2024,,3,kb
+Q38484,Person,Romano Prodi,Romano Prodi,Italian politician and economist (born 1939),,4,news
+Q385437,Person,Dominique Strauss-Kahn,Dominique Strauss-Kahn,French economist,,1,kb
+Q3874799,Person,Volodymyr Zelenskyy,Volodymyr Zelensky,President of Ukraine since 2019,,283,news
+Q387491,Person,Borjana Krišto,Borjana Krišto,Chairwoman of the Council of Ministers of Bosnia and Herzegovina since 2023,,2,news
+Q38799,Organization,Hamas,Hamas,,,134,news
+Q39,Country,Switzerland,Thụy Sĩ,,CHE,49,news
+Q3910,Person,"Albert II, Prince of Monaco",Albert II của Monaco,Prince of Monaco (born 1958),,1,kb
+Q391960,Person,Damian Green,Damian Green,British Conservative politician,,1,kb
+Q39259,Person,Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,President of Turkey since 2014,,87,news
+Q39318,Person,Naftali Bennett,Naftali Bennett,Prime Minister of Israel from 2021 to 2022,,11,news
+Q3956186,Person,Sergio Mattarella,Sergio Mattarella,president of Italy (2015–present),,8,news
+Q398,Country,Bahrain,Bahrain,,BHR,28,news
+Q399,Country,Armenia,Armenia,,ARM,38,news
+Q40,Country,Austria,Áo,,AUT,36,news
+Q403,Country,Serbia,Serbia,,SRB,29,news
+Q40495,Person,Pervez Musharraf,Pervez Musharraf,Pakistani soldier and politician (1943-2023),,2,kb
+Q40649,Person,Cristina Fernández de Kirchner,Cristina Fernández de Kirchner,president of Argentina from 2007 to 2015,,4,news
+Q40722,Person,Dilma Rousseff,Dilma Rousseff,"36th President of Brazil (2011-2016), 3rd President of the New Development Bank (BRICS)",,4,news
+Q408,Country,Australia,Úc,,AUS,193,news
+Q4082839,Person,Andrei Belousov,Andrei Removich Belousov,Minister of Defense of the Russian Federation,,3,news
+Q40970,Organization,International Olympic Committee,Ủy ban Olympic Quốc tế,,,12,news
+Q41,Country,Greece,Hy Lạp,,GRC,53,news
+Q41053,Organization,Hezbollah,Hezbollah,,,36,news
+Q4132780,Person,Mikhail Galuzin,Mikhail Galuzin,Russian diplomat,,7,news
+Q41395,Person,José Luis Rodríguez Zapatero,José Luis Rodríguez Zapatero,Spanish politician,,2,news
+Q414,Country,Argentina,Argentina,,ARG,48,news
+Q41550,Organization,Organization for Economic Cooperation and Development,Tổ chức Hợp tác và Phát triển Kinh tế,,,39,news
+Q41563,Person,Julia Gillard,Julia Gillard,Prime Minister of Australia from 2010 to 2013,,3,news
+Q4157031,Person,François Delattre,François Delattre,French diplomat,,1,kb
+Q4163528,Person,Alexandre Padilha,Alexandre Padilha,Brazilian politician and Minister of Health of Brazil since 2025,,1,kb
+Q4164146,Person,Igor Dodon,Igor Dodon,5th President of Moldova from 2016 until 2020,,2,news
+Q41644,Organization,Warsaw Pact,Khối Warszawa,,,2,news
+Q4173083,Organization,Eurasian Economic Union,Liên minh Âu Á,,,6,news
+Q419,Country,Peru,Perú,,PER,17,news
+Q41914,Person,Manmohan Singh,Manmohan Singh,"Indian economist, bureaucrat, academician and politician",,3,kb
+Q41984,Organization,International Atomic Energy Agency,Cơ quan Năng lượng Nguyên tử Quốc tế,,,18,news
+Q423,Country,North Korea,Cộng hòa Dân chủ Nhân dân Triều Tiên,,PRK,87,news
+Q4230,Organization,Union of South American Nations,Liên minh các Quốc gia Nam Mỹ,,,12,news
+Q424,Country,Cambodia,Campuchia,,KHM,48,news
+Q42402111,Person,Jan Lipavský,Jan Lipavský,"Czech data analyst, manager and politician",,2,news
+Q42410,Person,Evo Morales,Evo Morales,president of Bolivia from 2006 to 2019,,4,news
+Q42418,Organization,Taliban,Taliban,,,50,news
+Q425785,Person,Peter Kenilorea,Peter Kenilorea,Prime Minister of the Solomon Islands (1943-2016),,1,kb
+Q42620,Organization,Palestinian National Authority,Chính quyền Quốc gia Palestine,,,15,news
+Q4263230,Person,Anies Baswedan,Anies Baswedan,"Indonesian academic, activist and politician (born 1969)",,1,kb
+Q4264,Organization,Mercosur,Mercosur,,,19,news
+Q42852,Person,Abdullah Gül,Abdullah Gül,11th President of Turkey (born 1950),,2,kb
+Q42860944,Person,Karl Nehammer,Karl Nehammer,Chancellor of Austria from 2021 to 2025,,6,news
+Q42970,Organization,Amnesty International,Ân xá Quốc tế,,,14,news
+Q4298520,Person,Mikhail Mishustin,Mikhail Mishustin,Russian politician; Prime Minister of the Russian Federation,,8,news
+Q43,Country,Turkey,Thổ Nhĩ Kỳ,,TUR,134,news
+Q43135,Person,Kevin Rudd,Kevin Rudd,26th Prime Minister of Australia,,3,news
+Q43179,Person,Ellen Johnson Sirleaf,Ellen Johnson Sirleaf,24th president of Liberia,,2,news
+Q4321847,Person,Alexander Novak,Alexander Novak,Deputy Prime Minister of Russian Federation for Fuel Energy Complex,,5,news
+Q432190,Person,Anna Fotyga,Anna Fotyga,Polish politician,,2,news
+Q43274,Person,Charles III,Charles III,King of the United Kingdom since 2022 (born 1948),,26,news
+Q43330,Person,Mikheil Saakashvili,Mikheil Saakashvili,"Georgian and Ukrainian politician, third President of Georgia (2004–2013) and Governor of Odesa Oblast (2015–2016)",,3,news
+Q434858,Person,Julie Bishop,Julie Bishop,Australian politician,,10,news
+Q435200,Person,Mircea Geoană,Dan Mircea Geoană,Romanian politician and diplomat (born 1958),,1,kb
+Q4352603,Person,Gerry Brownlee,Gerry Brownlee,New Zealand politician,,3,news
+Q435799,Person,Kamal Kharazi,Kamal Kharazi,Iranian academic and politician,,1,kb
+Q437096,Person,Ingrida Šimonytė,Ingrida Šimonytė,Prime Minister of the Republic of Lithuania,,4,news
+Q43723,Person,Benjamin Netanyahu,Benjamin Netanyahu,"Prime Minister of Israel (born 1949), (1996–1999; 2009–2021; 2022–present)",,112,news
+Q4384608,Person,Bill English,Bill English,Prime Minister of New Zealand from 2016 to 2017,,1,kb
+Q438465,Person,Michel Barnier,Michel Barnier,former Prime Minister of France (2024),,8,news
+Q4392444,Person,Oleksii Reznikov,Oleksiy Reznikov,Ukrainian lawyer and politician,,8,news
+Q440403,Person,Jennifer Geerlings-Simons,Jennifer Simons,Surinamese physician and politician,,3,news
+Q440710,Person,Antonio Tajani,Antonio Tajani,Italian politician (born 1953),,15,news
+Q440788,Person,Konrad Szymański,Konrad Szymański,Polish politician,,2,news
+Q4414390,Person,Li Qiang,Lý Cường,Premier of the People's Republic of China since 2023,,26,news
+Q4414537,Person,Guillermo Lasso,Guillermo Lasso,55th President of Ecuador from 2021 to 2023,,2,news
+Q441633,Person,Albin Kurti,Albin Kurti,Prime Minister of Kosovo (2020; since 2021),,7,news
+Q44329,Person,Bashar al-Assad,Bashar al-Assad,Syrian convicted fugitive and former President of Syria from 2000 to 2024,,16,news
+Q444994,Person,Riek Machar,Riek Machar,first vice president of the independent Republic of South Sudan,,3,news
+Q445611,Person,Gila Gamliel,Gila Gamliel,Israeli politician,,1,kb
+Q4458923,Person,Oleksandr Tkachenko,Oleksandr Tkachenko,"Ukrainian politician, journalist, media-manager",,2,news
+Q4492815,Person,Chrystia Freeland,Chrystia Freeland,Canadian politician and journalist (born 1968),,4,news
+Q45,Country,Portugal,Bồ Đào Nha,,PRT,41,news
+Q450675,Person,Pope Francis,Giáo hoàng Phanxicô,266th pope of the Catholic Church from 2013 to 2025 (1936–2025),,22,news
+Q45068,Person,Carl XVI Gustaf of Sweden,Carl XVI Gustaf của Thụy Điển,King of Sweden since 1973,,1,kb
+Q451791,Person,Giorgia Meloni,Giorgia Meloni,Prime Minister of Italy since 2022,,44,news
+Q454970,Person,Samantha Power,Samantha Power,"Irish-American academic, author and diplomat",,8,news
+Q455854,Person,Reuven Rivlin,Reuven Rivlin,10th President of Israel (2014–2021),,5,news
+Q456759,Person,Penny Wong,Penny Wong,Australian politician,,32,news
+Q457757,Person,Gleisi Hoffmann,Gleisi Hoffmann,Brazilian politician and lawyer,,2,news
+Q457786,Person,Rodrigo Duterte,Rodrigo Duterte,President of the Philippines from 2016 to 2022 (born 1945),,13,news
+Q45785,Person,Kim Dae-jung,Kim Dae-jung,8th President of the Republic of Korea (1924–2009),,1,kb
+Q458,Organization,European Union,Liên minh châu Âu,,,233,news
+Q46052,Person,Anders Fogh Rasmussen,Anders Fogh Rasmussen,former Prime Minister of Denmark and former Secretary General of NATO,,4,news
+Q461710,Person,Asha-Rose Migiro,Asha-Rose Migiro,Tanzanian politician and UN Deputy-Secretary General,,1,kb
+Q46227987,Person,Eduard Heger,Eduard Heger,Slovak politician,,1,kb
+Q462744,Person,Tanja Fajon,Tanja Fajon,Slovenian politician,,2,news
+Q4631,Person,Mohamed Morsi,Mohamed Morsi,president of Egypt from 2012 to 2013,,1,kb
+Q463533,Person,Michel Temer,Michel Temer,24th Vice-President of Brazil from 2011 to 2016 and 37th President of Brazil from 2016 to 2019,,5,news
+Q46511044,Person,Gordan Grlić-Radman,Gordan Grlić-Radman,Croatian politician who has been the Minister of Foreign and European Affairs since July 2019,,4,news
+Q465476,Person,László Kövér,László Kövér,Hungarian politician (1959–),,2,news
+Q4665821,Person,Abdulaziz bin Salman,Abdulaziz bin Salman,Saudi prince and politician (born 1960),,1,kb
+Q4665896,Person,Abdulla Yameen,Abdulla Yameen,President of the Maldives from 2013 to 2018,,1,kb
+Q4666152,Person,Abdullatif bin Rashid Al Zayani,Abdullatif bin Rashid Al Zayani,Bahraini engineer and retired lieutenant general (born 1954),,3,news
+Q46675558,Person,Hristijan Mickoski,Hristijan Mickoski,Macedonian politician,,2,news
+Q467464,Person,Katrín Jakobsdóttir,Katrín Jakobsdóttir,28th Prime Minister of Iceland,,4,news
+Q467905,Person,Miroslav Lajčák,Miroslav Lajčák,Slovak politician and diplomat,,4,news
+Q467948,Person,Jonas Gahr Støre,Jonas Gahr Støre,Prime Minister of Norway since 2021,,14,news
+Q46809,Person,Raúl Castro,Raúl Castro,former First Secretary of the Communist Party of Cuba,,6,news
+Q4684534,Person,Adonis Georgiades,Adonis Georgiades,Greek politician,,1,kb
+Q4695503,Person,Ahmad Zahid Hamidi,Ahmad Zahid Hamidi,14th Deputy Prime Minister of Malaysia,,2,news
+Q4699676,Person,Ajaypal Singh Banga,Ajaypal Singh Banga,Indian American business executive,,2,news
+Q47216,Person,Condoleezza Rice,Condoleezza Rice,American diplomat and political scientist (born 1954),,1,kb
+Q472311,Organization,International Organization for Migration,Tổ chức Di trú Quốc tế,,,5,news
+Q473239,Person,Mike Pompeo,Mike Pompeo,"American politician, United States Secretary of State",,39,news
+Q47423,Organization,United Nations General Assembly,Đại Hội đồng Liên Hợp Quốc,,,8,news
+Q4746340,Person,Amina J. Mohammed,Amina J. Mohammed,Nigerian-British diplomat and Deputy Secretary-General of the United Nations,,2,news
+Q4746875,Person,Amit Shah,Amit Shah,Indian politician and 32nd Union Minister of Home Affairs,,1,kb
+Q47488,Organization,International Criminal Court,Tòa án Hình sự Quốc tế,,,36,news
+Q47543,Organization,Organisation of Islamic Cooperation,Tổ chức Hội nghị Hồi giáo,,,52,news
+Q47551476,Person,Martin Pfister,Martin Pfister,Swiss politician,,4,news
+Q4755577,Person,Andreas Norlén,Andreas Norlén,Speaker of the Riksdag,,2,news
+Q47563,Person,Matteo Renzi,Matteo Renzi,Italian politician (born 1975),,9,news
+Q476596,Person,Alexander De Croo,Alexander De Croo,Prime Minister of Belgium from 2020 to 2025,,13,news
+Q4768766,Person,Anne Ruston,Anne Ruston,Australian politician,,1,kb
+Q4777855,Person,Anura Kurankan Dissanayake,Anura Kumara Dissanayaka,President of Sri Lanka since 2024,,8,news
+Q477828,Person,Amrullah Saleh,Amrullah Saleh,First Vice President of Afghanistan from 2020 to 2021,,1,kb
+Q478161,Person,Matt Hancock,Matthew Hancock,British politician (born 1978),,1,kb
+Q478531,Person,Alok Sharma,Alok Sharma,British politician (born 1967),,1,kb
+Q479171,Person,Amber Rudd,Amber Rudd,British politician (born 1963),,4,news
+Q48136013,Person,Mario Abdo Benítez,Mario Abdo Benítez,51st President of Paraguay,,3,news
+Q48283,Person,Yulia Tymoshenko,Yulia Volodymyrivna Tymoshenko,"Ukrainian politician, former Prime Minister",,3,news
+Q48321355,Person,Stéphane Séjourné,Stéphane Séjourné,French politician (born 1985),,11,news
+Q483672,Person,Ali Abdullah Saleh,Ali Abdullah Saleh,President of North Yemen (1978–1990) and Yemen (1990–2012),,2,news
+Q48405,Person,Han Zheng,Hàn Chính,Vice President of the People's Republic of China,,9,news
+Q484605,Person,Christine Lagarde,Christine Lagarde,President of the European Central Bank,,2,news
+Q485207,Organization,Shanghai Cooperation Organisation,Tổ chức Hợp tác Thượng Hải,,,11,news
+Q4866775,Person,Bashar Jaafari,Bashar Jaafari,Syrian diplomat,,2,news
+Q487304,Person,Israel Katz,Israel Katz,"Israeli politician, Minister of Defense of Israel",,19,news
+Q4877021,Person,Beata Szydło,Beata Szydło,"Polish politician, former Prime Minister of Poland, member of European Parliament",,4,news
+Q48852287,Organization,Comprehensive and Progressive Agreement for Trans-Pacific Partnership,Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương,,,6,news
+Q488981,Organization,European Bank for Reconstruction and Development,Ngân hàng Tái thiết và Phát triển châu Âu,,,5,news
+Q48905549,Person,Nicos Christodoulides,Nicos Christodoulides,"Cypriot politician, 8th and current President of Cyprus (2023–)",,4,news
+Q49067,Person,Gabi Ashkenazi,Gabi Ashkenazi,Israeli military officer and politician,,3,news
+Q4908168,Person,Bill Blair,Bill Blair,"Canadian politician, former police chief of Toronto",,5,news
+Q4910865,Person,Bill Shorten,Bill Shorten,Australian politician (born 1967),,4,news
+Q4919832,Person,Bjørn Arild Gram,Bjørn Arild Gram,Norwegian politician,,2,news
+Q49323012,Person,Braga Netto,Braga Netto,former Minister of Defence of Brazil (2021–2022) and former federal interventor for Public Security in the state of Rio de Janeiro (2018–2019),,1,kb
+Q49330,Organization,Médecins Sans Frontières,Bác sĩ không biên giới,,,5,news
+Q4935873,Person,Magdalena Andersson,Magdalena Andersson,"Prime Minister of Sweden from 2021 to 2022, Swedish politician and economist",,4,news
+Q4941329,Person,Ebba Busch,Ebba Busch,Swedish politician (born 1987),,1,kb
+Q50121474,Person,Elliott Charng,Elliott Charng,politician,,3,news
+Q5015,Person,Mette Frederiksen,Mette Frederiksen,Prime Minister of Denmark since 2019,,24,news
+Q5018756,Person,John Magufuli,John Magufuli,5th President of Tanzania from 2015 to 2021,,1,kb
+Q503143,Person,Alexander Stubb,Alexander Stubb,Finnish politician and the 13th President of Finland (2024–),,23,news
+Q50365049,Person,Abiy Ahmed,Abiy Ahmed,Prime Minister of Ethiopia since 2018,,7,news
+Q50410280,Person,Jagdeep Dhankhar,Jagdeep Dhankhar,Vice President of India from 2022 to 2025,,3,news
+Q505200,Person,Andrew Holness,Andrew Holness,Jamaican politician; 9th Prime Minister of Jamaica,,2,kb
+Q5052598,Person,Catherine Connolly,Catherine Connolly,President of Ireland since 2025 (born 1955),,2,news
+Q5052796,Person,Catherine M. Russell,Catherine M. Russell,American government and UN official (born 1961),,6,news
+Q50612,Person,Susan Rice,Susan Rice,American diplomat and policy advisor (born 1964),,1,kb
+Q506399,Person,Tareck El Aissami,Tareck El Aissami,Vice President of Venezuela from 2017 to 2018,,2,news
+Q50678,Person,John Mahama,John Dramani Mahama,President of the Republic of Ghana,,2,kb
+Q510523,Person,Emmerson Mnangagwa,Emmerson Mnangagwa,President of the Republic of Zimbabwe,,7,news
+Q5106890,Person,Chris Hipkins,Chris Hipkins,Prime Minister of New Zealand from January to November 2023,,7,news
+Q5110039,Person,Christian Porter,Christian Porter,Australian politician,,4,news
+Q51107051,Person,Rafael Grossi,Rafael Grossi,Argentine diplomat,,17,news
+Q512678,Person,Maroš Šefčovič,Maroš Šefčovič,First Vice President of European Commission,,6,news
+Q51330,Person,John Howard,John Howard,Prime Minister of Australia from 1996 to 2007,,1,kb
+Q514051,Person,Louise Mushikiwabo,Louise Mushikiwabo,Rwandan politician,,4,news
+Q515602,Person,Azali Assoumani,Azali Assoumani,President of Comoros,,1,kb
+Q518626,Person,Lenín Moreno,Lenín Moreno,President of Ecuador (2017 - 2021),,3,news
+Q51874548,Person,Serdar Berdimuhamedow,Serdar Berdimuhamedow,3rd President of Turkmenistan since 2022,,3,news
+Q51954822,Person,Salvador Valdés Mesa,Salvador Valdés Mesa,Vice President of Cuba,,2,news
+Q519825,Person,R. Nicholas Burns,R. Nicholas Burns,American diplomat and academic (born 1956),,2,news
+Q5214486,Person,Dan Tehan,Dan Tehan,Australian politician,,5,news
+Q52183,Person,Sheikh Hasina,Sheikh Hasina,"Prime Minister of Bangladesh (1996–2001, 2009–2024)",,6,news
+Q5237086,Person,David Malpass,David Malpass,American economist,,2,news
+Q5238702,Person,David Pressman,David Pressman,American lawyer and ambassador to Hungary,,2,kb
+Q52395487,Person,Javier Milei,Javier Milei,"economist, politician and president of Argentina since 2023",,15,news
+Q524351,Person,Andrés Izarra,Andrés Izarra,Venezuelan politician,,1,kb
+Q52577576,Person,Anthony Veke,Anthony Veke,politician,,3,news
+Q5278077,Person,Dinesh Gunawardena,Dinesh Gunawardena,"Prime Minister of Sri Lanka, 2022–2024",,4,news
+Q52871852,Person,Hamilton Mourão,Hamilton Mourão,vice president of Brazil from 2019 to 2023 and Federal Senator for the state of Rio Grande do Sul since 2023.,,1,kb
+Q52922,Person,Carl Bildt,Carl Bildt,"Swedish politician (1949-), prime minister 1991–1994, foreign minister 2006–2014",,1,kb
+Q5292594,Person,Don Farrell,Don Farrell,Australian politician,,2,news
+Q53282,Person,Werner Faymann,Werner Faymann,Austrian politician who was Chancellor of Austria and chairman of the Social Democratic Party of Austria,,1,kb
+Q534727,Person,David Lammy,David Lammy,British politician (born 1972),,26,news
+Q535055,Person,Angelino Alfano,Angelino Alfano,Italian politician,,1,kb
+Q535254,Person,Pete Hoekstra,Pete Hoekstra,Dutch-American politician and diplomat (born 1953),,1,kb
+Q5360047,Person,Liu Xiaoming,Liu Xiaoming,Ambassador of China,,2,news
+Q536063,Person,Manasseh Sogavare,Manasseh Damukana Sogavare,"Solomon Islander politician (1955–), prime minister of Solomon Islands (2000–2001, 2006–2007, 2014–2017, 2019–2024)",,9,news
+Q53844829,Person,Giuseppe Conte,Giuseppe Conte,Prime Minister of Italy from 2018 to 2021,,14,news
+Q541217,Person,Bob Carr,Bob Carr,Australian politician (born 1947); Premier of New South Wales from 1995 to 2005,,1,kb
+Q54129,Organization,International Labour Organization,Tổ chức Lao động Quốc tế,,,6,news
+Q542074,Person,Mohammad-Bagher Ghalibaf,Mohammad-Bagher Ghalibaf,"Iranian conservative politician, professor, and former air force pilot",,2,news
+Q5441662,Person,Ben Do,Ben Do,Prime Minister of Tuvalu since 2024,,3,news
+Q5448556,Person,Filipe Nyusi,Filipe Nyusi,"President of Mozambique, 2015-2025",,7,news
+Q54806936,Person,Teresa Ribera,Teresa Ribera,Spanish politician (born 1969),,3,news
+Q548164,Person,Vladislav Surkov,Владислав Юрьевич Сурков,Russian politician,,1,kb
+Q548733,Person,Rama X of Thailand,Vajiralongkorn,King of Thailand since 2016,,4,news
+Q54901515,Person,Mostafa Madbouly,Mostafa Madbouly,prime minister of Egypt since 2018,,4,news
+Q5506881,Person,Fuad Muradov,Fuad Muradov,Azerbaijani politician (born 1976),,2,news
+Q55104096,Person,Bassam Sabbagh,Bassam Sabbagh,Syrian diplomat,,3,kb
+Q5520446,Person,Gan Kim Yong,Gan Kim Yong,Singaporean politician,,1,kb
+Q552706,Person,Igor Matovič,Igor Matovič,Slovak entrepreneur and politician,,3,news
+Q552751,Person,Kyriakos Mitsotakis,Kyriakos Mitsotakis,"Greek politician, prime Minister of Greece, President of New Democracy party",,17,news
+Q5537216,Person,George Brandis,George Brandis,Australian diplomat and former politician,,2,kb
+Q55386653,Person,Mike Waltz,Mike Waltz,U.S. Ambassador to the United Nations since 2025,,2,news
+Q55437281,Person,Fuat Oktay,Fuat Oktay,Turkish statesperson (born 1964),,1,kb
+Q5550584,Person,Gergely Gulyás,Gergely Gulyás,"jurist, Member of the National Assembly of Hungary (1981–)",,1,kb
+Q55614252,Person,Ibrahim Mohamed Solih,Ibrahim Mohamed Solih,former President of the Maldives,,2,news
+Q55637,Person,José María Aznar,José María Aznar López,Prime Minister of Spain from 1996 to 2004,,1,kb
+Q556607,Person,Mansour bin Zayed Al Nahyan,Mansour bin Zayed Al Nahyan,Vice President of the United Arab Emirates,,3,news
+Q557436,Person,Benny Gantz,Benny Gantz,Israeli military officer and politician (born 1959),,8,news
+Q55752957,Person,Seah Kian Peng,Seah Kian Peng,Singaporean politician,,4,news
+Q55758,Person,Aleksander Kwaśniewski,Aleksander Kwaśniewski,President of Poland from 1995 to 2005,,1,kb
+Q5580727,Person,Carl-Oskar Bohlin,Carl-Oskar Bohlin,Swedish politician,,1,kb
+Q558575,Person,Mohamed Abdullahi Mohamed,Mohamed Abdullahi Mohamed,the 10th and current president of the Federal Republic of Somalia,,2,kb
+Q559040,Person,Jean-Yves Le Drian,Jean-Yves Le Drian,French politician (born 1947),,10,news
+Q55917,Person,Jarosław Kaczyński,Jarosław Kaczyński,13th Prime Minister of the Republic of Poland,,4,news
+Q56043281,Person,Bryan Jared Kramer,Bryan Jared Kramer,Papua New Guinean politician,,3,kb
+Q56065045,Person,David Cornstein,David Cornstein,American businessman and diplomat (1938-2026),,2,kb
+Q560890,Person,Bernard Cazeneuve,Bernard Cazeneuve,French prime minister,,5,news
+Q561213,Person,Xavier Bettel,Xavier Bettel,Luxembourgish politician (born 1973),,4,news
+Q561837,Person,Mauricio Macri,Mauricio Macri,president of Argentina from 2015 to 2019,,4,news
+Q56226,Person,Kim Jong-un,Kim Jong-un,Supreme Leader of North Korea since 2011,,25,news
+Q5624180,Person,Benjamin Dousa,Benjamin Dousa,Swedish politician,,1,kb
+Q563297,Person,Baron Waqa,Baron Waqa,Nauruan politician,,1,kb
+Q564328,Person,Annalena Baerbock,Annalena Baerbock,German politician (born 1980),,31,news
+Q5655835,Person,Hardeep Singh Puri,Hardeep Singh Puri,Indian diplomat,,2,kb
+Q566257,Person,Friedrich Merz,Friedrich Merz,"German politician, Chancellor of the Federal Republic of Germany",,38,news
+Q56651422,Person,Bocchit Edmond,Bocchit Edmond,Haitian politician and diplomat,,2,kb
+Q567,Person,Angela Merkel,Angela Merkel,chancellor of Germany from 2005 to 2021 (born 1954),,58,news
+Q56704276,Person,Fuad Hussein,Fuad Hussein,Kurdish politician,,4,news
+Q5679016,Person,Ali Bagheri,Ali Bagheri,Iranian diplomat,,10,news
+Q5679624,Person,Hassan Diab,Hassan Diab,"Lebanese engineer, academic and minister of higher education",,4,news
+Q5690975,Person,Behrouz Kamalvandi,Behrouz Kamalvandi,Iranian politician and diplomat,,2,news
+Q5693903,Person,Heather Humphreys,Heather Humphreys,Irish politician,,2,kb
+Q569975,Person,Yair Golan,Yair Golan,"Israeli general, politician and Leader of the Democrats (Party) and last leader of the Labour Party in the year 2024 (defunct in 2024)",,1,kb
+Q5703610,Person,Mohammad Mokhber,Mohammad Mokhber,Acting President of Iran during 2024,,6,news
+Q57254,Person,Ollanta Humala,Ollanta Humala,President of Peru from 2011 to 2016,,1,kb
+Q57265,Person,Omar al-Bashir,Omar al-Bashir,President of Sudan from 1989 to 2019,,2,news
+Q57269,Person,Felipe Calderón,Felipe Calderón,63th President of Mexico,,1,kb
+Q57272,Person,Paul Biya,Paul Biya,Cameroonian politician,,1,kb
+Q57274,Person,Yoweri Museveni,Yoweri Museveni,President of Uganda since 1986,,4,news
+Q57276,Person,Michael D. Higgins,Michael Daniel Higgins,President of Ireland (2011–2018; 2018–2025),,3,news
+Q57282,Person,Jacob Zuma,Jacob Zuma,4th President of South Africa (2009–2018),,3,news
+Q57289,Person,Toomas Hendrik Ilves,Toomas Hendrik Ilves,"Estonian politician and diplomat, fourth president of Estonia (born 1953)",,2,kb
+Q57308,Person,Abdelaziz Bouteflika,Abdelaziz Bouteflika,President of Algeria from 1999 to 2019,,1,kb
+Q57311,Person,Juan Manuel Santos,Juan Manuel Santos,president of Colombia from 2010 to 2018,,2,news
+Q57315,Person,Salva Kiir Mayardit,Salva Kiir Mayardit,President of South Sudan since 2011,,4,news
+Q57319,Person,Norodom Sihamoni,Norodom Sihamoni,King of Cambodia,,6,news
+Q57327,Person,Hassanal Bolkiah I of Brunei,Hassanal Bolkiah,Sultan of Brunei since 1967,,11,news
+Q57331,Person,Qaboos bin Said Al Said,Qaboos bin Said Al Said,sultan of Oman from 1970 to 2020 (1940–2020),,1,news
+Q57338,Person,Mahinda Rajapaksa,Mahinda Rajapaksa,President of Sri Lanka from 2005 to 2015,,3,news
+Q57343,Person,Pierre Nkurunziza,Pierre Nkurunziza,President of Burundi from 2005 to 2020,,1,kb
+Q57343622,Person,João Gomes Cravinho,João Gomes Cravinho,Portuguese politician and diplomat,,3,news
+Q57348,Person,Isaias Afwerki,Isaias Afewerki,president of Eritrea since 1993,,4,news
+Q57350,Person,Idriss Déby,Idriss Déby,Chadian former president (1952–2021),,2,news
+Q57352,Person,Hamad II of Bahrain,Hamad bin Isa Al Khalifa,King of Bahrain,,3,news
+Q57356,Person,Yahya Jammeh,Yahya Jammeh,2nd President of the Gambia,,7,news
+Q57360,Person,Hamad bin Khalifa Al Thani,Hamad bin Khalifa al-Thani,Emir of Qatar from 1995 to 2013,,1,kb
+Q57363,Person,Andry Rajoelina,Andry Rajoelina,President of Madagascar (2009–2014; 2019–2023; 2023–2025),,1,news
+Q57364,Person,Thomas de Maizière,Thomas de Maiziere,German politician,,1,kb
+Q57366,Person,Emomali Rahmon,Emomali Rahmon,President of Tajikistan (1992-present),,4,news
+Q57371,Person,Ilham Aliyev,Ilham Aliyev,President of Azerbaijan since 2003,,21,news
+Q57373,Person,Asif Ali Zardari,Asif Ali Zardari,President of Pakistan (2008–2013; since 2024),,1,kb
+Q57376,Person,Jigme Khesar Namgyel Wangchuck,Jigme Khesar Namgyel Wangchuck,fifth and reigning King of Bhutan,,3,news
+Q5737622,Person,Johan Forssell,Johan Forssell,Sweden's Minister for Aid and Foreign Trade,,1,kb
+Q57379,Person,Dalia Grybauskaitė,Dalia Grybauskaitė,President of Lithuania fom 2009 to 2019 (born 1956),,2,news
+Q57380,Person,Goodluck Jonathan,Goodluck Jonathan,President of Nigeria from 2010 to 2015,,4,news
+Q57385,Person,Teodoro Obiang,Teodoro Obiang Nguema Mbasogo,"Equatoguinean politician, President of Equatorial Guinea since 1979",,5,news
+Q57394,Person,Nursultan Nazarbayev,Nursultan Nazarbayev,President of Kazakhstan from 1991 to 2019,,3,news
+Q57398,Person,Aníbal Cavaco Silva,Aníbal Cavaco Silva,Portuguese economist and politician (born 1939),,2,news
+Q574,Country,Timor-Leste,Đông Timor,,TLS,21,news
+Q57400,Person,Nguyễn Minh Triết,Nguyễn Minh Triết,Sixth President of Vietnam (2006-2011),,2,news
+Q57402,Person,Daniel Ortega,Daniel Ortega,"Sandinista revolutionary and president of Nicaragua from 1985 to 1990 and again from 2007, co-president with Rosario Murillo since 2025",,11,news
+Q57407,Person,Trương Tấn Sang,Trương Tấn Sang,former president of Vietnam,,4,news
+Q57410,Person,Shimon Peres,Shimon Peres,"Israeli politician (1923–2016) –Former President of Israel (2007–2014) and Prime Minister of Israel (1977, 1984–1986, 1995–1996)",,3,news
+Q57413,Person,Alassane Ouattara,Alassane Ouattara,President of Ivory Coast since 2010,,3,news
+Q57415743,Person,Katerina Sakellaropoulou,Katerina Sakellaropoulou,"Greek judge, former president of the Hellenic Republic",,2,news
+Q57416,Person,Joseph Kabila,Joseph Kabila,President of the DR Congo from 2001 to 2019,,4,news
+Q57418,Person,Denis Sassou-Nguesso,Denis Sassou Nguesso,President of the Republic of the Congo (1979–1992; 1997–present),,6,news
+Q57438,Person,Macky Sall,Macky Sall,"4th President of Senegal, formerly Prime Minister",,5,news
+Q57444,Person,Choummaly Sayasone,Choummaly Sayasone,former General Secretary of the Lao People's Revolutionary Party,,1,kb
+Q57464,Person,Abdullah II of Jordan,Abdullah II của Jordan,King of the Hashemite Kingdom of Jordan,,17,news
+Q57480,Person,Abdrabbuh Mansour Hadi,Abd Rabbuh Mansur Hadi,President of Yemen from 2012 to 2022,,3,news
+Q57482,Person,Mahamadou Issoufou,Mahamadou Issoufou,President of Niger from 2011 to 2021,,3,news
+Q57521,Person,Ali Bongo Ondimba,Ali Bongo Ondimba,President of Gabon (2009–2023),,3,news
+Q5753193,Person,Carolina Darias San Sebastián,Carolina Darias San Sebastián,Spanish politician,,1,kb
+Q57543,Person,Sprent Dabwido,Sprent Dabwido,president of Nauru (1972-2019),,2,news
+Q57553,Person,Mohammed VI of Morocco,Mohammed VI của Maroc,king of Morocco since 1999,,3,news
+Q57558,Person,Islam Karimov,Islam Abdug‘aniyevich Karimov,1st President of the Republic of Uzbekistan (1938–2016),,3,news
+Q57600,Person,Nguyễn Tấn Dũng,Nguyễn Tấn Dũng,Prime Minister of Vietnam,,2,news
+Q57606,Person,Robert Fico,Robert Fico,Prime Minister of Slovakia since 2023,,22,news
+Q57625,Person,Sali Berisha,Sali Berisha,Albanian politician,,2,news
+Q57627,Person,Janez Janša,Janez Janša,Slovenian politician (born 1958),,6,news
+Q57630,Person,Valdis Dombrovskis,Valdis Dombrovskis,11th Prime Minister of Latvia,,3,news
+Q57634,Person,Hashim Thaçi,Hashim Thaci,Kosovar politician (born 1968),,4,news
+Q57638,Person,Jyrki Katainen,Jyrki Katainen,Finnish politician,,2,news
+Q57641,Person,Viktor Orbán,Orbán Viktor,Prime Minister of Hungary (1998–2002; 2010–2026) (born 1963),,66,news
+Q57643,Person,Lee Hsien Loong,Lý Hiển Long,3rd Prime Minister of Singapore from 2004 to 2024,,4,news
+Q57647,Person,Yoshihiko Noda,Noda Yoshihiko,Prime Minister of Japan from 2011 to 2012,,1,kb
+Q57655,Person,Mohammed bin Rashid Al Maktoum,Mohammed bin Rashid Al Maktoum,Monarch of Dubai and politician (born 1949),,11,news
+Q57661,Person,Jean-Claude Juncker,Jean-Claude Juncker,Prime Minister of Luxembourg (1995-2013) and President of the European Commission (2014-2019),,17,news
+Q57663,Person,Andrius Kubilius,Andrius Kubilius,Lithuanian politician (born 1956),,3,news
+Q57665,Person,Jens Stoltenberg,Jens Stoltenberg,Norwegian politician (born 1959),,43,news
+Q57670,Person,Yingluck Shinawatra,Yingluck Shinawatra,Prime Minister of Thailand from 2011 to 2014,,1,kb
+Q57673,Person,Nouri al-Maliki,Nouri al-Maliki,Prime Minister of Iraq from 2006 to 2014,,1,news
+Q57675,Person,Najib Razak,Mohd Najib bin Abdul Razak,former 6th Prime Minister of Malaysia,,1,kb
+Q5770251,Person,Hirokazu Matsuno,Matsuno Hirokazu,Japanese politician,,1,kb
+Q57712,Person,Kamla Persad-Bissessar,Kamla Persad-Bissessar,politician from Trinidad and Tobago,,4,news
+Q5771800,Person,Claudia Sheinbaum,Claudia Sheinbaum,president of Mexico since 2024,,7,news
+Q57758,Person,Faustin-Archange Touadéra,Faustin-Archange Touadéra,President of the Central African Republic since 2016,,3,news
+Q57775,Person,Boyko Borissov,Boyko Borisov,Prime Minister of Bulgaria (2009–2013; 2014–2017; 2017–2021),,2,news
+Q57783,Person,John Key,John Key,Prime Minister of New Zealand from 2008 to 2016,,3,news
+Q57788,Person,Hun Sen,Hun Sen,Prime Minister of Cambodia (1985–1993; 1998–2023),,17,news
+Q57792,Person,Mark Rutte,Mark Rutte,Secretary General of NATO since 2024 and former Prime Minister of the Netherlands (2010–2024),,48,news
+Q57794,Person,Bidzina Ivanishvili,Bidzina Ivanishvili,Georgian billionaire and politician (born 1956),,3,news
+Q57800,Person,Ralph Gonsalves,Ralph Gonsalves,former Prime Minister of Saint Vincent and the Grenadines,,6,news
+Q57808,Person,Shavkat Mirziyoyev,Shavkat Mirziyoyev,President of the Republic of Uzbekistan,,6,news
+Q57815,Person,Enda Kenny,Enda Kenny,Irish poliitician (* 1951),,5,news
+Q57826,Person,Thongsing Thammavong,Thongsing Thammavong,Prime Minister of Laos,,1,kb
+Q57830,Person,Frank Bainimarama,Frank Bainimarama,Prime Minister of Fiji from 2007 to 2022 (born 1954),,3,news
+Q57836,Person,Navin Ramgoolam,Navin Ramgoolam,"Prime Minister of Mauritius (1995–2000, 2005–2014, 2024–Present)",,4,news
+Q57840,Person,Philémon Yang,Philémon Yang,"Cameroonian politician, former Prime minister of Cameroon",,4,news
+Q57878,Person,Gilbert Houngbo,Gilbert Houngbo,Togolese politician,,3,news
+Q580375,Person,Nicky Morgan,Nicky Morgan,British politician,,1,kb
+Q580464,Person,Penny Mordaunt,Penny Mordaunt,British politician (born 1973),,2,kb
+Q58077,Person,Petro Poroshenko,Petro Poroshenko,President of Ukraine from 2014 to 2019,,13,news
+Q58082,Person,Patricia Espinosa,Patricia Espinosa,Mexican diplomat,,1,kb
+Q58085,Person,Radosław Sikorski,Radosław Sikorski,Minister of Foreign Affairs of the Republic of Poland,,9,news
+Q58096,Person,David Adeang,David Adeang,Nauruan politician (born 1969),,2,news
+Q58108,Person,Ahmed Aboul Gheit,Ahmed Aboul Gheit,Egyptian diplomat,,4,news
+Q58117,Person,Moussa Faki,Moussa Faki,Chadian politician,,4,news
+Q58132,Person,Nicolás Maduro,Nicolas Maduro,Venezuelan politician,,42,news
+Q58140,Person,"Salman bin Hamad, Crown Prince of Bahrain","Salman bin Hamad, Crown Prince of Bahrain",Prime Minister of the Kingdom of Bahrain,,3,news
+Q58161,Person,Paulo Portas,Paulo Portas,Portuguese media and political figure,,2,news
+Q58170,Person,Pham Gia Khiem,Phạm Gia Khiêm,Vietnamese politician; Deputy Prime Minister of Vietnam,,1,kb
+Q58183,Person,Bruno Rodríguez Parrilla,Bruno Rodríguez Parrilla,Cuban politician,,4,news
+Q58197,Person,Edward Nalbandyan,Edward Nalbandyan,Armenian diplomat and politician,,2,news
+Q58198,Person,Ahmet Davutoğlu,Ahmet Davutoğlu,Turkish statesperson and writer (born 1959),,5,news
+Q58200,Person,Jean Asselborn,Jean Asselborn,"Luxembourgish politician, Minister of Foreign Affairs of Luxembourg (term: 2004-2023)",,4,news
+Q58211,Person,Yang Jiechi,Dương Khiết Trì,Politburo member of the Chinese Communist Party,,8,news
+Q58217,Person,Sergey Lavrov,Sergey Viktorovich Lavrov,"Russian politician of Armenian origin, Minister of Foreign Affairs",,110,news
+Q58256,Person,Mahamoud Ali Youssouf,Mahmoud Ali Youssouf,Djiboutian politician (born 1965),,1,news
+Q58282,Person,William Hague,William Hague,British politician (born 1961),,1,kb
+Q58290,Person,Marty Natalegawa,Marty Natalegawa,Indonesian ambassador,,2,news
+Q58301,Person,Abdullah bin Zayed Al Nahyan,Abdullah bin Zayed Al Nahyan,United Arab Emirates minister of foreign affairs,,4,news
+Q58311,Person,Avigdor Lieberman,Avigdor Liberman,"Israeli politician, member of the Knesset",,4,news
+Q58323,Person,Thongloun Sisoulith,Thongloun Sisoulith,General Secretary of the Lao People's Revolutionary Party,,15,news
+Q58642905,Person,Ernesto Araújo,Ernesto Araújo,Brazilian diplomat,,4,news
+Q5867158,Person,Francisco Pérez Mackenna,Francisco Pérez Mackenna,Chief Executive Officer - Quiñenco SA,,2,news
+Q58833335,Person,Juan Guaidó,Juan Guaidó,Venezuelan politician and former President of the National Assembly (1983),,16,news
+Q5901842,Person,Horacio Cartes,Horacio Cartes,49th President of Paraguay,,2,news
+Q592101,Person,Luc Frieden,Luc Frieden,Prime Minister of Luxembourg since 2023,,4,news
+Q5933752,Person,Masoud Pezeshkian,Masoud Pezeshkian,9th President of Iran (2024-) and former Co-Interim Supreme Leader of Iran (in 2026),,30,news
+Q5935179,Person,Jorge Glas,Jorge Glas,"Ecuadorian electrical engineer, politician; Vicepresident of Ecuador",,1,kb
+Q5936445,Person,Susana Malcorra,Susana Malcorra,Argentine UN official,,2,news
+Q5937916,Person,José Antonio Kast,José Antonio Kast,president of Chile since 2026,,3,news
+Q5947347,Person,Ebrahim Raisi,Ebrahim Raisi,President of Iran from 2021 to 2024,,22,news
+Q5951723,Person,Juan Orlando Hernández,Juan Orlando Hernández,President of Honduras from 2014 to 2022,,3,news
+Q59577903,Person,Damares Alves,Damares Alves,"Brazilian attorney, evangelical pastor and Senator of the Republic for the Federal District (Brasília)",,1,kb
+Q5987345,Organization,International Committee of the Red Cross,Ủy ban Chữ thập đỏ quốc tế,,,10,news
+Q59978016,Person,Rosen Zhelyazkov,Росен Желязков,Prime Minister of Bulgaria in 2025,,6,news
+Q60082255,Person,Tomoko Akane,Tomoko Akane,Japanese jurist and judge (1956–),,5,news
+Q60206,Person,Ariel Sharon,Ariel Sharon,Prime Minister of Israel from 2001 to 2006 (1928-2014),,1,kb
+Q6029546,Person,Petteri Orpo,Petteri Orpo,Finnish politician and the 47th Prime Minister of Finland,,6,news
+Q60379644,Person,Lynne M. Tracy,Lynne M. Tracy,"American diplomat, US Ambassador to Russia from 2023",,3,news
+Q60455401,Person,Hussein Arnous,Hussein Arnous,68th Prime Minister of the Syrian Arab Republic,,3,news
+Q60467181,Person,Among Anita Annet,Anita Among,Ugandan politician,,3,news
+Q60499905,Person,Amir Khan Muttaqi,Amir Khan Muttaqi,Minister of Foreign Affairs of the Islamic Emirate of Afghanistam,,4,news
+Q6066533,Person,Irakli Garibashvili,Irakli Garibashvili,"Prime Minister of Georgia (2013–2015, 2021–2024)",,2,news
+Q6070218,Person,Pedro Sánchez,Pedro Sánchez,Prime Minister of Spain since 2018,,31,news
+Q60772,Person,Ursula von der Leyen,Ursula von der Leyen,President of the European Commission since 2019,,107,news
+Q6084858,Person,Ismail Sabri Yaakob,Ismail Sabri Yaakob,Prime Minister of Malaysia from 2021 to 2022,,6,news
+Q60865113,Person,Manuel Domingos Augusto,Manuel Domingos Augusto,Angolan diplomat,,4,news
+Q6087480,Person,Hakan Fidan,Hakan Fidan,Minister of Foreign Affairs of the Republic of Turkey,,22,news
+Q61053,Person,Olaf Scholz,Olaf Scholz,"German politician (SPD), ninth Chancellor of the Federal Republic of Germany (2021–2025), Member of the Bundestag",,59,news
+Q610788,Person,António Costa,António Costa,"Portuguese politician, President of the European Council since 2024 (1961-)",,40,news
+Q6109517,Person,Leo XIV,Giáo hoàng Lêô XIV,267th Pope of the Catholic Church (2025–),,12,news
+Q61112536,Person,Yulia Svyrydenko,Yulia Svyrydenko,"Ukrainian politician, Former Prime Minister of Ukraine",,5,news
+Q61121565,Person,Evika Siliņa,Evika Siliņa,Prime Minister of Latvia from 2023 to 2026,,4,news
+Q6131460,Person,James Cleverly,James Cleverly,British politician (born 1969),,25,news
+Q6138903,Person,James Marape,James Marape,Papua New Guinea politician,,14,news
+Q6162219,Person,Jason Clare,Jason Clare,Australian politician,,1,kb
+Q61753407,Person,Geir O. Pedersen,Geir Otto Pedersen,Norwegian diplomat,,4,news
+Q6180897,Person,Jeremiah Manele,Jeremiah Manele,Solomon Islands politician,,4,news
+Q623802,Person,Adel al-Jubeir,Adel al-Jubeir,Saudi diplomat and minister of foreign affairs (born 1962),,3,news
+Q6266369,Person,Johnny Briceño,Johnny Briceño,Prime Minister of Belize since 2020,,5,news
+Q62733971,Person,Gail Teixeira,Gail Teixeira,politician in Guyana,,2,news
+Q6279,Person,Joe Biden,Joe Biden,46th President of the United States (2021–2025),,174,news
+Q6288088,Person,Joseph Wu,Joseph Wu,Taiwanese politician,,1,kb
+Q6288876,Person,Josh Frydenberg,Josh Frydenberg,Australian politician and federal treasurer,,4,news
+Q6292031,Person,José David Cabello,José David Cabello,Venezuelan politician,,2,news
+Q6294,Person,Hillary Clinton,Hillary Clinton,American politician and diplomat (born 1947),,3,news
+Q629702,Person,Leonid Kuchma,Leonid Kuchma,"Ukrainian businessman and politician, second President of Ukraine from 1994 to 2005",,1,kb
+Q6303349,Person,Judith Collins,Judith Collins,New Zealand politician (born 1959),,6,news
+Q63111184,Person,Abdel Fattah al-Burhan,Abdel Fattah al-Burhan,President of the Sovereignty Council of Sudan,,9,news
+Q63145660,Person,Hemedti,Mohamed Hamdan Dagalo,Sudanese general,,3,news
+Q63285566,Person,Fathi Bashagha,Fathi Bashagha,Libyan politician,,6,news
+Q63441935,Person,Bisher Al-Khasawneh,Bisher Al-Khasawneh,Prime Minister of Jordan,,4,news
+Q6362240,Person,Kang Kyung-hwa,Kang Kyung-wha,Minister of Foreign Affairs of South Korea,,1,kb
+Q6374297,Person,Kashim Shettima,Kashim Shettima,Nigerian politician (born 1966); Vice President of Nigeria,,2,news
+Q637471,Person,Juraj Blanár,Juraj Blanár,Slovak politician,,3,news
+Q6378155,Person,Katsunobu Kato,Katō Katsunobu,Japanese politician,,1,kb
+Q6378927,Person,Kausea Natano,Kausea Natano,Tuvaluan politician,,5,news
+Q6383803,Person,Keir Starmer,Keir Starmer,Prime Minister of the United Kingdom from 2024 to 2026,,75,news
+Q638463,Person,Nawaf Salam,Nawaf Salam,Lebanese Prime Minister,,4,news
+Q6386648,Person,Kelvin Davis,Kelvin Davis,New Zealand politician,,2,kb
+Q63872093,Person,David W. Panuelo,David W. Panuelo,President of the Federated States of Micronesia (2019-present),,1,kb
+Q6396461,Person,Kevin Hassett,Kevin Hassett,American economist (born 1962),,1,kb
+Q6401038,Person,Khawaja Muhammad Asif,Khawaja Muhammad Asif,"Minister for Defence, PML(N) leader",,4,news
+Q64152293,Person,Tim Ayres,Tim Ayres,Australian politician (born 1973),,3,news
+Q64168538,Person,Alexander Schallenberg,Alexander Schallenberg,Chancellor of Austria in 2021 and 2025,,7,news
+Q64495543,Person,Mykhailo Fedorov,Mykhailo Fedorov,Ukrainian politician,,3,news
+Q64576653,Person,Christian Stocker,Christian Stocker,Austrian politician,,2,news
+Q64595113,Person,José Manuel Albares,José Manuel Albares,Spanish diplomat,,6,news
+Q64605915,Person,Erywan Yusof,Erywan Yusof,Bruneian politician,,3,news
+Q64786444,Person,Qu Dongyu,Qu Dongyu,Chinese politician,,1,kb
+Q64821688,Person,Odete Maria Freitas Belo,Odete Maria Freitas Belo,East Timorese doctor and politician,,2,news
+Q64840184,Person,Irfaan Ali,Irfaan Ali,President of the Co-operative Republic of Guyana,,2,news
+Q6496078,Person,Abdul Latif Rashid,Abdul Latif Rashid,president of Iraq since 2022,,1,news
+Q6504758,Person,Lawrence Wong,Hoàng Tuần Tài,Prime Minister of Singapore since 2024,,20,news
+Q65088520,Person,Yusuf Tuggar,Yusuf Tuggar,Nigerian diplomat,,2,news
+Q65148465,Person,Alexey Pavlovsky,Alexey Pavlovsky,,,1,kb
+Q65455894,Person,Sanjay Verma,Sanjay Verma,Indian diplomat,,4,news
+Q6550004,Person,Lin Chia-lung,Lin Chia-lung,Taiwanese politician,,2,kb
+Q6551428,Person,Linda Burney,Linda Burney,Australian politician,,1,kb
+Q65539,Person,Peter Altmaier,Peter Altmaier,German politician,,1,kb
+Q65640221,Person,Nicu Popescu,Nicu Popescu,"Moldovan politician, former Minister of Foreign Affairs",,3,news
+Q66094865,Person,Denys Shmyhal,Denys Shmyhal,"Ukrainian politician, former Prime Minister of Ukraine (2020–2025)",,24,news
+Q6623799,Person,Jorge Arreaza,Jorge Arreaza,Venezuelan politician (born 1973),,7,news
+Q664,Country,New Zealand,New Zealand,,NZL,88,news
+Q6659788,Person,Liviu Dragnea,Liviu Dragnea,Romanian politician (born 1962),,2,news
+Q668,Country,India,Ấn Độ,,IND,148,news
+Q66809451,Person,Oleksandr Kubrakov,Oleksandr Kubrakov,Ukrainian politician,,1,kb
+Q66973646,Person,Bridget Brink,Bridget Brink,American diplomat,,4,news
+Q672,Country,Tuvalu,Tuvalu,,TUV,21,news
+Q6737124,Person,Maithripala Sirisena,Maithripala Sirisena,President of Sri Lanka from 2015 to 2019,,2,news
+Q67442310,Person,Anita Anand,Anita Anand,Canadian politician and professor (born 1967),,6,news
+Q674957,Person,Enrico Letta,Enrico Letta,Italian politician,,1,kb
+Q6755549,Person,Marc Fesneau,Marc Fesneau,French politician,,1,kb
+Q6756617,Person,Marcelo Rebelo de Sousa,Marcelo Rebelo de Sousa,"Portuguese politician and academic, former President of Portugal",,4,news
+Q6761357,Person,Leni Robredo,Leni Robredo,Filipino politician (born 1965),,2,news
+Q678,Country,Tonga,Tonga,,TON,13,news
+Q6789423,Person,Matt Thistlethwaite,Matt Thistlethwaite,Australian politician,,4,news
+Q6791373,Person,Matthew Wale,Matthew Wale,Solomon Island politician,,2,news
+Q6800406,Person,Luis Lacalle Pou,Luis Alberto Lacalle Pou,42nd President of Uruguay,,3,news
+Q6808764,Person,Megan Woods,Megan Woods,New Zealand politician,,3,kb
+Q6816221,Person,Men Sam An,Men Sam An,Member of the National Assembly of Cambodia,,4,news
+Q68185212,Person,Naoki Ito,Naoki Ito,Japanese diplomat,,6,news
+Q6827147,Person,Mia Mottley,Mia Mottley,prime minister of Barbados since 2018,,5,news
+Q683,Country,Samoa,Samoa,,WSM,10,news
+Q6832641,Person,Michael McCormack,Michael McCormack,"Australian politician, 18th Deputy Prime Minister of Australia",,4,kb
+Q6832712,Person,Michael McGrath,Michael McGrath,Irish politician,,1,kb
+Q685,Country,Solomon Islands,Quần đảo Solomon,,SLB,22,news
+Q685293,Person,Péter Szijjártó,Péter Szijjártó,"Hungarian politician, member of the National Assembly of Hungary since 2002",,29,news
+Q68596572,Person,Yosef Amrani,Yossi Amrani,Israeli diplomat,,4,news
+Q686,Country,Vanuatu,Vanuatu,,VUT,15,news
+Q6860678,Person,Miloš Vučević,Miloš Vučević,Prime Minister of Serbia (2024-2025),,5,news
+Q6874839,Person,Mirza Fakhrul Islam Alamgir,Mirza Fakhrul Islam Alamgir,President of Bangladesh since 2026,,2,news
+Q6890888,Person,Mohamad Hasan,Mohamad Hasan,Malaysian politician,,2,news
+Q6892571,Person,Mohammed bin Salman Al Saud,Mohammad bin Salman,Saudi crown prince (born 1985),,31,news
+Q691,Country,Papua New Guinea,Papua New Guinea,,PNG,31,news
+Q694676,Person,Pat McFadden,Pat McFadden,British politician (born 1965),,2,kb
+Q695,Country,Palau,Palau,,PLW,13,news
+Q697,Country,Nauru,Nauru,,NRU,18,news
+Q700752,Person,Hsiao Bi-khim,Tiêu Mỹ Cầm,Vice President of Taiwan since 2024,,2,news
+Q701484,Person,Klaus Iohannis,Klaus Iohannis,President of Romania from 2014 to 2025,,9,news
+Q701801,Person,Wang Yi,Vương Nghị,"Chinese diplomat leader, Director of the CCP Central Foreign Affairs Commission Office since 2023",,79,news
+Q702,Country,Federated States of Micronesia,Micronesia,,FSM,14,news
+Q7022967,Person,Nguyen Thi Doan,Nguyễn Thị Doan,Vietnamese politician,,1,kb
+Q7035479,Person,Nikol Pashinyan,Nikol Pashinyan,Prime Minister of Armenia,,16,news
+Q7040049,Person,Nirmala Sitharaman,Nirmala Sitharaman,Indian politician,,2,news
+Q704022,Person,Gustavo Petro,Gustavo Petro,42rd President of Colombia 2022–2026,,10,news
+Q706631,Person,Børge Brende,Børge Brende,Norwegian politician,,1,kb
+Q709,Country,Marshall Islands,Quần đảo Marshall,,MHL,14,news
+Q710,Country,Kiribati,Kiribati,,KIR,15,news
+Q711,Country,Mongolia,Mông Cổ,,MNG,24,news
+Q711893,Person,Mikheil Kavelashvili,Mikheil Kavelashvili,"Georgian politician and former footballer, sixth President of Georgia since 2024",,2,news
+Q713138,Person,Artis Pabriks,Artis Pabriks,Latvian politician (born 1966),,1,kb
+Q71383312,Person,Marta Kos,Marta Kos,Slovene diplomat and politician,,5,news
+Q714330,Person,Dmitry Kozak,Dmitry Kozak,Russian politician,,2,news
+Q714435,Person,Naim Qassem,Naim Qassem,Secretary-General of Hezbollah,,3,news
+Q7152252,Person,Paul Mashatile,Paul Mashatile,South African politician,,1,kb
+Q7159,Organization,African Union,Liên minh châu Phi,,,69,news
+Q717,Country,Venezuela,Venezuela,,VEN,79,news
+Q7172,Organization,Arab League,Liên đoàn Ả Rập,,,27,news
+Q7173778,Person,Peter Dutton,Peter Dutton,Australian former politician (born 1970),,5,news
+Q7178,Organization,International Red Cross and Red Crescent Movement,Phong trào Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế,,,7,news
+Q7183082,Person,"Philip ""Brave"" Davis","Philip ""Brave"" Davis",Bahamian politician (born 1951),,3,kb
+Q7184,Organization,NATO,NATO,,,60,news
+Q718601,Person,Nana Akufo-Addo,Nana Akufo-Addo,President of Ghana from 2017 to 2025,,3,news
+Q7199798,Person,Piyush Goyal,Piyush Goyal,Indian politician,,5,kb
+Q72099398,Person,Faisal bin Farhan,Faisal bin Farhan,Saudi Foreign Minister (2019–present),,13,news
+Q7216297,Person,Qin Gang,Tần Cương,former Foreign Affairs Minister of China,,9,news
+Q72245,Person,Thomas Bach,Thomas Bach,"German fencer, lawyer and sports official; 9th president of the International Olympic Committee since 2013",,6,news
+Q723506,Person,Yoav Gallant,Yoav Gallant,Israeli politician and former military officer (born 1958),,14,news
+Q72409737,Person,Tan See Leng,Tan See Leng,"Singaporean politician, businessman, medical practitioner and entrepreneur",,2,news
+Q7268405,Organization,The Quad,Đối thoại Tứ giác An ninh,,,4,news
+Q727798,Person,Sajid Javid,Sajid Javid,British politician (born 1969),,3,news
+Q730,Country,Suriname,Suriname,,SUR,14,news
+Q7308461,Person,Regina Doherty,Regina Doherty,Irish Fine Gael politician (b. 1971),,1,kb
+Q732087,Person,Yukio Edano,Edano Yukio,"Japanese politician, lawyer",,2,news
+Q7327642,Person,Richard Marles,Richard Marles,Australian politician,,10,news
+Q733,Country,Paraguay,Paraguay,,PRY,16,news
+Q733999,Person,James George Scott,James George Scott,Scottish colonial administrator (1851–1935),,2,news
+Q734,Country,Guyana,Guyana,,GUY,16,news
+Q735026,Person,Brian Houghton Hodgson,Brian Houghton Hodgson,British diplomat and naturalist (1800/1801–1894),,1,kb
+Q7351526,Person,Roberta Metsola,Roberta Metsola,Maltese politician and president of the European Parliament since 2022 (born 1979),,8,news
+Q736,Country,Ecuador,Ecuador,,ECU,30,news
+Q7363705,Person,Ron Dermer,Ron Dermer,US-born Israeli politician,,4,news
+Q7385320,Person,Ryosei Akazawa,Akazawa Ryosei,Japanese politician,,3,news
+Q739,Country,Colombia,Colombia,,COL,31,news
+Q7400032,Person,Saifuddin Abdullah,Saifuddin Abdullah,Malaysian politician,,2,news
+Q740308,Organization,UNICEF,Quỹ Nhi đồng Liên Hợp Quốc,,,10,news
+Q7409268,Person,Sameh Shoukry,Sameh Shoukry,Egyptian diplomat,,15,news
+Q7423486,Person,Sarbananda Sonowal,Sarbananda Sonowal,Union Cabinet Minister and politician from Assam,,2,kb
+Q7436908,Person,Scott Morrison,Scott Morrison,Prime Minister of Australia from 2018 to 2022,,35,news
+Q74370310,Person,Christopher Luxon,Christopher Luxon,Prime Minister of New Zealand since 2023,,20,news
+Q7459020,Person,Abbas Araghchi,Abbas Araghchi,"Iranian diplomat, Minister of Foreign Affairs (born 1962)",,45,news
+Q748837,Person,David Lidington,David Lidington,British politician (born 1956),,3,news
+Q750,Country,Bolivia,Bolivia,,BOL,29,news
+Q7518284,Person,Simon Birmingham,Simon Birmingham,Australian politician,,2,news
+Q7518922,Person,Simon Harris,Simon Harris,Tánaiste (Deputy Prime Minister) of Ireland (born 1986),,14,news
+Q754,Country,Trinidad and Tobago,Trinidad và Tobago,,TTO,14,news
+Q756617,Country,Kingdom of Denmark,Vương quốc Đan Mạch,,,49,news
+Q757,Country,Saint Vincent and the Grenadines,Saint Vincent và Grenadines,,VCT,16,news
+Q75967824,Person,Hamish Falconer,Hamish Falconer,"British politician, from 2024, Member of Parliament for Lincoln",,2,news
+Q76,Person,Barack Obama,Barack Obama,44th President of the United States (2009–2017),,32,news
+Q763,Country,Saint Kitts and Nevis,Saint Kitts và Nevis,,KNA,13,news
+Q7638222,Person,Sun Chanthol,Sun Chanthol,Member of National Assembly of Cambodia,,2,kb
+Q7649377,Person,Sussan Ley,Sussan Ley,Australian politician,,1,kb
+Q766,Country,Jamaica,Jamaica,,JAM,18,news
+Q76658,Person,Frank-Walter Steinmeier,Frank-Walter Steinmeier,"German politician, president of Germany since 2017",,19,news
+Q76760763,Person,Rixi Moncada,Rixi Moncada,Honduran politician (born 1965),,2,news
+Q7684036,Person,Tanya Plibersek,Tanya Plibersek,Australian politician,,2,kb
+Q7686199,Person,Tarique Rahman,Tarique Rahman,Prime Minister of Bangladesh,,3,news
+Q769,Country,Grenada,Grenada,,GRD,15,news
+Q769747,Person,Augusto Santos Silva,Augusto Santos Silva,"Portuguese politician, school teacher and journalist",,2,kb
+Q77,Country,Uruguay,Uruguay,,URY,21,news
+Q7711,Person,Jean-Marc Ayrault,Jean-Marc Ayrault,Prime Minister of France (2012-2014),,4,news
+Q774,Country,Guatemala,Guatemala,,GTM,15,news
+Q7747,Person,Vladimir Putin,Vladimir Vladimirovich Putin,President of the Russian Federation,,252,news
+Q7768,Organization,ASEAN,Hiệp hội các quốc gia Đông Nam Á,,,63,news
+Q7779,Organization,Commonwealth of Independent States,Cộng đồng các Quốc gia Độc lập,,,12,news
+Q778,Country,The Bahamas,Bahamas,,BHS,15,news
+Q7785,Organization,Commonwealth of Nations,Khối Thịnh vượng chung Anh,,,54,news
+Q77897101,Person,Vinay Mohan Kwatra,Vinay Mohan Kwatra,Indian diplomat,,2,news
+Q7795,Organization,Organization of the Petroleum Exporting Countries,Tổ chức các nước xuất khẩu dầu lửa,,,14,news
+Q7801,Organization,International Court of Justice,Tòa án Công lý Quốc tế,,,8,news
+Q7804,Organization,International Monetary Fund,Quỹ Tiền tệ Quốc tế,,,29,news
+Q7809,Organization,UNESCO,"Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc",,,180,news
+Q7817,Organization,World Health Organization,Tổ chức Y tế Thế giới,,,205,news
+Q78170311,Person,David Lipton,David Lipton,American economist,,2,news
+Q7821917,Person,Antony Blinken,Antony Blinken,American lawyer and diplomat (born 1962) and former United States Secretary of State (2021–2025),,126,news
+Q7825,Organization,World Trade Organization,Tổ chức Thương mại Thế giới,,,150,news
+Q783,Country,Honduras,Honduras,,HND,20,news
+Q7831246,Person,Tracey Martin,Tracey Martin,New Zealand politician,,3,news
+Q7839303,Person,Trevor Mallard,Trevor Mallard,New Zealand politician,,1,kb
+Q784,Country,Dominica,Dominica,,DMA,12,news
+Q7849613,Person,Tshering Tobgay,Tshering Tobgay,7th Prime Minister of Bhutan,,2,news
+Q786,Country,Dominican Republic,Cộng hòa Dominica,,DOM,18,news
+Q78869,Person,Alexander Van der Bellen,Alexander Van der Bellen,President of Austria since 2017 (born 1944),,5,news
+Q79,Country,Egypt,Ai Cập,,EGY,98,news
+Q790,Country,Haiti,Haiti,,HTI,26,news
+Q790699,Person,Avi Dichter,Avi Dİchter,Israeli politician,,1,kb
+Q792,Country,El Salvador,El Salvador,,SLV,15,news
+Q79291635,Person,Mykola Solsky,Mykola Solsky,"Ukrainian politician, lawyer",,1,kb
+Q7934206,Person,Ahmed al-Sharaa,Ahmed al-Sharaa,President of Syria since 2025,,15,news
+Q79358625,Person,Manuel Marrero Cruz,Manuel Marrero Cruz,Prime Minister of the Republic of Cuba,,5,news
+Q7937671,Person,Vivian Balakrishnan,Vivian Balakrishnan,Singaporean politician,,3,news
+Q794,Country,Iran,Iran,,IRN,222,news
+Q7984081,Person,Wesley Simina,Wesley Simina,Federated States of Micronesia politician,,2,news
+Q799556,Person,Cilia Flores,Cilia Flores,First Lady of Venezuela from 2013 to 2026,,2,news
+Q800,Country,Costa Rica,Costa Rica,,CRI,14,news
+Q8004870,Person,William B. Taylor Jr.,William B. Taylor Jr.,American diplomat (born 1947),,1,kb
+Q801,Country,Israel,Israel,,ISR,345,news
+Q8023642,Person,Win Myint,Win Myint,10th President of Myanmar,,1,kb
+Q804,Country,Panama,Panama,,PAN,23,news
+Q8044708,Person,Xiomara Castro,Xiomara Castro,Honduran politician and businesswoman (born 1959),,2,news
+Q805,Country,Yemen,Yemen,,YEM,19,news
+Q8068367,Person,Zed Seselja,Zed Seselja,Australian politician,,2,news
+Q8077259,Person,Åsmund Grøver Aukrust,Åsmund Grøver Aukrust,Norwegian politician,,2,news
+Q808173,Person,Barham Salih,Barham Salih,President of Iraq (2018-2022),,2,news
+Q810,Country,Jordan,Jordan,,JOR,41,news
+Q811,Country,Nicaragua,Nicaragua,,NIC,18,news
+Q81299,Organization,Organization for Security and Co-operation in Europe,Tổ chức An ninh và Hợp tác châu Âu,,,58,news
+Q813,Country,Kyrgyzstan,Kyrgyzstan,,KGZ,27,news
+Q813067,Person,Beat Jans,Beat Jans,Swiss politician and Federal Councillor,,2,news
+Q817,Country,Kuwait,Kuwait,,KWT,24,news
+Q819,Country,Laos,Lào,,LAO,25,news
+Q82151,Organization,Food and Agriculture Organization of the United Nations,Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc,,,8,news
+Q822,Country,Lebanon,Liban,,LBN,60,news
+Q826,Country,Maldives,Maldives,,MDV,17,news
+Q826700,Organization,International Energy Agency,Cơ quan Năng lượng Quốc tế,,,30,news
+Q8291839,Person,He Lifeng,Hà Lập Phong,Vice Premier of the People's Republic of China,,3,news
+Q83201,Organization,Non-Aligned Movement,Phong trào không liên kết,,,7,news
+Q833,Country,Malaysia,Malaysia,,MYS,61,news
+Q83375533,Person,Olga Lyubimova,Olga Lyubimova,Russian politician and current Minister of Culture for the Russian Federation,,2,news
+Q83380758,Person,Dmitry Grigorenko,Dmitry Grigorenko,Chief of Staff for the Government of Russian Federation,,2,news
+Q8340313,Person,Chen Wenqing,Trần Văn Thanh,Member of the 20th Politburo of the Chinese Communist Party,,1,kb
+Q836,Country,Myanmar,Myanma,,MMR,51,news
+Q837,Country,Nepal,Nepal,,NPL,21,news
+Q843,Country,Pakistan,Pakistan,,PAK,76,news
+Q8440,Person,Hugo Chávez,Hugo Chávez,30th and 33rd President of Venezuela,,2,news
+Q846,Country,Qatar,Qatar,,QAT,75,news
+Q846656,Organization,United Nations Relief and Works Agency for Palestine Refugees in the Near East,UNRWA,,,11,news
+Q851,Country,Saudi Arabia,Ả Rập Xê Út,,SAU,120,news
+Q854,Country,Sri Lanka,Sri Lanka,,LKA,33,news
+Q858,Country,Syria,Syria,,SYR,56,news
+Q85976745,Person,Peyman Saadat,Peyman Saadat,Iranian diplomat,,2,news
+Q85991458,Person,Justin Tkachenko,Justin Tkachenko,Papua New Guinean politician,,3,news
+Q863,Country,Tajikistan,Tajikistan,,TJK,17,news
+Q863496,Person,Binali Yıldırım,Binali Yıldırım,Prime Minister of Turkey (born 1955),,5,news
+Q865,Country,Taiwan,Đài Loan,,TWN,35,news
+Q869,Country,Thailand,Thái Lan,,THA,65,news
+Q874,Country,Turkmenistan,Turkmenistan,,TKM,16,news
+Q878,Country,United Arab Emirates,các Tiểu vương quốc Ả Rập Thống nhất,,ARE,97,news
+Q881,Country,Vietnam,Việt Nam,,VNM,456,news
+Q88158,Person,Julia Klöckner,Julia Klöckner,German politician,,1,kb
+Q884,Country,South Korea,Hàn Quốc,,KOR,118,news
+Q8880,Organization,European Commission,Ủy ban châu Âu,,,36,news
+Q8886,Organization,European Council,Hội đồng châu Âu,,,13,news
+Q8889,Organization,European Parliament,Nghị viện châu Âu,,,26,news
+Q889,Country,Afghanistan,Afghanistan,,AFG,28,news
+Q8908,Organization,Council of Europe,Ủy hội châu Âu,,,50,news
+Q890971,Person,Bohuslav Sobotka,Bohuslav Sobotka,Czech politician,,4,news
+Q902,Country,Bangladesh,Bangladesh,,BGD,30,news
+Q9056861,Person,Patricia Bullrich,Patricia Bullrich,Argentine politician,,2,news
+Q9094,Person,José Mujica,José Mujica,Uruguayan guerrilla fighter and politician,,6,news
+Q9151911,Person,Andrzej Duda,Andrzej Duda,"politician and lawyer, president of Poland from 2015 to 2025",,33,news
+Q916,Country,Angola,Angola,,AGO,18,news
+Q917,Country,Bhutan,Bhutan,,BTN,9,news
+Q920403,Person,Micheál Martin,Micheál Martin,"Taoiseach (Prime Minister) of Ireland (2020–2022, 2025–present)",,13,news
+Q921,Country,Brunei,Brunei,,BRN,17,news
+Q924,Country,Tanzania,Tanzania,,TZA,19,news
+Q9268379,Person,Gitanas Nausėda,Gitanas Nausėda,President of Lithuania since 2019,,13,news
+Q927550,Person,Malcolm Turnbull,Malcolm Turnbull,Prime Minister of Australia from 2015 to 2018,,19,news
+Q928,Country,Philippines,Philippines,,PHL,55,news
+Q929,Country,Central African Republic,Cộng hòa Trung Phi,,CAF,13,news
+Q929248,Person,Dacian Cioloș,Dacian Cioloș,64th Prime Minister of Romania (2015-2017),,3,news
+Q93181,Person,Ehud Olmert,Ehud Olmert,Prime Minister of Israel from 2006 to 2009,,1,kb
+Q93447756,Person,Badr Abdelatty,Badr Abdelatty,Egyptian diplomat,,15,news
+Q9368300,Person,Viorica Dăncilă,Viorica Dăncilă,67th Prime Minister of Romania (2018-2019),,2,news
+Q9375875,Person,Witold Waszczykowski,Witold Waszczykowski,"Polish politician, diplomat, historian",,4,news
+Q938224,Person,Joseph Muscat,Joseph Muscat,former Prime Minister of Malta,,6,news
+Q9388252,Person,Zbigniew Rau,Zbigniew Rau,Polish politician,,4,news
+Q946,Person,Donald Tusk,Donald Tusk,Prime Minister of Poland (2007–2014; since 2023),,39,news
+Q9462347,Person,Huang Ming,Hoàng Minh,Chinese politician (1957-),,1,kb
+Q947215,Person,Carlo Maria Viganò,Carlo Maria Viganò,Italian Roman Catholic excommunicated archbishop and nuncio (born 1941),,2,news
+Q94787924,Person,Eduardo Pazuello,Eduardo Pazuello,Brazilian general and politician,,3,news
+Q948,Country,Tunisia,Tunisia,,TUN,27,news
+Q950958,Person,Charles Michel,Charles Michel,"Belgian politician, former Prime Minister of Belgium, President of the European Council (born 1975)",,37,news
+Q953,Country,Zambia,Zambia,,ZMB,19,news
+Q954,Country,Zimbabwe,Zimbabwe,,ZWE,31,news
+Q9545,Person,Tony Blair,Tony Blair,Prime Minister of the United Kingdom from 1997 to 2007,,7,news
+Q958,Country,South Sudan,Nam Sudan,,SSD,15,news
+Q95984587,Person,Simona Halperin,Simona Halperin,Israeli Ambassador to Singapore and East Timor,,2,news
+Q96,Country,Mexico,México,,MEX,54,news
+Q96058561,Person,Olha Stefanishyna,Olha Stefanishyna,Deputy Prime Minister for European and Euro-Atlantic Integration of Ukraine,,3,news
+Q962,Country,Benin,Bénin,,BEN,15,news
+Q963,Country,Botswana,Botswana,,BWA,15,news
+Q9637698,Person,Augusto Heleno,Augusto Heleno,"Brazilian military officer and politician, former Minister-Chief of the Institutional Security Cabinet of the Presidency of the Republic (2019–2022).",,1,kb
+Q964493,Person,Geraldo Alckmin,Geraldo Alckmin,"Brazilian politician, 26th Vice President of Brazil since 2023",,2,news
+Q965,Country,Burkina Faso,Burkina Faso,,BFA,17,news
+Q965155,Person,Teburoro Tito,Teburoro Tito,President of Kiribati,,1,kb
+Q967,Country,Burundi,Burundi,,BDI,18,news
+Q96747230,Person,Ľudovít Ódor,Ľudovít Ódor,"Slovak economist, former Vice-Governor of the National Bank of Slovakia, current Prime Minister of Slovakia",,1,kb
+Q9682,Person,Elizabeth II,Elizabeth II,Queen of the United Kingdom from 1952 to 2022 (1926–2022),,16,news
+Q97058466,Person,Daniel Chapo,Daniel Chapo,President of Mozambique since 2025,,1,kb
+Q971,Country,Republic of the Congo,Cộng hòa Congo,,COG,19,news
+Q974,Country,Democratic Republic of the Congo,Cộng hòa Dân chủ Congo,,COD,25,news
+Q978208,Person,Didier Reynders,Didier Reynders,"Belgian politician, currently European Commissioner for Justice",,2,news
+Q978276,Person,Christopher Pyne,Christopher Pyne,Australian politician,,3,news
+Q98017689,Person,Rodrigo Chaves,Rodrigo Chaves Robles,49th president of Costa Rica,,1,kb
+Q981549,Person,Sitiveni Rabuka,Sitiveni Rabuka,Prime Minister of Fiji from 1992 to 1999 and from 2022-,,6,news
+Q982005,Person,Nicolas Hulot,Nicolas Hulot,"French environmentalist, TV producer and presenter, politician",,1,kb
+Q982461,Person,Vyacheslav Volodin,Vjačeslav Volodin,Chairman of the State Duma of the Federal Assembly of Russian Federation,,5,news
+Q983,Country,Equatorial Guinea,Guinea Xích Đạo,,GNQ,12,news
+Q983258,Person,Isaac Herzog,Isaac Herzog,President of Israel since 2021,,23,news
+Q983324,Person,Bongbong Marcos,Bongbong Marcos,president of the Philippines since 2022,,21,news
+Q983402,Person,Ranil Wickremesinghe,Ranil Wickremesinghe,9th President of Sri Lanka from July 2022 to September 2024,,2,news
+Q983508,Person,Phil Hogan,Phil Hogan,Irish politician,,1,kb
+Q983664,Person,Dimitris Avramopoulos,Dimitris Avramopoulos,Greek politician,,2,news
+Q983752,Person,Tharman Shanmugaratnam,Tharman Shanmugaratnam,President of Singapore since 2023,,11,news
+Q98456849,Person,Badr bin Hamad Al Busaidi,Badr bin Hamad Al Busaidi,Omani diplomat,,2,news
+Q98492193,Person,Carlos Bonilla Sánchez,Carlos Bonilla Sánchez,Dominican businessman and politician,,2,news
+Q98497406,Person,Assimi Goïta,Assimi Goita,Mali's president and military officer,,3,news
+Q986,Country,Eritrea,Eritrea,,ERI,17,news
+Q989,Person,John Paul II,Giáo hoàng Gioan Phaolô II,"pope, cardinal, bishop, priest, author",,3,news
+Q99522589,Person,Hugh Todd,Hugh Todd,Guyanese politician,,3,news
+agr:mou-on-mine-countermeasures-naval-group,Agreement,MoU on Mine Countermeasures Naval Group,,,,3,news
+agr:uk-ukraine-security-accord,Agreement,UK-Ukraine Security Accord,,,,2,news
+agr:uk-ukraine-security-cooperation-agreement,Agreement,UK-Ukraine Security Cooperation Agreement,,,,2,news
+agr:abraham-accords,Agreement,Abraham Accords,,,,5,news
+evt:world-economic-forum,Event,World Economic Forum,,,,12,news
+agr:migration-deal,Agreement,migration deal,,,,6,news
+agr:global-gateway-agreement,Agreement,Global Gateway agreement,,,,2,news
+evt:eu-summit,Event,EU Summit,,,,2,news
+evt:2-2-australia-and-new-zealand-foreign-and-defence-ministers-meeting,Event,2+2 Australia and New Zealand foreign and defence ministers' meeting,,,,4,news
+agr:deals-on-migration-and-energy,Agreement,deals on migration and energy,,,,3,news
+evt:munich-security-conference,Event,Munich Security Conference,,,,6,news
+evt:ukraine-southeast-europe-summit-on-security,Event,Ukraine-Southeast Europe Summit on security,,,,2,news
+agr:falepili-union,Agreement,Falepili Union,,,,2,news
+agr:bilateral-labour-agreement,Agreement,bilateral labour agreement,,,,2,news
+agr:police-deployment-deal,Agreement,Police Deployment Deal,,,,2,news
+agr:chisinau-paris-defence-deal,Agreement,Chisinau-Paris defence deal,,,,2,news
+agr:military-base-access-deal,Agreement,military base access deal,,,,2,news
+agr:deportation-deal,Agreement,deportation deal,,,,4,news
+agr:aid-pact,Agreement,aid pact,,,,2,news
+evt:trilateral-summit,Event,Trilateral Summit,,,,4,news
+evt:san-francisco-meeting,Event,San Francisco Meeting,,,,2,news
+evt:summit-in-warsaw,Event,summit in Warsaw,,,,2,news
+agr:memorandum-of-understanding-2013,Agreement,Memorandum of Understanding (2013),,,,2,news
+evt:meeting-in-istanbul,Event,meeting in Istanbul,,,,2,news
+agr:nato-nuclear-weapons-sharing,Agreement,NATO nuclear weapons sharing,,,,6,news
+evt:un-general-assembly,Event,UN General Assembly,,,,22,news
+evt:white-house-meeting,Event,White House meeting,,,,6,news
+evt:shangri-la-dialogue-security-summit,Event,Shangri-La Dialogue security summit,,,,2,news
+agr:10-year-bilateral-security-agreement,Agreement,10-year bilateral security agreement,,,,2,news
+evt:g7-summit,Event,G7 Summit,,,,17,news
+agr:letter-of-intent,Agreement,letter of intent,,,,2,news
+evt:g7-summit-in-puglia,Event,G7 summit in Puglia,,,,7,news
+evt:ukraine-peace-summit,Event,Ukraine Peace Summit,,,,2,news
+evt:global-peace-summit,Event,Global Peace Summit,,,,2,news
+agr:mutual-defence-pact,Agreement,mutual defence pact,,,,4,news
+agr:partnership-deepening-military-and-political-ties,Agreement,partnership deepening military and political ties,,,,2,news
+agr:friendship-treaty,Agreement,friendship treaty,,,,2,news
+agr:darien-gap-deal,Agreement,Darien Gap deal,,,,2,news
+evt:emergency-meeting-with-caricom,Event,emergency meeting with Caricom,,,,3,news
+evt:brussels-summit,Event,Brussels Summit,,,,4,news
+evt:nato-summit-2024,Event,NATO Summit 2024,,,,9,news
+evt:nato-summit,Event,Nato Summit,,,,8,news
+agr:nato-eastern-flank-cross-border-movement-deal,Agreement,NATO eastern flank cross-border movement deal,,,,3,news
+agr:ground-launched-cruise-missile-letter-of-intent,Agreement,Ground-launched cruise missile letter of intent,,,,4,news
+agr:normalisation-deal,Agreement,normalisation deal,,,,2,news
+agr:normalisation-agreement,Agreement,normalisation agreement,,,,2,news
+evt:g7-summit-olympics,Event,G7 Summit / Olympics,,,,2,news
+evt:summit-in-seoul,Event,Summit in Seoul,,,,3,news
+agr:joint-declaration-on-promoting-vietnam-ireland-cooperation-relations,Agreement,Joint Declaration on Promoting Vietnam-Ireland Cooperation Relations,,,,2,news
+evt:16th-joint-steering-committee-on-bilateral-cooperation,Event,16th Joint Steering Committee on Bilateral Cooperation,,,,2,news
+evt:asean-summit-48,Event,ASEAN Summit 48,,,,6,news
+evt:talks-in-ankara,Event,talks in Ankara,,,,2,news
+evt:brics-summit,Event,BRICS+ Summit,,,,13,news
+evt:inaugural-ceremony-of-the-15th-national-assembly,Event,Inaugural ceremony of the 15th National Assembly,,,,10,news
+evt:eu-gcc-summit,Event,EU-GCC Summit,,,,2,news
+evt:ukraine-balkans-summit,Event,Ukraine-Balkans Summit,,,,2,news
+agr:political-agreement,Agreement,political agreement,,,,2,news
+agr:mineral-pact,Agreement,mineral pact,,,,2,news
+agr:ceta,Agreement,CETA,,,,3,news
+agr:debt-deal,Agreement,debt deal,,,,2,news
+agr:contract-for-eurofighter-jets,Agreement,contract for Eurofighter jets,,,,2,news
+evt:viet-nam-trung-quoc-ministerial-strategic-dialogue-3-3,Event,Việt Nam - Trung Quốc Ministerial Strategic Dialogue 3+3,,,,2,news
+agr:chabahar-port-operation-agreement,Agreement,Chabahar port operation agreement,,,,2,news
+agr:joint-declaration-on-enhancing-cooperation,Agreement,joint declaration on enhancing cooperation,,,,2,news
+evt:un-general-assembly-80th-session,Event,UN General Assembly 80th Session,,,,2,news
+evt:asean-russia-commemorative-summit,Event,ASEAN-Russia Commemorative Summit,,,,3,news
+evt:pope-s-inauguration-mass,Event,pope's inauguration mass,,,,2,news
+evt:non-aligned-movement-summit,Event,Non-Aligned Movement Summit,,,,2,news
+evt:sochi-meeting,Event,Sochi meeting,,,,2,news
+agr:nuclear-inspections-deal,Agreement,nuclear inspections deal,,,,2,news
+evt:asean-3-summit-with-the-united-states-china-japan-australia-and-canada,Event,"ASEAN+3 Summit with the United States, China, Japan, Australia and Canada",,,,5,news
+evt:summit-in-helsinki,Event,summit in Helsinki,,,,2,news
+agr:treaty-to-divide-patagonia,Agreement,Treaty to divide Patagonia,,,,2,news
+agr:trilateral-memorandum,Agreement,trilateral memorandum,,,,3,news
+agr:ceasefire-restoration-agreement,Agreement,ceasefire restoration agreement,,,,2,news
+agr:illegal-migration-cooperation-agreement,Agreement,illegal migration cooperation agreement,,,,2,news
+agr:mineral-deal,Agreement,mineral deal,,,,2,news
+agr:ocean-of-peace-alliance,Agreement,Ocean of Peace Alliance,,,,2,news
+agr:ukraine-us-strategic-partnership,Agreement,Ukraine-US strategic partnership,,,,2,news
+evt:apec-summit,Event,APEC Summit,,,,19,news
+evt:apec-ceo-summit,Event,APEC CEO Summit,,,,2,news
+evt:talks-in-sydney,Event,talks in Sydney,,,,2,news
+evt:european-leaders-meeting-granada,Event,European Leaders Meeting Granada,,,,2,news
+agr:document-on-human-fraternity,Agreement,Document on Human Fraternity,,,,2,news
+evt:asean-gcc-summit,Event,ASEAN-GCC Summit,,,,4,news
+evt:high-level-strategic-cooperation-council-summit,Event,High-Level Strategic Cooperation Council summit,,,,2,news
+evt:asean-summit,Event,ASEAN Summit,,,,9,news
+agr:minerals-deal,Agreement,minerals deal,,,,2,news
+agr:digital-trade-agreement,Agreement,Digital Trade Agreement,,,,2,news
+agr:gibraltar-deal,Agreement,Gibraltar deal,,,,2,news
+agr:joint-declaration-on-deepening-comprehensive-strategic-partnership,Agreement,joint declaration on deepening comprehensive strategic partnership,,,,2,news
+evt:ots-summit-11,Event,OTS Summit 11,,,,2,news
+evt:asean-australia-special-summit,Event,ASEAN-Australia Special Summit,,,,2,news
+agr:migration-agreement,Agreement,migration agreement,,,,2,news
+agr:mediterranean-boundary-delimitation-agreement,Agreement,Mediterranean boundary delimitation agreement,,,,2,news
+agr:raa,Agreement,RAA,,,,3,news
+agr:rome-statute,Agreement,Rome Statute,,,,2,news
+evt:washington-summit,Event,Washington Summit,,,,2,news
+evt:pacific-islands-forum,Event,Pacific Islands Forum,,,,3,news
+agr:west-new-guinea-transfer,Agreement,West New Guinea transfer,,,,2,news
+evt:bilateral-talks-in-st-petersburg,Event,Bilateral talks in St Petersburg,,,,2,news
+evt:un-vesak-celebration,Event,UN Vesak Celebration,,,,2,news
+agr:rare-earth-agreements,Agreement,rare earth agreements,,,,3,news
+evt:british-irish-intergovernmental-conference,Event,British-Irish intergovernmental conference,,,,2,news
+evt:2018-inter-korean-summit,Event,2018 inter-Korean summit,,,,2,news
+agr:enhanced-strategic-partnership,Agreement,Enhanced Strategic Partnership,,,,2,news
+evt:g7-summit-evian,Event,G7 Summit Evian,,,,2,news
+evt:state-visit-of-tebboune,Event,State Visit of Tebboune,,,,2,news
+agr:visa-exemption-agreement,Agreement,visa exemption agreement,,,,2,news
+agr:1990-paris-charter,Agreement,1990 Paris Charter,,,,2,news
+agr:mou-on-labour-migration,Agreement,MOU on Labour Migration,,,,2,news
+evt:asean-foreign-ministers-gathering,Event,ASEAN foreign ministers' gathering,,,,3,news
+agr:tuyen-bo-chung-ve-nang-cap-quan-he-viet-nam-azerbaijan-len-oi-tac-chien-luoc,Agreement,Tuyên bố chung về nâng cấp quan hệ Việt Nam - Azerbaijan lên Đối tác Chiến lược,,,,2,news
+evt:geneva-talks,Event,Geneva Talks,,,,2,news
+agr:aid-agreement,Agreement,aid agreement,,,,2,news
+agr:sister-city-cooperation-agreement,Agreement,Sister City Cooperation Agreement,,,,2,news
+agr:safe-zone-agreement,Agreement,safe zone agreement,,,,2,news
+evt:g20-summit-2023,Event,G20 Summit 2023,,,,2,news
+evt:nato-summit-in-madrid,Event,NATO Summit in Madrid,,,,3,news
+agr:cepa,Agreement,CEPA,,,,4,news
+agr:mou-on-cooperation-2022-2026,Agreement,MoU on Cooperation 2022-2026,,,,2,news
+agr:legal-cooperation-agreement-on-criminal-matters,Agreement,legal cooperation agreement on criminal matters,,,,2,news
+evt:talks-in-warsaw,Event,Talks in Warsaw,,,,2,news
+agr:offshore-processing-agreements,Agreement,offshore processing agreements,,,,4,news
+evt:apec-2024,Event,APEC 2024,,,,6,news
+agr:joint-declaration-on-upgrading-relations-to-strategic-partnership,Agreement,Joint Declaration on Upgrading Relations to Strategic Partnership,,,,2,news
+evt:ukraine-recovery-conference,Event,Ukraine Recovery Conference,,,,3,news
+evt:state-visit-to-china,Event,State Visit to China,,,,2,news
+agr:thoa-thuan-hop-tac-giua-hai-quoc-hoi-viet-nam-armenia,Agreement,Thỏa thuận hợp tác giữa hai Quốc hội Việt Nam - Armenia,,,,2,news
+agr:rome-treaty,Agreement,Rome Treaty,,,,2,news
+agr:joint-statement-on-icc-support,Agreement,joint statement on ICC support,,,,2,news
+agr:letter-of-intent-on-financial-support-for-czech-weapons-deliveries-to-ukraine,Agreement,Letter of Intent on Financial Support for Czech Weapons Deliveries to Ukraine,,,,3,news
+agr:gas-supply-deal,Agreement,Gas supply deal,,,,2,news
+evt:nelson-mandela-funeral,Event,Nelson Mandela funeral,,,,2,news
+evt:un-millennium-conference,Event,UN Millennium Conference,,,,2,news
+agr:quarantine-free-travel-agreement,Agreement,quarantine-free travel agreement,,,,2,news
+evt:g20-summit,Event,G20 Summit,,,,20,news
+agr:f-16-deal,Agreement,F-16 deal,,,,3,news
+evt:asean-gcc-summit-2023,Event,ASEAN-GCC Summit 2023,,,,3,news
+evt:shanghai-cooperation-organisation-summit,Event,Shanghai Cooperation Organisation Summit,,,,3,news
+agr:asean-uk-action-plan-2027-2031,Agreement,ASEAN-UK Action Plan 2027-2031,,,,3,news
+evt:shanghai-cooperation-organisation-virtual-summit,Event,Shanghai Cooperation Organisation virtual summit,,,,2,news
+evt:ramstein-airbase-meeting,Event,Ramstein Airbase meeting,,,,2,news
+agr:investment-and-petroleum-financing-agreement,Agreement,investment and petroleum financing agreement,,,,2,news
+evt:unga-80,Event,UNGA 80,,,,2,news
+evt:summit-in-moscow,Event,Summit in Moscow,,,,2,news
+agr:tourism-deal,Agreement,Tourism Deal,,,,2,news
+evt:talks-on-ukraine,Event,Talks on Ukraine,,,,2,news
+evt:talks-at-dolmabahce-palace,Event,talks at Dolmabahçe palace,,,,2,news
+evt:wef-davos-2024,Event,WEF Davos 2024,,,,10,news
+agr:mou-on-energy,Agreement,MoU on Energy,,,,2,news
+evt:apec-2015,Event,APEC 2015,,,,2,news
+evt:sco-summit-2026,Event,SCO Summit 2026,,,,2,news
+agr:agreement-on-afghan-stays,Agreement,agreement on Afghan stays,,,,2,news
+agr:accord-on-avoiding-nuclear-escalation,Agreement,accord on avoiding nuclear escalation,,,,2,news
+evt:beijing-trip,Event,Beijing trip,,,,2,news
+evt:olympics-postponement-talks,Event,Olympics postponement talks,,,,2,news
+evt:hoi-nghi-thuong-inh-hoi-giao,Event,Hội nghị thượng đỉnh Hồi giáo,,,,2,news
+evt:palm10,Event,PALM10,,,,2,news
+evt:canada-italy-talks-toronto,Event,Canada-Italy talks Toronto,,,,2,news
+evt:meeting-in-november,Event,meeting in November,,,,2,news
+evt:g7-meeting,Event,G7 meeting,,,,8,news
+evt:cop29,Event,COP29,,,,2,news
+agr:vaccine-purchase-agreement,Agreement,vaccine purchase agreement,,,,2,news
+agr:joint-declaration-on-ai-partnership,Agreement,Joint Declaration on AI Partnership,,,,2,news
+evt:19th-francophone-summit,Event,19th Francophone Summit,,,,2,news
+agr:joint-statement-on-astrazeneca,Agreement,Joint Statement on AstraZeneca,,,,2,news
+agr:food-system-transformation-cooperation,Agreement,food system transformation cooperation,,,,2,news
+evt:meeting-in-ankara,Event,meeting in Ankara,,,,2,news
+agr:10-year-security-treaty,Agreement,10-year Security Treaty,,,,2,news
+agr:jcpoa,Agreement,JCPOA,,,,8,news
+agr:strategic-resource-access-agreements,Agreement,strategic resource access agreements,,,,4,news
+evt:asean-foreign-ministers-retreat,Event,ASEAN Foreign Ministers' Retreat,,,,2,news
+agr:boeing-aircraft-purchase-deal,Agreement,Boeing aircraft purchase deal,,,,2,news
+evt:eaeu-summit,Event,EAEU Summit,,,,4,news
+agr:double-taxation-avoidance-agreement,Agreement,Double Taxation Avoidance Agreement,,,,2,news
+agr:tech-trade-and-security-ties-deal,Agreement,"tech, trade and security ties deal",,,,2,news
+evt:brics-summit-johannesburg,Event,BRICS Summit Johannesburg,,,,2,news
+agr:protocol-on-permanent-neutralization-of-the-panama-canal,Agreement,Protocol on Permanent Neutralization of the Panama Canal,,,,2,news
+evt:kremlin-meeting,Event,Kremlin meeting,,,,2,news
+evt:moscow-talks,Event,Moscow Talks,,,,2,news
+agr:hop-tac-giao-duc-ao-tao,Agreement,hợp tác giáo dục - đào tạo,,,,3,news
+evt:asean-foreign-ministers-meeting,Event,ASEAN+Foreign Ministers Meeting,,,,3,news
+agr:treaty-declaring-the-baltic-sea-site-a-marine-grave,Agreement,treaty declaring the Baltic Sea site a marine grave,,,,2,news
+agr:brexit-deal,Agreement,Brexit deal,,,,2,news
+agr:joint-memorandum-on-trade-and-technical-cooperation-training-cooperation-mou,Agreement,Joint Memorandum on Trade and Technical Cooperation / Training Cooperation MOU,,,,2,news
+evt:g20-foreign-ministers-meeting,Event,G20 Foreign Ministers Meeting,,,,2,news
+evt:first-summit-between-armenia-and-eu,Event,first summit between Armenia and EU,,,,2,news
+evt:singapore-summit-2018,Event,Singapore summit 2018,,,,2,news
+agr:temporary-covid-19-vaccine-agreement,Agreement,temporary COVID-19 vaccine agreement,,,,2,news
+agr:vaccine-production-accord,Agreement,vaccine production accord,,,,3,news
+evt:summit-in-pyongyang,Event,summit in Pyongyang,,,,2,news
+agr:uk-ukraine-security-agreement,Agreement,UK-Ukraine Security Agreement,,,,2,news
+evt:g7-summit-2026,Event,G7 Summit 2026,,,,2,news
+agr:post-brexit-trade-political-and-security-agreement,Agreement,"post-Brexit trade, political and security agreement",,,,2,news
+agr:joint-statement-on-upgrading-vietnam-canada-relations-to-strategic-partnership,Agreement,Joint Statement on Upgrading Vietnam-Canada Relations to Strategic Partnership,,,,2,news
+agr:chip-export-restriction-agreement,Agreement,chip export restriction agreement,,,,3,news
+agr:strategic-mous-on-minerals,Agreement,strategic MoUs on minerals,,,,2,news
+agr:tourism-agreement,Agreement,tourism agreement,,,,2,news
+evt:commonwealth-of-independent-states-summit,Event,Commonwealth of Independent States Summit,,,,2,news
+evt:who-ministerial-conference-on-malaria,Event,WHO Ministerial Conference on Malaria,,,,2,news
+evt:state-visit-to-laos,Event,State Visit to Laos,,,,2,news
+agr:joint-declaration-on-setting-up-viet-nam-uk-strategic-partnership,Agreement,Joint Declaration on Setting up Viet Nam-UK Strategic Partnership,,,,2,news
+agr:chemical-weapons-destruction-agreement,Agreement,Chemical Weapons Destruction Agreement,,,,2,news
+agr:agreement-on-transition-plans,Agreement,agreement on transition plans,,,,2,news
+evt:un-general-assembly-79th-session,Event,UN General Assembly 79th Session,,,,2,news
+evt:brics-expanded-leaders-conference-kazan,Event,BRICS Expanded Leaders Conference Kazan,,,,2,news
+agr:vietnam-belarus-mfa-cooperation-plan,Agreement,Vietnam-Belarus MFA Cooperation Plan,,,,2,news
+evt:ukraine-defence-contact-group,Event,Ukraine Defence Contact Group,,,,2,news
+evt:moscow-summit,Event,Moscow Summit,,,,2,news
+agr:delimitation-agreement,Agreement,delimitation agreement,,,,4,news
+agr:mou-on-tracking-terrorist-financing,Agreement,MoU on tracking terrorist financing,,,,2,news
+evt:historical-visit-2013,Event,historical visit 2013,,,,2,news
+evt:g20-summit-osaka,Event,G20 Summit Osaka,,,,2,news
+agr:oslo-accords,Agreement,Oslo Accords,,,,2,news
+agr:safe-third-country-agreement,Agreement,safe third country agreement,,,,2,news
+agr:low-tax-treaty,Agreement,low-tax treaty,,,,2,news
+evt:brics-expanded-leaders-conference,Event,BRICS Expanded Leaders Conference,,,,2,news
+evt:antalya-diplomacy-forum,Event,Antalya Diplomacy Forum,,,,2,news
+agr:pact-over-rohingya-repatriation,Agreement,pact over Rohingya repatriation,,,,2,news
+evt:bali-g20,Event,Bali G20,,,,2,news
+evt:gaza-peace-council-inaugural-meeting,Event,Gaza Peace Council Inaugural Meeting,,,,10,news
+agr:energy-agreement,Agreement,Energy agreement,,,,4,news
+evt:assisi-2018,Event,Assisi 2018,,,,2,news
+agr:deal-on-diplomatic-recognition,Agreement,deal on diplomatic recognition,,,,2,news
+evt:joint-committee-meeting,Event,Joint Committee Meeting,,,,2,news
+agr:40m-deal,Agreement,$40m deal,,,,2,news
+agr:vietnamangola-party-cooperation-agreement-2024-2029,Agreement,Vietnam–Angola Party Cooperation Agreement 2024-2029,,,,2,news
+agr:cooperation-agreement-between-the-ministry-of-public-security-of-vietnam-and-the-ministry-of-internal-affairs-of-cuba-2018,Agreement,Cooperation Agreement between the Ministry of Public Security of Vietnam and the Ministry of Internal Affairs of Cuba (2018),,,,2,news
+evt:vesak-2025,Event,Vesak 2025,,,,2,news
+evt:asean-post-2026,Event,ASEAN Post-2026,,,,2,news
+agr:cooperation-agreement-between-the-national-assembly-of-vietnam-and-singapore,Agreement,Cooperation Agreement between the National Assembly of Vietnam and Singapore,,,,2,news
+evt:ventotene-trilateral-talks,Event,Ventotene trilateral talks,,,,3,news
+agr:2015-comfort-women-agreement,Agreement,2015 comfort women agreement,,,,2,news
+evt:asean-future-forum,Event,ASEAN Future Forum,,,,2,news
+evt:pre-nato-summit-meeting,Event,pre-Nato summit meeting,,,,2,news
+evt:hoi-nghi-thuong-inh-khong-gian-vu-tru,Event,Hội nghị Thượng đỉnh không gian vũ trụ,,,,2,news
+evt:space-summit,Event,Space Summit,,,,6,news
+agr:memorandum-of-understanding-on-energy-and-oil-gas-cooperation,Agreement,memorandum of understanding on energy and oil-gas cooperation,,,,2,news
+evt:asean-eu-summit-45th-anniversary,Event,ASEAN-EU Summit 45th anniversary,,,,2,news
+evt:oecd-meeting,Event,OECD Meeting,,,,3,news
+evt:five-eyes-meeting,Event,Five Eyes meeting,,,,2,news
+evt:brexit-withdrawal-agreement-talks,Event,Brexit withdrawal agreement talks,,,,2,news
+evt:arctic-council-meeting,Event,Arctic Council meeting,,,,2,news
+evt:19th-non-aligned-movement-summit,Event,19th Non-Aligned Movement Summit,,,,2,news
+agr:mutual-defence-treaty,Agreement,mutual defence treaty,,,,2,news
+evt:osce-foreign-ministers-meeting,Event,OSCE foreign ministers meeting,,,,2,news
+agr:hop-tac-trong-khuon-kho-vanh-ai-kinh-te-con-uong-to-lua-sreb-va-con-uong-to-lua-tren-bien-trong-the-ky-21-msr,Agreement,"Hợp tác trong khuôn khổ Vành đai kinh tế, Con đường Tơ lụa (SREB) và Con đường Tơ lụa trên biển trong thế kỷ 21 (MSR)",,,,2,news
+evt:state-visit-to-singapore,Event,State visit to Singapore,,,,2,news
+evt:abraham-accords-anniversary-meeting,Event,Abraham Accords anniversary meeting,,,,2,news
+evt:meeting-on-14-september,Event,Meeting on 14 September,,,,2,news
+evt:19th-francophonie-summit-2024,Event,19th Francophonie Summit 2024,,,,2,news
+agr:price-cap-on-russian-oil,Agreement,Price cap on Russian oil,,,,3,news
+agr:alliance-treaty,Agreement,alliance treaty,,,,2,news
+agr:framework-for-trade-and-investment-promotion,Agreement,Framework for Trade and Investment Promotion,,,,4,news
+agr:good-friday-agreement,Agreement,Good Friday Agreement,,,,2,news
+evt:bilateral-talks-in-sydney,Event,bilateral talks in Sydney,,,,2,news
+evt:wef-annual-meeting,Event,WEF Annual Meeting,,,,2,news
+agr:migrant-transfer-agreement,Agreement,migrant transfer agreement,,,,2,news
+evt:ausmin-consultations,Event,Ausmin Consultations,,,,3,news
+agr:deal-to-secure-release-of-abdalla-hamdok,Agreement,deal to secure release of Abdalla Hamdok,,,,2,news
+evt:meeting-of-foreign-ministers-in-potsdam,Event,meeting of foreign ministers in Potsdam,,,,2,news
+agr:cooperation-agreement-on-rainforest-conservation,Agreement,Cooperation Agreement on Rainforest Conservation,,,,3,news
+agr:agreement-concerning-the-chagos-archipelago,Agreement,Agreement concerning the Chagos archipelago,,,,2,news
+evt:eu-au-summit-2017,Event,EU-AU Summit 2017,,,,2,news
+agr:doha-agreement,Agreement,Doha agreement,,,,4,news
+evt:munich-conference,Event,Munich Conference,,,,2,news
+evt:nato-foreign-ministers-meeting,Event,NATO Foreign Ministers Meeting,,,,2,news
+evt:state-visit-to-france,Event,State Visit to France,,,,2,news
+evt:papal-visit,Event,papal visit,,,,2,news
+evt:alba-summit,Event,ALBA Summit,,,,2,news
+agr:visa-exemption,Agreement,Visa Exemption,,,,2,news
+agr:euro-usage-agreement,Agreement,euro usage agreement,,,,5,news
+evt:us-iraq-meeting-in-baghdad,Event,US-Iraq meeting in Baghdad,,,,2,news
+evt:19th-non-aligned-movement-conference,Event,19th Non-Aligned Movement Conference,,,,2,news
+evt:naples-summit,Event,Naples Summit,,,,2,news
+agr:oil-output-cut-deal,Agreement,oil output cut deal,,,,2,news
+evt:bolivarian-summit,Event,Bolivarian Summit,,,,2,news
+agr:long-term-electricity-trade-agreement,Agreement,Long-term electricity trade agreement,,,,2,news
+agr:vaccine-agreement,Agreement,vaccine agreement,,,,2,news
+agr:prespa-agreement,Agreement,Prespa Agreement,,,,2,news
+agr:joint-statement-of-commitment,Agreement,Joint Statement of Commitment,,,,2,news
+evt:quad-meeting,Event,Quad meeting,,,,2,news
+agr:chagos-islands-agreement,Agreement,Chagos Islands Agreement,,,,2,news
+agr:electricity-natural-gas-swap-agreement,Agreement,electricity/natural gas swap agreement,,,,2,news
+agr:usmca,Agreement,USMCA,,,,2,news
+evt:cis-summit,Event,CIS Summit,,,,2,news
+agr:lobito-corridor-expansion-agreement,Agreement,Lobito Corridor expansion agreement,,,,2,news
+agr:mercosur-eu-trade-deal,Agreement,Mercosur-EU Trade Deal,,,,2,news
+agr:chagos-islands-sovereignty-transfer-agreement,Agreement,Chagos Islands sovereignty transfer agreement,,,,2,news
+evt:eu-mini-summit,Event,EU mini-summit,,,,2,news
+agr:strategic-minerals-supply-chain-framework,Agreement,strategic minerals supply chain framework,,,,2,news
+evt:cis-heads-of-state-meeting,Event,CIS Heads of State Meeting,,,,2,news
+evt:wef-tianjin,Event,WEF Tianjin,,,,2,news
+evt:emergency-meeting,Event,emergency meeting,,,,2,news
+agr:eumercosur-free-trade-agreement,Agreement,EU–Mercosur Free Trade Agreement,,,,2,news
+agr:chagos-islands-sovereignty-treaty,Agreement,Chagos Islands sovereignty treaty,,,,2,news
+agr:chagos-islands-return-deal,Agreement,Chagos Islands return deal,,,,2,news
+agr:parliamentary-cooperation-memorandum,Agreement,parliamentary cooperation memorandum,,,,2,news
+evt:quad-summit,Event,Quad Summit,,,,4,news
+agr:chagos-islands-sovereignty-deal,Agreement,Chagos Islands sovereignty deal,,,,2,news
+agr:transfer-of-sovereignty-of-the-chagos-islands,Agreement,transfer of sovereignty of the Chagos Islands,,,,2,news
+agr:eu-mercosur-trade-agreement,Agreement,EU-Mercosur Trade Agreement,,,,2,news
+agr:eu-india-trade-agreement,Agreement,EU-India Trade Agreement,,,,2,news
+agr:chagos-islands-sovereignty-agreement,Agreement,Chagos Islands sovereignty agreement,,,,2,news
+agr:chagos-islands-handover-deal,Agreement,Chagos Islands handover deal,,,,2,news
+evt:ventotene-summit-2016,Event,Ventotene Summit 2016,,,,2,news
+agr:treaty-to-transfer-sovereignty-over-the-chagos-islands,Agreement,treaty to transfer sovereignty over the Chagos Islands,,,,2,news
+agr:chagos-islands-deal,Agreement,Chagos Islands deal,,,,2,news
+agr:nafta,Agreement,NAFTA,,,,2,news
+agr:chagos-islands-sovereignty-transfer,Agreement,Chagos Islands sovereignty transfer,,,,2,news
+evt:quad-foreign-ministers-meeting,Event,Quad foreign ministers meeting,,,,2,news
+agr:eu-indonesia-agreement,Agreement,EU-Indonesia agreement,,,,2,news
+agr:eu-switzerland-agreement,Agreement,EU-Switzerland agreement,,,,2,news
+agr:mercosur-deal,Agreement,Mercosur deal,,,,2,news
+agr:eu-mexico-agreement,Agreement,EU-Mexico agreement,,,,2,news
+evt:regional-summit-on-eastern-drc,Event,regional summit on eastern DRC,,,,2,news
+evt:commonwealth-summit,Event,Commonwealth Summit,,,,4,news
+agr:political-deal,Agreement,political deal,,,,2,news
+agr:minerals-and-security-agreement,Agreement,Minerals and Security Agreement,,,,2,news
+evt:apec-31,Event,APEC 31,,,,2,news
+agr:belt-and-road-initiative-bri,Agreement,Belt and Road Initiative (BRI),,,,2,news
+evt:apec-trilateral-meeting,Event,APEC Trilateral Meeting,,,,3,news
+evt:apec-summit-2025,Event,APEC Summit 2025,,,,2,news
+evt:apec-summit-november-2023,Event,APEC Summit November 2023,,,,2,news
+evt:apec-summit-2024,Event,APEC Summit 2024,,,,2,news
+evt:apec-week-2023,Event,APEC Week 2023,,,,2,news
+evt:apec-2027,Event,APEC 2027,,,,2,news
+evt:apec-summit-california-november-2023,Event,APEC Summit California November 2023,,,,2,news
+evt:apec-peru,Event,APEC Peru,,,,3,news
+evt:london-bilateral-talks,Event,London bilateral talks,,,,2,news
+evt:india-uk-tech-summit-2016,Event,India-UK Tech Summit 2016,,,,2,news
+evt:meeting-with-indian-foreign-minister-in-tokyo,Event,Meeting with Indian Foreign Minister in Tokyo,,,,2,news
+evt:pm-level-talks,Event,PM-level talks,,,,2,news
+evt:wef-dalian-summit,Event,WEF Dalian Summit,,,,2,news
+evt:international-summit-on-food-security,Event,international summit on food security,,,,2,news
+evt:european-political-community-summit,Event,European Political Community summit,,,,2,news
+agr:joint-declaration-on-upgrading-vietnam-slovakia-relations-to-strategic-partnership,Agreement,Joint Declaration on upgrading Vietnam-Slovakia relations to Strategic Partnership,,,,2,news
+evt:hanoi-summit-2019,Event,Hanoi Summit 2019,,,,2,news
+agr:safe-passage-agreement,Agreement,safe passage agreement,,,,2,news
+evt:arab-league-summit,Event,Arab League Summit,,,,2,news
+evt:g20-summit-2017,Event,G20 Summit 2017,,,,2,news
+evt:p4g-summit,Event,P4G Summit,,,,2,news
+evt:meeting-in-beijing,Event,meeting in Beijing,,,,2,news
+evt:sco-summit,Event,SCO Summit,,,,6,news
+agr:sierra-leoneun-special-court-agreement,Agreement,Sierra Leone–UN Special Court agreement,,,,2,news
+agr:treaty-of-friendship-cooperation-and-mutual-assistance,Agreement,"Treaty of Friendship, Cooperation and Mutual Assistance",,,,2,news
+evt:asean-summit-44th-45th,Event,ASEAN Summit 44th-45th,,,,2,news
+agr:10-year-security-cooperation-agreement,Agreement,10-year security cooperation agreement,,,,3,news
+evt:australia-asean-summit,Event,Australia-Asean Summit,,,,2,news
+evt:summit-in-kyiv,Event,Summit in Kyiv,,,,2,news
+agr:memorandum-on-agricultural-cooperation,Agreement,Memorandum on Agricultural Cooperation,,,,2,news
+evt:wef-dalian-2024,Event,WEF Dalian 2024,,,,2,news
+evt:asean-australia-special-summit-50th-anniversary,Event,ASEAN-Australia Special Summit 50th Anniversary,,,,2,news
+agr:three-way-transit-accord,Agreement,three-way transit accord,,,,2,news
+agr:compromise-deal,Agreement,compromise deal,,,,2,news
+agr:oil-deal,Agreement,oil deal,,,,2,news
+agr:cooperation-agreement-2023,Agreement,cooperation agreement 2023,,,,2,news
+agr:cofa,Agreement,COFA,,,,4,news
+evt:eu-us-summit,Event,EU-US Summit,,,,3,news
+evt:6th-mexico-brazil-joint-commission,Event,6th Mexico-Brazil Joint Commission,,,,2,news
+evt:asian-security-forum,Event,Asian security forum,,,,2,news
+agr:schengen-agreement,Agreement,Schengen Agreement,,,,4,news
+evt:g7-summit-2019,Event,G7 Summit 2019,,,,2,news
+agr:energy-access-agreements,Agreement,energy access agreements,,,,2,news
+agr:vietnam-new-zealand-action-programme,Agreement,Vietnam-New Zealand Action Programme,,,,2,news
+agr:compact-of-free-association,Agreement,Compact of Free Association,,,,4,news
+evt:bilateral-meeting-on-migration,Event,bilateral meeting on migration,,,,2,news
+agr:tariff-pause-deal,Agreement,tariff pause deal,,,,2,news
+evt:bilateral-meeting-in-bishkek,Event,bilateral meeting in Bishkek,,,,2,news
+evt:amm-59,Event,AMM 59,,,,2,news
+agr:mutual-defence-agreement,Agreement,mutual defence agreement,,,,3,news
+agr:key-agreement,Agreement,key agreement,,,,2,news
+evt:g20-summit-in-hamburg,Event,G20 summit in Hamburg,,,,2,news
+evt:hiroshima-summit,Event,Hiroshima Summit,,,,2,news
+agr:readmission-agreement,Agreement,readmission agreement,,,,2,news
+agr:memorandum-of-cooperation-on-parliamentary-partnership,Agreement,Memorandum of Cooperation on Parliamentary Partnership,,,,2,news
+agr:extradition-treaty,Agreement,extradition treaty,,,,4,news
+agr:memorandum-of-understanding-on-parliamentary-cooperation,Agreement,Memorandum of Understanding on Parliamentary Cooperation,,,,2,news
+agr:vaccination-pause-agreement,Agreement,vaccination pause agreement,,,,2,news
+agr:package-21,Agreement,Package 21,,,,2,news
+agr:treaty-on-alliance-relations,Agreement,Treaty on Alliance Relations,,,,2,news
+evt:g7-summit-2025,Event,G7 Summit 2025,,,,3,news
+agr:tariff-proposal-on-russian-and-belarusian-grain,Agreement,Tariff proposal on Russian and Belarusian grain,,,,3,news
+agr:use-of-frozen-russian-assets-to-support-ukraine,Agreement,Use of frozen Russian assets to support Ukraine,,,,2,news
+agr:vefta,Agreement,VEFTA,,,,2,news
+evt:astana-meeting,Event,Astana meeting,,,,3,news
+evt:shangri-la-dialogue-23,Event,Shangri-la Dialogue 23,,,,2,news
+agr:eu-turkey-refugee-deal,Agreement,EU-Turkey refugee deal,,,,2,news
+agr:repatriation-agreement,Agreement,repatriation agreement,,,,2,news
+evt:geneva-conference,Event,Geneva conference,,,,3,news
+agr:mou-on-intelligence,Agreement,MoU on intelligence,,,,2,news
+agr:channel-patrol-deal,Agreement,Channel patrol deal,,,,2,news
+agr:asean-south-korea-strategic-partnership,Agreement,ASEAN - South Korea Strategic Partnership,,,,2,news
+evt:four-way-meeting,Event,four-way meeting,,,,4,news
+evt:wef-2026,Event,WEF 2026,,,,2,news
+agr:military-bases-agreement,Agreement,Military Bases Agreement,,,,2,news
+evt:talks-in-cairo,Event,talks in Cairo,,,,2,news
+agr:eu-india-free-trade-agreement,Agreement,EU-India Free Trade Agreement,,,,2,news
+agr:defense-education-and-tourism-cooperation-documents,Agreement,"defense, education and tourism cooperation documents",,,,2,news
+evt:australia-japan-2-2-ministerial-consultations,Event,Australia-Japan 2+2 Ministerial Consultations,,,,2,news
+agr:eu-recovery-deal,Agreement,EU recovery deal,,,,2,news
+evt:european-forum-alpbach,Event,European Forum Alpbach,,,,2,news
+agr:brahmos-missile-system-agreement,Agreement,BrahMos missile system agreement,,,,2,news
+agr:education-cooperation-agreement,Agreement,Education Cooperation Agreement,,,,2,news
+agr:cooperation-agreement-on-estc,Agreement,Cooperation Agreement on ESTC,,,,2,news
+agr:single-market-programme-agreement,Agreement,single market programme agreement,,,,2,news
+agr:aukus,Agreement,AUKUS,,,,3,news
+agr:agreement-on-principles,Agreement,agreement on principles,,,,2,news
+agr:wildfire-assistance-agreement,Agreement,wildfire assistance agreement,,,,2,news
+evt:asia-summit,Event,Asia Summit,,,,2,news
+agr:ukraine-finland-security-cooperation-agreement,Agreement,Ukraine-Finland Security Cooperation Agreement,,,,2,news
+agr:economic-cooperation-guidelines,Agreement,economic cooperation guidelines,,,,2,news
+agr:vaccine-supply-agreement,Agreement,vaccine supply agreement,,,,2,news
+agr:five-year-agreement-on-health-tech-and-security,Agreement,"five-year agreement on health, tech and security",,,,2,news
+evt:asean-australia-summit,Event,ASEAN-Australia summit,,,,2,news
+evt:talks-in-tokyo,Event,talks in Tokyo,,,,2,news
+evt:munich-meeting,Event,Munich Meeting,,,,2,news
+evt:golf-meeting,Event,Golf Meeting,,,,2,news
+agr:foreign-assistance-act,Agreement,Foreign Assistance Act,,,,2,news
+agr:1965-treaty,Agreement,1965 Treaty,,,,2,news
+evt:world-health-assembly,Event,World Health Assembly,,,,2,news
+agr:gas-contracts,Agreement,gas contracts,,,,2,news
+evt:brics-summit-18,Event,BRICS Summit 18,,,,2,news
+evt:mekonglancang-cooperation-foreign-ministers-meeting,Event,Mekong–Lancang Cooperation Foreign Ministers' Meeting,,,,2,news
+evt:oval-office-meeting,Event,Oval Office meeting,,,,2,news
+agr:wheat-production-agreement,Agreement,Wheat Production Agreement,,,,2,news
+agr:expulsion-agreement,Agreement,expulsion agreement,,,,2,news
+evt:parade-in-beijing,Event,Parade in Beijing,,,,3,news
+evt:crucial-summit,Event,crucial summit,,,,2,news
+evt:eu-league-of-arab-states-summit,Event,EU-League of Arab States Summit,,,,2,news
+agr:joint-ventures-in-oil-gas-transport-and-logistics,Agreement,"Joint Ventures in Oil, Gas, Transport and Logistics",,,,2,news
+agr:enhanced-trade-partnership-agreement,Agreement,enhanced trade partnership agreement,,,,2,news
+agr:defense-equipment-cooperation-agreement,Agreement,defense equipment cooperation agreement,,,,2,news
+agr:drone-deal,Agreement,Drone Deal,,,,3,news
+agr:black-sea-grain-initiative,Agreement,Black Sea Grain Initiative,,,,4,news
+evt:eu-leaders-meeting,Event,EU leaders meeting,,,,4,news
+agr:treaty-of-friendship-and-cooperation,Agreement,Treaty of Friendship and Cooperation,,,,2,news
+evt:afghanistan-talks,Event,Afghanistan talks,,,,2,news
+evt:versailles-visit,Event,Versailles visit,,,,2,news
+agr:eu-defence-programme-access-and-funding-agreement,Agreement,EU defence programme access and funding agreement,,,,2,news
+agr:infrastructure-energy-maritime-agriculture-agreements,Agreement,infrastructure/energy/maritime/agriculture agreements,,,,2,news
+agr:japan-italy-supply-agreement-treaty,Agreement,Japan-Italy Supply Agreement Treaty,,,,2,news
+agr:90bn-support-loan,Agreement,€90bn support loan,,,,2,news
+evt:asean-ministerial-meeting,Event,ASEAN Ministerial Meeting,,,,2,news
+agr:fta-with-eu,Agreement,FTA with EU,,,,2,news
+agr:fta-with-south-korea,Agreement,FTA with South Korea,,,,2,news
+agr:gas-deal,Agreement,gas deal,,,,2,news
+evt:mar-a-lago-summit,Event,Mar-a-Lago summit,,,,2,news
+evt:us-nordic-leaders-summit,Event,US-Nordic leaders' summit,,,,2,news
+evt:nga-trieu-tien-summit-thang-6-2024,Event,Nga - Triều Tiên summit tháng 6/2024,,,,2,news
+agr:ban-ghi-nho-ve-hop-tac-giua-bo-ngoai-giao-viet-nam-va-uy-ban-ecowas,Agreement,Bản ghi nhớ về hợp tác giữa Bộ Ngoại giao Việt Nam và Ủy ban ECOWAS,,,,2,news
+agr:joint-statement-on-elevating-strategic-partnership,Agreement,joint statement on elevating strategic partnership,,,,2,news
+evt:hoi-am-tai-brussels,Event,hội đàm tại Brussels,,,,2,news
+agr:bilateral-measures-agreement,Agreement,bilateral measures agreement,,,,2,news
+agr:ambassador-resumption-agreement,Agreement,ambassador resumption agreement,,,,2,news
+agr:3-year-loan-program,Agreement,3-year loan program,,,,2,news
+agr:patria-maintenance-cooperation-agreement,Agreement,Patria maintenance cooperation agreement,,,,2,news
+agr:weapons-deal,Agreement,weapons deal,,,,2,news
+agr:project-agreement,Agreement,project agreement,,,,2,news
+evt:notre-dame-reopening,Event,Notre Dame reopening,,,,2,news
+evt:talks-in-paris,Event,Talks in Paris,,,,2,news
+agr:mou-on-countering-misinformation,Agreement,MoU on countering misinformation,,,,2,news
+agr:memorandum-of-understanding-on-cultural-cooperation,Agreement,Memorandum of Understanding on Cultural Cooperation,,,,2,news
+agr:2021-agreement,Agreement,2021 Agreement,,,,2,news
+evt:official-visit-dec-2024,Event,Official Visit Dec 2024,,,,2,news
+evt:state-visit-to-denmark-2026,Event,State Visit to Denmark 2026,,,,4,news
+agr:mou-on-digital-transformation-and-education,Agreement,MoU on digital transformation and education,,,,2,news
+agr:vietnam-eaeu-free-trade-agreement,Agreement,Vietnam-EAEU Free Trade Agreement,,,,2,news
+evt:afghanistan-reconciliation-talks,Event,Afghanistan reconciliation talks,,,,2,news
+agr:free-trade-area-agreement,Agreement,free trade area agreement,,,,2,news
+agr:vn-eaeu-fta,Agreement,VN-EAEU FTA,,,,2,news
+agr:rcep,Agreement,RCEP,,,,8,news
+evt:oslo-peace-process,Event,Oslo peace process,,,,2,news
+agr:akfta,Agreement,AKFTA,,,,2,news
+agr:eaeu-vietnam-agreement,Agreement,EAEU-Vietnam Agreement,,,,2,news
+agr:acfta,Agreement,ACFTA,,,,2,news
+evt:european-council-summit,Event,European Council summit,,,,11,news
+agr:cfe-treaty,Agreement,CFE Treaty,,,,2,news
+agr:vietnam-korea-fta,Agreement,Vietnam-Korea FTA,,,,2,news
+agr:acfta-rcep,Agreement,"ACFTA, RCEP",,,,2,news
+agr:oslo-agreement,Agreement,Oslo agreement,,,,2,news
+evt:cop28,Event,COP28,,,,4,news
+agr:cptpp,Agreement,CPTPP,,,,3,news
+evt:preliminary-meeting,Event,preliminary meeting,,,,2,news
+evt:davos-forum-2026,Event,Davos Forum 2026,,,,2,news
+agr:cptpp-accession-document,Agreement,CPTPP Accession Document,,,,2,news
+evt:7th-cptpp-ministerial-council,Event,7th CPTPP Ministerial Council,,,,2,news
+agr:ai-campus-agreement,Agreement,AI campus agreement,,,,2,news
+evt:unhrc-55th-session,Event,UNHRC 55th Session,,,,2,news
+agr:us-taliban-deal-2020,Agreement,US-Taliban Deal 2020,,,,2,news
+agr:ai-campus-deal,Agreement,AI campus deal,,,,2,news
+agr:coronavirus-vaccine-supply-agreement,Agreement,coronavirus vaccine supply agreement,,,,2,news
+evt:55th-session-of-the-un-human-rights-council,Event,55th session of the UN Human Rights Council,,,,2,news
+agr:us-taliban-agreement,Agreement,US-Taliban Agreement,,,,2,news
+agr:withdrawal-deal,Agreement,withdrawal deal,,,,2,news
+agr:talibanus-prisoner-exchange-agreement,Agreement,Taliban–US prisoner exchange agreement,,,,2,news
+agr:gaza-ceasefire,Agreement,Gaza ceasefire,,,,2,news
+agr:taliban-us-deal,Agreement,Taliban-US deal,,,,2,news
+evt:august-summit,Event,August summit,,,,2,news
+agr:troop-withdrawal-deal,Agreement,troop withdrawal deal,,,,2,news
+evt:g7-summit-2021,Event,G7 Summit 2021,,,,2,news
+agr:vaccine-swap-deal,Agreement,vaccine swap deal,,,,2,news
+agr:us-taliban-deal,Agreement,US-Taliban deal,,,,2,news
+agr:fta-agreements-with-japan,Agreement,FTA agreements with Japan,,,,2,news
+agr:fta-agreements-with-asean,Agreement,FTA agreements with ASEAN,,,,2,news
+agr:fta-agreements-with-south-korea,Agreement,FTA agreements with South Korea,,,,2,news
+agr:withdrawal-agreement,Agreement,withdrawal agreement,,,,2,news
+agr:taliban-us-agreement,Agreement,Taliban-US agreement,,,,2,news
+agr:eu-us-trade-deal,Agreement,EU-US trade deal,,,,2,news
+agr:refugee-repatriation-agreement,Agreement,refugee repatriation agreement,,,,2,news
+agr:deal-to-end-the-middle-east-war,Agreement,deal to end the Middle East war,,,,2,news
+agr:oslo-peace-agreement,Agreement,Oslo Peace Agreement,,,,2,news
+evt:qatar-mediated-ceasefire-talks,Event,Qatar-mediated ceasefire talks,,,,3,news
+agr:ai-regulation-deal,Agreement,AI regulation deal,,,,2,news
+agr:framework-agreement-on-ai-cooperation,Agreement,Framework Agreement on AI Cooperation,,,,2,news
+agr:migration-and-asylum-pact,Agreement,migration and asylum pact,,,,2,news
+agr:taliban-us-agreement-2020,Agreement,Taliban-US Agreement 2020,,,,2,news
+evt:european-leaders-summit,Event,European leaders' summit,,,,2,news
+agr:anti-drone-system-agreement,Agreement,anti-drone system agreement,,,,2,news
+agr:deal-with-taliban,Agreement,deal with Taliban,,,,2,news
+evt:eu-china-summit,Event,EU-China Summit,,,,3,news
+agr:maritime-and-gas-field-demarcation-agreement,Agreement,maritime and gas field demarcation agreement,,,,2,news
+evt:secret-talks-in-qatar,Event,secret talks in Qatar,,,,2,news
+evt:direct-talks,Event,direct talks,,,,2,news
+evt:afghan-peace-talks,Event,Afghan peace talks,,,,2,news
+agr:border-conflict-termination-agreement,Agreement,border conflict termination agreement,,,,2,news
+evt:14th-sanctions-package,Event,14th sanctions package,,,,2,news
+evt:egypt-talks,Event,Egypt talks,,,,2,news
+evt:egypt-israel-hamas-talks,Event,Egypt-Israel-Hamas talks,,,,2,news
+agr:joint-statement-on-pilot-zones,Agreement,joint statement on pilot zones,,,,2,news
+agr:interim-deal,Agreement,interim deal,,,,2,news
+agr:agreement-to-end-fighting-between-israel-and-hezbollah,Agreement,agreement to end fighting between Israel and Hezbollah,,,,2,news
+agr:14-point-framework-agreement,Agreement,14-point framework agreement,,,,2,news
+evt:indirect-talks-in-doha,Event,Indirect Talks in Doha,,,,2,news
+agr:ceasefire-and-hostage-deal,Agreement,ceasefire and hostage deal,,,,2,news
+agr:gaza-ceasefire-and-hostage-exchange-deal,Agreement,Gaza ceasefire and hostage exchange deal,,,,2,news
+agr:ceasefire-and-hostage-release-deal,Agreement,ceasefire and hostage release deal,,,,3,news
+agr:ceasefire-for-hostages-deal,Agreement,ceasefire-for-hostages deal,,,,2,news
+agr:ceasefire-and-hostage-prisoner-swap-deal,Agreement,Ceasefire and hostage-prisoner swap deal,,,,2,news
+agr:hostages-for-prisoners-swap-deal,Agreement,Hostages for prisoners swap deal,,,,2,news
+agr:ceasefire-for-prisoners-deal,Agreement,ceasefire for prisoners deal,,,,2,news
+evt:gaza-ceasefire-talks,Event,Gaza ceasefire talks,,,,2,news
+evt:ceasefire-talks-in-gaza,Event,Ceasefire talks in Gaza,,,,2,news
+evt:egypt-indirect-talks,Event,Egypt Indirect Talks,,,,2,news
+agr:ceasefire-and-prisoner-swap-deal,Agreement,ceasefire and prisoner-swap deal,,,,2,news
+agr:hostage-exchange-deal,Agreement,Hostage exchange deal,,,,2,news
+agr:gaza-ceasefire-and-hostage-release-deal,Agreement,Gaza ceasefire and hostage release deal,,,,2,news
+agr:gaza-deal,Agreement,Gaza deal,,,,2,news
+evt:cairo-talks,Event,Cairo talks,,,,2,news
+agr:gaza-ceasefire-deal,Agreement,Gaza ceasefire deal,,,,2,news
+agr:hostage-ceasefire-deal,Agreement,hostage-ceasefire deal,,,,2,news
+agr:israel-hamas-hostage-deal,Agreement,Israel-Hamas hostage deal,,,,2,news
+agr:hostage-deal,Agreement,hostage deal,,,,2,news
+agr:hostage-swap-deal,Agreement,hostage swap deal,,,,2,news
+agr:hostage-and-prisoner-release-agreement,Agreement,hostage and prisoner release agreement,,,,2,news
+agr:exchange-deal,Agreement,exchange deal,,,,2,news
+agr:ceasefire-extension-deal,Agreement,Ceasefire Extension Deal,,,,2,news
+agr:gaza-ceasefire-extension,Agreement,Gaza ceasefire extension,,,,3,news
+agr:ceasefire-extension-agreement,Agreement,ceasefire extension agreement,,,,2,news
+agr:hostage-release-agreement,Agreement,hostage release agreement,,,,2,news
+agr:phase-one-ceasefire-agreement,Agreement,phase one ceasefire agreement,,,,2,news
+agr:phase-one-peace-agreement,Agreement,phase one peace agreement,,,,2,news
+agr:disarmament-agreement,Agreement,disarmament agreement,,,,2,news
+agr:humanitarian-deal,Agreement,humanitarian deal,,,,2,news
+evt:talks-in-turkey,Event,talks in Turkey,,,,2,news
+agr:renewal-of-deal-with-un-backed-government,Agreement,Renewal of deal with UN-backed government,,,,2,news
+agr:cooperation-agreement-2026-2031,Agreement,Cooperation Agreement 2026-2031,,,,2,news
+agr:mou-on-agriculture,Agreement,MoU on agriculture,,,,2,news
+agr:nato-style-defence-pact,Agreement,Nato-style defence pact,,,,3,news
+evt:eu-egypt-investment-conference,Event,EU-Egypt Investment Conference,,,,2,news
+agr:letter-of-intent-on-air-defense-cooperation,Agreement,letter of intent on air defense cooperation,,,,2,news
+agr:uk-eu-strategic-partnership,Agreement,UK-EU Strategic Partnership,,,,2,news
+agr:gas-supplies-deal,Agreement,gas supplies deal,,,,2,news
+agr:geneva-agreement,Agreement,Geneva agreement,,,,3,news
+evt:march-meeting,Event,March meeting,,,,2,news
+evt:un-ocean-conference-2025,Event,UN Ocean Conference 2025,,,,2,news
+agr:north-atlantic-treaty,Agreement,North Atlantic Treaty,,,,11,news
+agr:labor-cooperation-agreement,Agreement,Labor Cooperation Agreement,,,,2,news
+agr:jewel-program-loi,Agreement,JEWEL Program LoI,,,,2,news
+evt:asean-48th-summit,Event,ASEAN 48th Summit,,,,2,news
+agr:imf-15-6bn-loan-program,Agreement,IMF $15.6bn loan program,,,,2,news
+evt:annual-trilateral-meeting,Event,Annual Trilateral Meeting,,,,2,news
+evt:future-summit,Event,Future Summit,,,,2,news
+agr:security-assistance-agreement,Agreement,Security Assistance Agreement,,,,2,news
+evt:russia-kazakhstan-forum,Event,Russia-Kazakhstan forum,,,,2,news
+agr:airport-and-naval-base-lease-agreement,Agreement,airport and naval base lease agreement,,,,2,news
+agr:mutual-assistance-agreement,Agreement,mutual assistance agreement,,,,3,news
+agr:kensington-treaty,Agreement,Kensington treaty,,,,2,news
+agr:currency-swap-agreement,Agreement,currency swap agreement,,,,2,news
+evt:osce-ministerial-council,Event,OSCE Ministerial Council,,,,2,news
+agr:g7-foreign-ministers-statement,Agreement,G7 foreign ministers statement,,,,2,news
+evt:meetings-in-may-and-july,Event,meetings in May and July,,,,2,news
+agr:minerals-energy-pharmaceuticals-and-aerospace-contracts,Agreement,"minerals, energy, pharmaceuticals and aerospace contracts",,,,2,news
+evt:black-sea-grain-deal-talks,Event,Black Sea Grain Deal Talks,,,,2,news
+agr:singapore-joint-statement,Agreement,Singapore Joint Statement,,,,2,news
+agr:paris-agreement,Agreement,Paris Agreement,,,,2,news
+evt:meeting-in-rome,Event,meeting in Rome,,,,2,news
+evt:organisation-of-islamic-cooperation-meeting,Event,Organisation of Islamic Cooperation meeting,,,,2,news
+agr:iran-nuclear-agreement,Agreement,Iran nuclear agreement,,,,2,news
+agr:5-year-aid-package,Agreement,5-year aid package,,,,2,news
+evt:paris-summit,Event,Paris Summit,,,,2,news
+evt:beijing-winter-olympics-2022,Event,Beijing Winter Olympics 2022,,,,2,news
+agr:vaccine-dose-deal,Agreement,vaccine dose deal,,,,2,news
+agr:mutual-aid-agreement,Agreement,mutual aid agreement,,,,2,news
+agr:bri-framework-agreement,Agreement,BRI Framework Agreement,,,,2,news
+agr:mutual-defense-treaty,Agreement,mutual defense treaty,,,,3,news
+agr:economic-recovery-measures-agreement,Agreement,Economic Recovery Measures Agreement,,,,2,news
+agr:similar-deal,Agreement,similar deal,,,,2,news
+agr:mou-on-tourism-cooperation,Agreement,MoU on tourism cooperation,,,,2,news
+agr:cybersecurity-agreement,Agreement,cybersecurity agreement,,,,2,news
+evt:imcwp-meeting,Event,IMCWP meeting,,,,7,news
+evt:meeting-in-manila,Event,meeting in Manila,,,,2,news
+agr:mou-on-halal-cooperation,Agreement,MoU on Halal cooperation,,,,3,news
+evt:meeting-in-paris,Event,meeting in Paris,,,,5,news
+agr:energy-deals,Agreement,energy deals,,,,2,news
+evt:un-general-assembly-81st-session,Event,UN General Assembly 81st Session,,,,2,news
+agr:bali-nine-repatriation-deal,Agreement,Bali Nine repatriation deal,,,,2,news
+evt:rescue-talks,Event,rescue talks,,,,3,news
+evt:asean-annual-summit,Event,ASEAN Annual Summit,,,,9,news
+agr:action-program-for-comprehensive-strategic-partnership-2024-2027,Agreement,Action Program for Comprehensive Strategic Partnership 2024-2027,,,,2,news
+evt:meeting-between-trump-and-king-abdullah,Event,Meeting between Trump and King Abdullah,,,,2,news
+agr:broad-trade-deal,Agreement,broad trade deal,,,,2,news
+agr:treaty-of-amity-and-cooperation-in-southeast-asia-tac,Agreement,Treaty of Amity and Cooperation in Southeast Asia (TAC),,,,2,news
+evt:hiroshima-meeting,Event,Hiroshima meeting,,,,2,news
+agr:arms-deal,Agreement,arms deal,,,,2,news
+evt:downing-street-summit,Event,Downing Street Summit,,,,2,news
+evt:asean-summit-2025,Event,ASEAN Summit 2025,,,,2,news
+evt:59th-asean-foreign-ministers-meeting,Event,59th ASEAN Foreign Ministers' Meeting,,,,2,news
+agr:nuclear-fuel-deal,Agreement,nuclear fuel deal,,,,2,news
