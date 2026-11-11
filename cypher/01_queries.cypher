@@ -58,4 +58,4 @@ CALL gds.graph.project('diplo', 'Entity',
 CALL gds.pageRank.stream('diplo', {relationshipWeightProperty: 'weight'})
 YIELD nodeId, score
 RETURN gds.util.asNode(nodeId).name AS entity, round(score, 3) AS pagerank ORDER BY pagerank DESC LIMIT 15;
-CALL gds.graph.drop('diplo');
+CALL gds.graph.drop('diplo') YIELD graphName RETURN graphName;
